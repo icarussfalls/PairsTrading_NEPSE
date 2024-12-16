@@ -1,0 +1,7057 @@
+[
+    {
+        "l": "ADBL (Agriculture Development Bank Limited)",
+        "v": "1",
+        "d": "ADBL"
+    },
+    {
+        "l": "CBL (Civil Bank Ltd)",
+        "v": "3",
+        "d": "CBL"
+    },
+    {
+        "l": "CTBNL (Commerz and Trust Bank Nepal Ltd.)",
+        "v": "4",
+        "d": "CTBNL"
+    },
+    {
+        "l": "CZBIL (Citizen Bank International Limited)",
+        "v": "5",
+        "d": "CZBIL"
+    },
+    {
+        "l": "EBL (Everest Bank Limited)",
+        "v": "6",
+        "d": "EBL"
+    },
+    {
+        "l": "GBIME (Global IME Bank Limited)",
+        "v": "7",
+        "d": "GBIME"
+    },
+    {
+        "l": "GRAND (Grand Bank Nepal Limited)",
+        "v": "8",
+        "d": "GRAND"
+    },
+    {
+        "l": "HBL (Himalayan Bank Limited)",
+        "v": "9",
+        "d": "HBL"
+    },
+    {
+        "l": "JBNL (Janata Bank Nepal Ltd.)",
+        "v": "10",
+        "d": "JBNL"
+    },
+    {
+        "l": "KBL (Kumari Bank Limited)",
+        "v": "11",
+        "d": "KBL"
+    },
+    {
+        "l": "KIST (KIST Bank Limited)",
+        "v": "12",
+        "d": "KIST"
+    },
+    {
+        "l": "LBL (Laxmi Bank Limited)",
+        "v": "13",
+        "d": "LBL"
+    },
+    {
+        "l": "LUBL (Lumbini Bank Limited)",
+        "v": "14",
+        "d": "LUBL"
+    },
+    {
+        "l": "MBL (Machhapuchchhre Bank Limited)",
+        "v": "15",
+        "d": "MBL"
+    },
+    {
+        "l": "MEGA (Mega Bank Nepal Ltd.)",
+        "v": "16",
+        "d": "MEGA"
+    },
+    {
+        "l": "NABIL (Nabil Bank Limited)",
+        "v": "17",
+        "d": "NABIL"
+    },
+    {
+        "l": "NBB (Nepal Bangladesh Bank Limited)",
+        "v": "18",
+        "d": "NBB"
+    },
+    {
+        "l": "NBL (Nepal Bank Limited)",
+        "v": "19",
+        "d": "NBL"
+    },
+    {
+        "l": "NCCB (Nepal Credit And Commercial Bank Limited)",
+        "v": "20",
+        "d": "NCCB"
+    },
+    {
+        "l": "NIB (Nepal Investment Bank Limited)",
+        "v": "21",
+        "d": "NIB"
+    },
+    {
+        "l": "NICA (NIC Asia Bank Ltd.)",
+        "v": "22",
+        "d": "NICA"
+    },
+    {
+        "l": "NMB (NMB Bank Limited)",
+        "v": "23",
+        "d": "NMB"
+    },
+    {
+        "l": "PCBL (Prime Commercial Bank Ltd.)",
+        "v": "24",
+        "d": "PCBL"
+    },
+    {
+        "l": "SANIMA (Sanima Bank Limited)",
+        "v": "25",
+        "d": "SANIMA"
+    },
+    {
+        "l": "SBI (Nepal SBI Bank Limited)",
+        "v": "26",
+        "d": "SBI"
+    },
+    {
+        "l": "SBL (Siddhartha Bank Limited)",
+        "v": "27",
+        "d": "SBL"
+    },
+    {
+        "l": "SCB (Standard Chartered Bank Limited)",
+        "v": "28",
+        "d": "SCB"
+    },
+    {
+        "l": "SRBL (Sunrise Bank Limited)",
+        "v": "29",
+        "d": "SRBL"
+    },
+    {
+        "l": "CFCL (Central Finance Co. Ltd.)",
+        "v": "31",
+        "d": "CFCL"
+    },
+    {
+        "l": "CFL (Crystal Finance Ltd.)",
+        "v": "32",
+        "d": "CFL"
+    },
+    {
+        "l": "CIT (Citizen Investment Trust)",
+        "v": "33",
+        "d": "CIT"
+    },
+    {
+        "l": "CMB (Capital Merchant Banking and Finance Limited)",
+        "v": "34",
+        "d": "CMB"
+    },
+    {
+        "l": "CMBSL (Civil Merchant Bittiya Santha Ltd.)",
+        "v": "35",
+        "d": "CMBSL"
+    },
+    {
+        "l": "EFL (Everest Finance Ltd.)",
+        "v": "36",
+        "d": "EFL"
+    },
+    {
+        "l": "FFCL (Fewa Finance Co. Ltd.)",
+        "v": "37",
+        "d": "FFCL"
+    },
+    {
+        "l": "GFCL (Goodwill Finance Co. Ltd.)",
+        "v": "38",
+        "d": "GFCL"
+    },
+    {
+        "l": "GFL (General Finance Ltd.)",
+        "v": "39",
+        "d": "GFL"
+    },
+    {
+        "l": "GMFIL (Guheshowori Merchant Bank & Finance Co. Ltd.)",
+        "v": "40",
+        "d": "GMFIL"
+    },
+    {
+        "l": "HAMA (Hama Merchant & Finance Ltd.)",
+        "v": "41",
+        "d": "HAMA"
+    },
+    {
+        "l": "HFL (Himalayan Finance Limited (Bittiya Sanstha))",
+        "v": "42",
+        "d": "HFL"
+    },
+    {
+        "l": "ICFC (ICFC Finance Limited)",
+        "v": "43",
+        "d": "ICFC"
+    },
+    {
+        "l": "IFIL (Imperial Financial Inst. Ltd.)",
+        "v": "44",
+        "d": "IFIL"
+    },
+    {
+        "l": "ILFC (International Leasing & Finance Co. Ltd.)",
+        "v": "45",
+        "d": "ILFC"
+    },
+    {
+        "l": "JEFL (Jebils Finance Ltd.)",
+        "v": "46",
+        "d": "JEFL"
+    },
+    {
+        "l": "JFL (Janaki Finance Ltd.)",
+        "v": "47",
+        "d": "JFL"
+    },
+    {
+        "l": "KAFIL (Kaski Finance Limited)",
+        "v": "48",
+        "d": "KAFIL"
+    },
+    {
+        "l": "KFL (Kathmandu Finance Ltd.)",
+        "v": "49",
+        "d": "KFL"
+    },
+    {
+        "l": "LFC (Lalitpur Finance Ltd.)",
+        "v": "51",
+        "d": "LFC"
+    },
+    {
+        "l": "LFLC (Lumbini Finance Ltd.)",
+        "v": "52",
+        "d": "LFLC"
+    },
+    {
+        "l": "MFIL (Manjushree Finance Ltd.)",
+        "v": "53",
+        "d": "MFIL"
+    },
+    {
+        "l": "MFL (Maha Laxmi Finance Limited)",
+        "v": "54",
+        "d": "MFL"
+    },
+    {
+        "l": "MPFL (Multipurpose Finance Company Limited)",
+        "v": "55",
+        "d": "MPFL"
+    },
+    {
+        "l": "NABB (Nepal Aawas Finance Limited)",
+        "v": "56",
+        "d": "NABB"
+    },
+    {
+        "l": "NBSL (Namaste Bittiya Sanstha Ltd.)",
+        "v": "57",
+        "d": "NBSL"
+    },
+    {
+        "l": "NCM (NIDC Capital Markets Ltd.)",
+        "v": "58",
+        "d": "NCM"
+    },
+    {
+        "l": "NDFL (Nava Durga Finance Co. Ltd.)",
+        "v": "59",
+        "d": "NDFL"
+    },
+    {
+        "l": "NEFL (Nepal Express Finance Ltd.)",
+        "v": "60",
+        "d": "NEFL"
+    },
+    {
+        "l": "NFS (Nepal Finance Ltd.)",
+        "v": "61",
+        "d": "NFS"
+    },
+    {
+        "l": "NHMF (Nepal Housing & Merchant Finance Ltd.)",
+        "v": "62",
+        "d": "NHMF"
+    },
+    {
+        "l": "NNFC (Narayani National Finance Limited)",
+        "v": "63",
+        "d": "NNFC"
+    },
+    {
+        "l": "NSM (Nepal Share Markets Ltd.)",
+        "v": "64",
+        "d": "NSM"
+    },
+    {
+        "l": "OFL (Om Finance Ltd.)",
+        "v": "65",
+        "d": "OFL"
+    },
+    {
+        "l": "PFC (Paschimanchal Finance Co. Ltd.)",
+        "v": "66",
+        "d": "PFC"
+    },
+    {
+        "l": "PFCL (Peoples Finance Ltd.)",
+        "v": "67",
+        "d": "PFCL"
+    },
+    {
+        "l": "PFCLL (Premier Finance Co. Ltd.)",
+        "v": "68",
+        "d": "PFCLL"
+    },
+    {
+        "l": "PFIL (Prudential Finance Company Limited)",
+        "v": "69",
+        "d": "PFIL"
+    },
+    {
+        "l": "PFL (Pokhara Finance Ltd.)",
+        "v": "70",
+        "d": "PFL"
+    },
+    {
+        "l": "PFLBS (Patan Finance Limited)",
+        "v": "71",
+        "d": "PFLBS"
+    },
+    {
+        "l": "PRFL (Prabhu Finance Company Limited)",
+        "v": "72",
+        "d": "PRFL"
+    },
+    {
+        "l": "PROFL (Progressive Finance Limited)",
+        "v": "73",
+        "d": "PROFL"
+    },
+    {
+        "l": "RIBSL (Reliable Finance Limited)",
+        "v": "75",
+        "d": "RIBSL"
+    },
+    {
+        "l": "SETI (Seti Finance Limited)",
+        "v": "76",
+        "d": "SETI"
+    },
+    {
+        "l": "SFC (Samjhana Finance Co. Ltd.)",
+        "v": "77",
+        "d": "SFC"
+    },
+    {
+        "l": "SFFIL (Srijana Finance Limited)",
+        "v": "78",
+        "d": "SFFIL"
+    },
+    {
+        "l": "SFL (Siddharth Finance Ltd.)",
+        "v": "79",
+        "d": "SFL"
+    },
+    {
+        "l": "SIFC (Shree Investment Finance Co. Ltd.)",
+        "v": "80",
+        "d": "SIFC"
+    },
+    {
+        "l": "SLFL (Subha Laxmi Finance Company Limited)",
+        "v": "81",
+        "d": "SLFL"
+    },
+    {
+        "l": "SMBF (Sagarmatha Merchant Banking & Finance Limited)",
+        "v": "82",
+        "d": "SMBF"
+    },
+    {
+        "l": "SYFL (Synergy Finance Ltd.)",
+        "v": "83",
+        "d": "SYFL"
+    },
+    {
+        "l": "UFCL (Union Finance Co. Ltd.)",
+        "v": "84",
+        "d": "UFCL"
+    },
+    {
+        "l": "UFIL (Unique Finance Ltd.)",
+        "v": "85",
+        "d": "UFIL"
+    },
+    {
+        "l": "UFL (United Finance Ltd.)",
+        "v": "86",
+        "d": "UFL"
+    },
+    {
+        "l": "ZFL (Zenith Finance Limited)",
+        "v": "88",
+        "d": "ZFL"
+    },
+    {
+        "l": "OHL (Oriental Hotels Limited)",
+        "v": "89",
+        "d": "OHL"
+    },
+    {
+        "l": "SHL (Soaltee Hotel Limited)",
+        "v": "90",
+        "d": "SHL"
+    },
+    {
+        "l": "TRH (Taragaon Regency Hotel Limited)",
+        "v": "91",
+        "d": "TRH"
+    },
+    {
+        "l": "YHL (Yak And Yeti Hotel Limited)",
+        "v": "92",
+        "d": "YHL"
+    },
+    {
+        "l": "AVU (Arun Vanaspati Udhyog Limited)",
+        "v": "93",
+        "d": "AVU"
+    },
+    {
+        "l": "BNL (Bottlers Nepal (Balaju) Limited)",
+        "v": "94",
+        "d": "BNL"
+    },
+    {
+        "l": "BNT (Bottlers Nepal (Terai) Limited)",
+        "v": "95",
+        "d": "BNT"
+    },
+    {
+        "l": "BSL (Birat Shoe Limited)",
+        "v": "96",
+        "d": "BSL"
+    },
+    {
+        "l": "BSM (Butwal Spinning Mills Limited)",
+        "v": "97",
+        "d": "BSM"
+    },
+    {
+        "l": "FHL (Fleur Himalayan Limited)",
+        "v": "98",
+        "d": "FHL"
+    },
+    {
+        "l": "GRU (Gorakhkali Rubber Udhyog Limited)",
+        "v": "99",
+        "d": "GRU"
+    },
+    {
+        "l": "HBT (Harisiddhi Brick And Tiles Limited)",
+        "v": "100",
+        "d": "HBT"
+    },
+    {
+        "l": "HDL (Himalayan Distillery Limited)",
+        "v": "101",
+        "d": "HDL"
+    },
+    {
+        "l": "JSM (Jyoti Sinning Mills Limited)",
+        "v": "102",
+        "d": "JSM"
+    },
+    {
+        "l": "NBBU (Nepal Bitumin And Barrel Udhyog Limited)",
+        "v": "103",
+        "d": "NBBU"
+    },
+    {
+        "l": "NKU (Nepal Khadya Udhyog Limited)",
+        "v": "104",
+        "d": "NKU"
+    },
+    {
+        "l": "NLO (Nepal Lube Oil Limited)",
+        "v": "105",
+        "d": "NLO"
+    },
+    {
+        "l": "NVG (Nepal Vanaspati Ghee Udhyog Limited)",
+        "v": "106",
+        "d": "NVG"
+    },
+    {
+        "l": "RJM (Shree Raghupati Jute Mills Limited)",
+        "v": "107",
+        "d": "RJM"
+    },
+    {
+        "l": "SBPP (Shree Bhrikuti Pulp And Paper Limited)",
+        "v": "108",
+        "d": "SBPP"
+    },
+    {
+        "l": "SRS (Shree Ram Sugar Mills Limited)",
+        "v": "109",
+        "d": "SRS"
+    },
+    {
+        "l": "UNL (Unilever Nepal Limited)",
+        "v": "110",
+        "d": "UNL"
+    },
+    {
+        "l": "NFD (Nepal Film Development Company Limited)",
+        "v": "111",
+        "d": "NFD"
+    },
+    {
+        "l": "NTC (Nepal Doorsanchar Comapany Limited)",
+        "v": "112",
+        "d": "NTC"
+    },
+    {
+        "l": "AHPC (Arun Valley Hydropower Development Co. Ltd.)",
+        "v": "113",
+        "d": "AHPC"
+    },
+    {
+        "l": "BPCL (Butwal Power Company Limited)",
+        "v": "114",
+        "d": "BPCL"
+    },
+    {
+        "l": "CHCL (Chilime Hydropower Company Limited)",
+        "v": "115",
+        "d": "CHCL"
+    },
+    {
+        "l": "NHPC (National Hydro Power Company Limited)",
+        "v": "116",
+        "d": "NHPC"
+    },
+    {
+        "l": "SHPC (Sanima Mai Hydropower Ltd.)",
+        "v": "117",
+        "d": "SHPC"
+    },
+    {
+        "l": "BBC (Bishal Bazar Company Limited)",
+        "v": "118",
+        "d": "BBC"
+    },
+    {
+        "l": "NTL (Nepal Tading Limited)",
+        "v": "119",
+        "d": "NTL"
+    },
+    {
+        "l": "NWC (Nepal Welfare Company Limited)",
+        "v": "120",
+        "d": "NWC"
+    },
+    {
+        "l": "STC (Salt Trading Corporation)",
+        "v": "121",
+        "d": "STC"
+    },
+    {
+        "l": "AIC (Alliance Insurance Co. Ltd.)",
+        "v": "122",
+        "d": "AIC"
+    },
+    {
+        "l": "ALICL (Asian Life Insurance Co. Limited)",
+        "v": "123",
+        "d": "ALICL"
+    },
+    {
+        "l": "EIC (Everest Insurance Co. Ltd.)",
+        "v": "124",
+        "d": "EIC"
+    },
+    {
+        "l": "GLICL (Gurans Life Insurance Company Ltd.)",
+        "v": "125",
+        "d": "GLICL"
+    },
+    {
+        "l": "HGI (Himalayan General Insurance Co. Ltd)",
+        "v": "126",
+        "d": "HGI"
+    },
+    {
+        "l": "LGIL (Lumbini General Insurance Co. Ltd.)",
+        "v": "127",
+        "d": "LGIL"
+    },
+    {
+        "l": "LICN (Life Insurance Co. Nepal)",
+        "v": "128",
+        "d": "LICN"
+    },
+    {
+        "l": "NBIL (NB Insurance Co. Ltd.)",
+        "v": "129",
+        "d": "NBIL"
+    },
+    {
+        "l": "NICL (Nepal Insurance Co. Ltd.)",
+        "v": "130",
+        "d": "NICL"
+    },
+    {
+        "l": "NIL (Neco Insurance Co. Ltd.)",
+        "v": "131",
+        "d": "NIL"
+    },
+    {
+        "l": "NLG (NLG Insurance Company Ltd.)",
+        "v": "132",
+        "d": "NLG"
+    },
+    {
+        "l": "NLIC (Nepal Life Insurance Co. Ltd.)",
+        "v": "133",
+        "d": "NLIC"
+    },
+    {
+        "l": "NLICL (National Life Insurance Co. Ltd.)",
+        "v": "134",
+        "d": "NLICL"
+    },
+    {
+        "l": "PIC (Premier Insurance Co. Ltd.)",
+        "v": "135",
+        "d": "PIC"
+    },
+    {
+        "l": "PICL (Prudential Insurance Co. Ltd.)",
+        "v": "136",
+        "d": "PICL"
+    },
+    {
+        "l": "PLIC (Prime Life Insurance Company Limited)",
+        "v": "137",
+        "d": "PLIC"
+    },
+    {
+        "l": "RBS (Rastriya Beema Sansthan)",
+        "v": "138",
+        "d": "RBS"
+    },
+    {
+        "l": "SIC (Sagarmatha Insurance Co. Ltd.)",
+        "v": "139",
+        "d": "SIC"
+    },
+    {
+        "l": "SICL (Shikhar Insurance Co. Ltd.)",
+        "v": "140",
+        "d": "SICL"
+    },
+    {
+        "l": "SIL (Siddhartha Insurance Ltd.)",
+        "v": "141",
+        "d": "SIL"
+    },
+    {
+        "l": "SLICL (Surya Life Insurance Company Limited)",
+        "v": "142",
+        "d": "SLICL"
+    },
+    {
+        "l": "UIC (United Insurance Co. (Nepal) Ltd.)",
+        "v": "143",
+        "d": "UIC"
+    },
+    {
+        "l": "ALDBL (Alpine Development Bank Limited)",
+        "v": "145",
+        "d": "ALDBL"
+    },
+    {
+        "l": "APEX (Apex Development Bank Ltd.)",
+        "v": "146",
+        "d": "APEX"
+    },
+    {
+        "l": "ARDBL (Araniko Development Bank Limited)",
+        "v": "147",
+        "d": "ARDBL"
+    },
+    {
+        "l": "AXIS (Axis Development Bank Limited)",
+        "v": "148",
+        "d": "AXIS"
+    },
+    {
+        "l": "BBBL (Bhrikuti Vikash Bank Limited)",
+        "v": "149",
+        "d": "BBBL"
+    },
+    {
+        "l": "BBBLN (Bagheshwori Development Bank Limited)",
+        "v": "150",
+        "d": "BBBLN"
+    },
+    {
+        "l": "BGDBL (Bagmati Development Bank Ltd.)",
+        "v": "151",
+        "d": "BGDBL"
+    },
+    {
+        "l": "BHBL (Bhargav Bikash Bank Ltd.)",
+        "v": "152",
+        "d": "BHBL"
+    },
+    {
+        "l": "BLDBL (Biratlaxmi Bikas Bank Limited)",
+        "v": "153",
+        "d": "BLDBL"
+    },
+    {
+        "l": "BRTBL (Bright Development Bank Ltd)",
+        "v": "154",
+        "d": "BRTBL"
+    },
+    {
+        "l": "BSBL (Bishwa Bikas Bank Limited)",
+        "v": "155",
+        "d": "BSBL"
+    },
+    {
+        "l": "BUDBL (Business Universal Development Bank Ltd.)",
+        "v": "156",
+        "d": "BUDBL"
+    },
+    {
+        "l": "CBBL (Chhimek Laghubitta Bittiya Sanstha Limited)",
+        "v": "157",
+        "d": "CBBL"
+    },
+    {
+        "l": "CDBL (City Development Bank Limited)",
+        "v": "158",
+        "d": "CDBL"
+    },
+    {
+        "l": "CEDBL (Clean Energy Development Bank Limited)",
+        "v": "159",
+        "d": "CEDBL"
+    },
+    {
+        "l": "CIVIC (Civic Development Bank Ltd)",
+        "v": "160",
+        "d": "CIVIC"
+    },
+    {
+        "l": "CNDBL (Country Development Bank Ltd.)",
+        "v": "161",
+        "d": "CNDBL"
+    },
+    {
+        "l": "CORBL (Corporate Development Bank Limited)",
+        "v": "162",
+        "d": "CORBL"
+    },
+    {
+        "l": "CSDBL (Cosmos Development Bank Ltd.)",
+        "v": "163",
+        "d": "CSDBL"
+    },
+    {
+        "l": "DDBL (Deprosc Laghubitta Bittiya Sanstha Limited)",
+        "v": "164",
+        "d": "DDBL"
+    },
+    {
+        "l": "EDBL (Excel Development Bank Ltd.)",
+        "v": "165",
+        "d": "EDBL"
+    },
+    {
+        "l": "FMDBL (First Micro Finance Laghubitta Bittiya Sanstha Limited)",
+        "v": "166",
+        "d": "FMDBL"
+    },
+    {
+        "l": "GABL (Gaumukhee Bikas Bank Ltd.)",
+        "v": "167",
+        "d": "GABL"
+    },
+    {
+        "l": "GBBL (Garima Bikas Bank Limited)",
+        "v": "168",
+        "d": "GBBL"
+    },
+    {
+        "l": "GDBL (Gandaki Bikas Bank Limited)",
+        "v": "169",
+        "d": "GDBL"
+    },
+    {
+        "l": "GDBNL (Gurkha Development Bank Limited)",
+        "v": "170",
+        "d": "GDBNL"
+    },
+    {
+        "l": "GSDBL (Gaurishankar Development Bank Ltd.)",
+        "v": "171",
+        "d": "GSDBL"
+    },
+    {
+        "l": "HAMRO (Hamro Bikas Bank Ltd.)",
+        "v": "172",
+        "d": "HAMRO"
+    },
+    {
+        "l": "HBDL (H & B Development Bank Ltd.)",
+        "v": "173",
+        "d": "HBDL"
+    },
+    {
+        "l": "IDBL (Infrastructure Development Bank Ltd.)",
+        "v": "174",
+        "d": "IDBL"
+    },
+    {
+        "l": "INDB (Innovative Development Bank Ltd.)",
+        "v": "175",
+        "d": "INDB"
+    },
+    {
+        "l": "INDBL (International Development Bank Ltd)",
+        "v": "176",
+        "d": "INDBL"
+    },
+    {
+        "l": "JBBL (Jyoti Bikas Bank Limited)",
+        "v": "177",
+        "d": "JBBL"
+    },
+    {
+        "l": "JHBL (Jhimruk Bikas Bank Ltd.)",
+        "v": "178",
+        "d": "JHBL"
+    },
+    {
+        "l": "KADBL (Kanchan Development Bank Limited)",
+        "v": "179",
+        "d": "KADBL"
+    },
+    {
+        "l": "KBBL (Kailash Bikas Bank Ltd.)",
+        "v": "180",
+        "d": "KBBL"
+    },
+    {
+        "l": "KDBL (Kasthamandap Development Bank Limited)",
+        "v": "181",
+        "d": "KDBL"
+    },
+    {
+        "l": "KEBL (Kabeli Bikas Bank Limited)",
+        "v": "182",
+        "d": "KEBL"
+    },
+    {
+        "l": "KHDBL (Khandbari Development Bank Ltd)",
+        "v": "183",
+        "d": "KHDBL"
+    },
+    {
+        "l": "KKBL (Kakre Bihar Bikash Bank Ltd)",
+        "v": "184",
+        "d": "KKBL"
+    },
+    {
+        "l": "KMCDB (Kalika Laghubitta Bittiya Sanstha Limited)",
+        "v": "186",
+        "d": "KMCDB"
+    },
+    {
+        "l": "KNBL (Kankai Bikas Bank Ltd.)",
+        "v": "187",
+        "d": "KNBL"
+    },
+    {
+        "l": "KRBL (Karnali Development Bank Limited)",
+        "v": "188",
+        "d": "KRBL"
+    },
+    {
+        "l": "MBBL (Mahakali Bikas Bank Limited)",
+        "v": "189",
+        "d": "MBBL"
+    },
+    {
+        "l": "MDB (Miteri Development Bank Limited)",
+        "v": "190",
+        "d": "MDB"
+    },
+    {
+        "l": "MDBL (Malika Bikas Bank Limited)",
+        "v": "191",
+        "d": "MDBL"
+    },
+    {
+        "l": "METRO (Metro Development Bank Limited)",
+        "v": "192",
+        "d": "METRO"
+    },
+    {
+        "l": "MGBL (Madhyamanchal Gramin Development Bank Ltd.)",
+        "v": "193",
+        "d": "MGBL"
+    },
+    {
+        "l": "MIDBL (Mission Development Bank Ltd.)",
+        "v": "194",
+        "d": "MIDBL"
+    },
+    {
+        "l": "MNBBL (Muktinath Bikas Bank Ltd.)",
+        "v": "195",
+        "d": "MNBBL"
+    },
+    {
+        "l": "MSBBL (Manaslu Bikas Bank Ltd.)",
+        "v": "196",
+        "d": "MSBBL"
+    },
+    {
+        "l": "MTBL (Matribhumi Development Bank Ltd.)",
+        "v": "197",
+        "d": "MTBL"
+    },
+    {
+        "l": "NABBC (Narayani Development Bank Limited)",
+        "v": "198",
+        "d": "NABBC"
+    },
+    {
+        "l": "NCDB (Nepal Community Development Bank Ltd.)",
+        "v": "199",
+        "d": "NCDB"
+    },
+    {
+        "l": "NCDBL (Nepal Consumer Development Bank Ltd.)",
+        "v": "200",
+        "d": "NCDBL"
+    },
+    {
+        "l": "NDB (Nepal Development Bank Limited)",
+        "v": "201",
+        "d": "NDB"
+    },
+    {
+        "l": "NDEP (NDEP Development Bank Limited)",
+        "v": "202",
+        "d": "NDEP"
+    },
+    {
+        "l": "NGBL (Nilgiri Bikas Bank Limited)",
+        "v": "203",
+        "d": "NGBL"
+    },
+    {
+        "l": "NIDC (NIDC Development Bank Ltd.)",
+        "v": "204",
+        "d": "NIDC"
+    },
+    {
+        "l": "NLBBL (Nerude Laghubita Bittiya Sanstha Limited)",
+        "v": "205",
+        "d": "NLBBL"
+    },
+    {
+        "l": "NNLB (Naya Nepal Laghubitta Bikas Bank Ltd.)",
+        "v": "206",
+        "d": "NNLB"
+    },
+    {
+        "l": "NUBL (Nirdhan Utthan Laghubitta Bittiya Sanstha Limited)",
+        "v": "207",
+        "d": "NUBL"
+    },
+    {
+        "l": "PADBL (Pacific Development Bank Limited)",
+        "v": "208",
+        "d": "PADBL"
+    },
+    {
+        "l": "PBSL (Pathibhara Bikas Bank Limited)",
+        "v": "209",
+        "d": "PBSL"
+    },
+    {
+        "l": "PDB (Public Development Bank Limited)",
+        "v": "210",
+        "d": "PDB"
+    },
+    {
+        "l": "PDBL (Paschimanchal Bikash Bank Limited)",
+        "v": "211",
+        "d": "PDBL"
+    },
+    {
+        "l": "PGBBL (Pashchimanchal Grameen Bikas Bank Ltd.)",
+        "v": "212",
+        "d": "PGBBL"
+    },
+    {
+        "l": "PGBL (Purwanchal Grameen Bikash Bank Limited)",
+        "v": "213",
+        "d": "PGBL"
+    },
+    {
+        "l": "PRBBL (Prabhu Bikas Bank Limited)",
+        "v": "214",
+        "d": "PRBBL"
+    },
+    {
+        "l": "PRDBL (Professional Diyalo Bikas Bank Ltd.)",
+        "v": "215",
+        "d": "PRDBL"
+    },
+    {
+        "l": "PURBL (Purnima Bikas Bank Ltd.)",
+        "v": "216",
+        "d": "PURBL"
+    },
+    {
+        "l": "RDBL (Rising Development Bank Ltd.)",
+        "v": "217",
+        "d": "RDBL"
+    },
+    {
+        "l": "RMDC (RMDC Laghubitta Bittiya Sanstha Limited)",
+        "v": "218",
+        "d": "RMDC"
+    },
+    {
+        "l": "SADBL (Shangrila Development Bank Ltd.)",
+        "v": "219",
+        "d": "SADBL"
+    },
+    {
+        "l": "SBBLJ (Sahayogi Bikas Bank Limited)",
+        "v": "220",
+        "d": "SBBLJ"
+    },
+    {
+        "l": "SDBL (Siddhartha Development Bank Ltd.)",
+        "v": "221",
+        "d": "SDBL"
+    },
+    {
+        "l": "SEWA (Sewa Bikas Bank Limited)",
+        "v": "222",
+        "d": "SEWA"
+    },
+    {
+        "l": "SHINE (Shine Resunga Development Bank Ltd.)",
+        "v": "223",
+        "d": "SHINE"
+    },
+    {
+        "l": "SINDU (Sindhu Bikash Bank Ltd)",
+        "v": "224",
+        "d": "SINDU"
+    },
+    {
+        "l": "SKBBL (Sana Kisan Bikas Laghubitta Bittiya sanstha Limited.)",
+        "v": "225",
+        "d": "SKBBL"
+    },
+    {
+        "l": "SLBBL (Swarojgar Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "226",
+        "d": "SLBBL"
+    },
+    {
+        "l": "SMFDB (Summit Laghubitta Bittiya Sanstha  Ltd.)",
+        "v": "227",
+        "d": "SMFDB"
+    },
+    {
+        "l": "SUBBL (Subhechha Bikas Bank Limited)",
+        "v": "228",
+        "d": "SUBBL"
+    },
+    {
+        "l": "SUPRME (Supreme Development Bank Ltd.)",
+        "v": "229",
+        "d": "SUPRME"
+    },
+    {
+        "l": "SWBBL (Swabalamban Laghubitta Bittiya Sanstha Limited)",
+        "v": "230",
+        "d": "SWBBL"
+    },
+    {
+        "l": "TBBL (Triveni Bikas Bank Limited)",
+        "v": "231",
+        "d": "TBBL"
+    },
+    {
+        "l": "VBBL (Vibor Bikas Bank Limited)",
+        "v": "234",
+        "d": "VBBL"
+    },
+    {
+        "l": "WDBL (Western Development Bank Limited)",
+        "v": "235",
+        "d": "WDBL"
+    },
+    {
+        "l": "YETI (Yeti Development Bank Limited)",
+        "v": "236",
+        "d": "YETI"
+    },
+    {
+        "l": "NRBBR2067 (Bikash Rinpatra 2067)",
+        "v": "237",
+        "d": "NRBBR2067"
+    },
+    {
+        "l": "NRBBR2067ga (Bikash Rinpatra 2067 Ga)",
+        "v": "238",
+        "d": "NRBBR2067ga"
+    },
+    {
+        "l": "NRBBR2067ka (Bikash Rinpatra 2067 Ka)",
+        "v": "239",
+        "d": "NRBBR2067ka"
+    },
+    {
+        "l": "NRBBR2067kha (Bikash Rinpatra 2067 Kha)",
+        "v": "240",
+        "d": "NRBBR2067kha"
+    },
+    {
+        "l": "NRBBR2069 (Bikash Rinpatra 2069)",
+        "v": "241",
+        "d": "NRBBR2069"
+    },
+    {
+        "l": "NRBBR2071ka (Bikash Rinpatra 2071 Ka)",
+        "v": "242",
+        "d": "NRBBR2071ka"
+    },
+    {
+        "l": "NRBBR2071Kha (Bikash Rinpatra 2071 Kha)",
+        "v": "243",
+        "d": "NRBBR2071Kha"
+    },
+    {
+        "l": "NRBBR2072 (Bikash Rinpatra 2072)",
+        "v": "244",
+        "d": "NRBBR2072"
+    },
+    {
+        "l": "NRBBR2072ka (Bikash Rinpatra 2072 Ka)",
+        "v": "245",
+        "d": "NRBBR2072ka"
+    },
+    {
+        "l": "NRBBR2073 KA (Bikash Rinpatra 2073 Ka)",
+        "v": "246",
+        "d": "NRBBR2073 KA"
+    },
+    {
+        "l": "NRBBR2075 (Bikash Rinpatra 2075)",
+        "v": "247",
+        "d": "NRBBR2075"
+    },
+    {
+        "l": "NRBBR2075ka (Bikash Rinpatra 2075 Ka)",
+        "v": "248",
+        "d": "NRBBR2075ka"
+    },
+    {
+        "l": "NRBBR2076 (Bikash Rinpatra 2076)",
+        "v": "249",
+        "d": "NRBBR2076"
+    },
+    {
+        "l": "NRBBR2076Ga (Bikash Rinpatra 2076 Ga)",
+        "v": "250",
+        "d": "NRBBR2076Ga"
+    },
+    {
+        "l": "NRBBR2076ka (Bikash Rinpatra 2076 Ka)",
+        "v": "251",
+        "d": "NRBBR2076ka"
+    },
+    {
+        "l": "NRBBR2076Kha (Bikash Rinpatra 2076 Kha)",
+        "v": "252",
+        "d": "NRBBR2076Kha"
+    },
+    {
+        "l": "BOKB2076 (Bank of Kathmandu - 2076)",
+        "v": "253",
+        "d": "BOKB2076"
+    },
+    {
+        "l": "CZBILB2077 (Citizens Bank Bond 2077)",
+        "v": "254",
+        "d": "CZBILB2077"
+    },
+    {
+        "l": "EBLB2079 (Everest Bank Limited--2079)",
+        "v": "255",
+        "d": "EBLB2079"
+    },
+    {
+        "l": "GBIMEB2076 (Global IME Bank -2076)",
+        "v": "256",
+        "d": "GBIMEB2076"
+    },
+    {
+        "l": "HBLB2072 (Himalayan Bank Limited 2072)",
+        "v": "257",
+        "d": "HBLB2072"
+    },
+    {
+        "l": "HBLB2077 (Himalayan Bank Limited 2077)",
+        "v": "258",
+        "d": "HBLB2077"
+    },
+    {
+        "l": "LBLB2072 (Laxmi Bank Limited 2072)",
+        "v": "259",
+        "d": "LBLB2072"
+    },
+    {
+        "l": "LBLB2076 (Laxmi Bank -2076)",
+        "v": "260",
+        "d": "LBLB2076"
+    },
+    {
+        "l": "NABILB2075 (Nabil Bank Limited Bond 2075)",
+        "v": "261",
+        "d": "NABILB2075"
+    },
+    {
+        "l": "NIBB2071 (Nepal Investment Bank Bond 2071)",
+        "v": "262",
+        "d": "NIBB2071"
+    },
+    {
+        "l": "NIBB2072 (Nepal Investment Bank Limited Bond 2072)",
+        "v": "263",
+        "d": "NIBB2072"
+    },
+    {
+        "l": "NIBB2075 (Nepal Investment Bank Limited Bond 2075)",
+        "v": "264",
+        "d": "NIBB2075"
+    },
+    {
+        "l": "NIBB2077 (Nepal Investment Bank Bond 2077)",
+        "v": "265",
+        "d": "NIBB2077"
+    },
+    {
+        "l": "SBIB2078 (Nepal SBI Bank -2078)",
+        "v": "266",
+        "d": "SBIB2078"
+    },
+    {
+        "l": "SBIB2079 (Nepal SBI Bank - 2079)",
+        "v": "267",
+        "d": "SBIB2079"
+    },
+    {
+        "l": "SBL2072 (Siddhartha Bank-2072)",
+        "v": "268",
+        "d": "SBL2072"
+    },
+    {
+        "l": "SBLB2075 (Siddhartha Bank Ltd.-2075)",
+        "v": "269",
+        "d": "SBLB2075"
+    },
+    {
+        "l": "SBLB2076 (Siddhartha Bank Ltd. Bond -2076)",
+        "v": "270",
+        "d": "SBLB2076"
+    },
+    {
+        "l": "EBLCP (Everest Bank Limited Con. Pref.)",
+        "v": "271",
+        "d": "EBLCP"
+    },
+    {
+        "l": "ACEDPO (ACE Development Bank Limited Promoter Share)",
+        "v": "274",
+        "d": "ACEDPO"
+    },
+    {
+        "l": "AEFLPO (Alpic Everest Finance Limited Promoter Share)",
+        "v": "275",
+        "d": "AEFLPO"
+    },
+    {
+        "l": "AICPO (Alliance Insurance Company Ltd. Promoter)",
+        "v": "276",
+        "d": "AICPO"
+    },
+    {
+        "l": "ALICLP (Asian Life Insurance Co. Ltd Promoter Share)",
+        "v": "277",
+        "d": "ALICLP"
+    },
+    {
+        "l": "AXISP (Axis Development Bank Limited Promoter Share)",
+        "v": "278",
+        "d": "AXISP"
+    },
+    {
+        "l": "BBBLNP (Bagheshowari Development Bank Ltd. Promoer Share)",
+        "v": "279",
+        "d": "BBBLNP"
+    },
+    {
+        "l": "BBBLPO (Bhrikuti Bikash Bank Limited Promoter Share)",
+        "v": "280",
+        "d": "BBBLPO"
+    },
+    {
+        "l": "BFLPO (Butwal Finance Limited Promoter Share)",
+        "v": "281",
+        "d": "BFLPO"
+    },
+    {
+        "l": "BLDBLP (Biratlaxmi Bikas Bank Limited Promoter Share)",
+        "v": "282",
+        "d": "BLDBLP"
+    },
+    {
+        "l": "CDBLPO (City Development Bank Ltd. Promoter)",
+        "v": "284",
+        "d": "CDBLPO"
+    },
+    {
+        "l": "CEDBLP (Clean Energy Development Bank Ltd. Promoter Share)",
+        "v": "285",
+        "d": "CEDBLP"
+    },
+    {
+        "l": "CMBFLP (Capital Merchant Bank. & Fin. Promoter Share)",
+        "v": "286",
+        "d": "CMBFLP"
+    },
+    {
+        "l": "CMBFPO (CMB Finance Ltd. Promoter Share)",
+        "v": "287",
+        "d": "CMBFPO"
+    },
+    {
+        "l": "CMBSLp (Civil Merchant Bittiya Sanstha Limited Promoter Share)",
+        "v": "288",
+        "d": "CMBSLp"
+    },
+    {
+        "l": "CZBILP (Citizens Bank Internatioal Limited Promoter Share)",
+        "v": "289",
+        "d": "CZBILP"
+    },
+    {
+        "l": "EBLPO (Everest Bank Limited Promoter Share)",
+        "v": "290",
+        "d": "EBLPO"
+    },
+    {
+        "l": "EFLPO (Everest Finance Limited Promoter Share)",
+        "v": "291",
+        "d": "EFLPO"
+    },
+    {
+        "l": "FFCLPO (Fewa Finance Company Limited Promoter Share)",
+        "v": "292",
+        "d": "FFCLPO"
+    },
+    {
+        "l": "GBIMEP (Global IME Bank Limited Promoter Share)",
+        "v": "293",
+        "d": "GBIMEP"
+    },
+    {
+        "l": "GFCLPO (Goodwill Finance Company Limited Promoter Share)",
+        "v": "294",
+        "d": "GFCLPO"
+    },
+    {
+        "l": "GFLKPO (Gorkha Finance Limited Promoter Share)",
+        "v": "295",
+        "d": "GFLKPO"
+    },
+    {
+        "l": "GFLPO (General Finance Limited Promoter Share)",
+        "v": "296",
+        "d": "GFLPO"
+    },
+    {
+        "l": "GRANDP (Grand Bank Limited Promoter Share)",
+        "v": "297",
+        "d": "GRANDP"
+    },
+    {
+        "l": "GSDBLP (Gaurishankar Development Bank Ltd. Promoter Share)",
+        "v": "298",
+        "d": "GSDBLP"
+    },
+    {
+        "l": "HBDLPO (H & B Development Bank Limited Promoter Share)",
+        "v": "299",
+        "d": "HBDLPO"
+    },
+    {
+        "l": "HBLPO (Himalayan Bank Limited Promoter Share)",
+        "v": "300",
+        "d": "HBLPO"
+    },
+    {
+        "l": "ICFCPO (ICFC Finance Limited Promotor Share)",
+        "v": "301",
+        "d": "ICFCPO"
+    },
+    {
+        "l": "IDBLPO (Infrastructure Development Bank Limited Promoter Share)",
+        "v": "302",
+        "d": "IDBLPO"
+    },
+    {
+        "l": "IFILPO (Imperial Finance Ltd Promoter Share)",
+        "v": "303",
+        "d": "IFILPO"
+    },
+    {
+        "l": "IMEFIP (IME Financial Institution Promoter Share)",
+        "v": "304",
+        "d": "IMEFIP"
+    },
+    {
+        "l": "JBBLPO (Jyoti Bikash Bank Ltd. Promoter Share)",
+        "v": "305",
+        "d": "JBBLPO"
+    },
+    {
+        "l": "JFLPO (Janaki Finance Limited Promoter Share)",
+        "v": "306",
+        "d": "JFLPO"
+    },
+    {
+        "l": "KAFILP (Kaski Finanace Ltd. Promoter)",
+        "v": "307",
+        "d": "KAFILP"
+    },
+    {
+        "l": "KBBLPO (Kailash Bikas Bank Limited Promoter Share)",
+        "v": "308",
+        "d": "KBBLPO"
+    },
+    {
+        "l": "KBLPO (Kumari Bank Limited Promotor Share)",
+        "v": "309",
+        "d": "KBLPO"
+    },
+    {
+        "l": "KDBLPO (Kasthamandap Dev. Bank Limited Promoter Share)",
+        "v": "310",
+        "d": "KDBLPO"
+    },
+    {
+        "l": "KFLPO (Kathmandu Finance Ltd. Promoter Share)",
+        "v": "311",
+        "d": "KFLPO"
+    },
+    {
+        "l": "KISTPO (KIST Bank Limited Promoter Share)",
+        "v": "312",
+        "d": "KISTPO"
+    },
+    {
+        "l": "LBLPO (Laxmi Bank Limited Promoter Share)",
+        "v": "313",
+        "d": "LBLPO"
+    },
+    {
+        "l": "LFCPO (Lalitpur Finance Co. Ltd. Promoter Share)",
+        "v": "314",
+        "d": "LFCPO"
+    },
+    {
+        "l": "LFLCPO (Lumbini Finance Ltd Promoter Share)",
+        "v": "315",
+        "d": "LFLCPO"
+    },
+    {
+        "l": "LUBLPO (Lumbini Bank Limited Promotor Share)",
+        "v": "316",
+        "d": "LUBLPO"
+    },
+    {
+        "l": "MBBLPO (Mahakali Bikas Bank Ltd. Promoter)",
+        "v": "317",
+        "d": "MBBLPO"
+    },
+    {
+        "l": "MBLPO (Machhapuchchhre Bank Limited Promotor Share)",
+        "v": "318",
+        "d": "MBLPO"
+    },
+    {
+        "l": "MDBLPO (Malika Development Bank Limited Promoter Share)",
+        "v": "319",
+        "d": "MDBLPO"
+    },
+    {
+        "l": "MFLPO (Maha Laxmi Finance Company Limited Promoter Share)",
+        "v": "320",
+        "d": "MFLPO"
+    },
+    {
+        "l": "NABBPO (Nepal Aawas Finance Limited Promoter Share)",
+        "v": "321",
+        "d": "NABBPO"
+    },
+    {
+        "l": "NABILP (NABIL Bank Limited Promotor Share)",
+        "v": "322",
+        "d": "NABILP"
+    },
+    {
+        "l": "NBBPO (Nepal Bangladesh Bank Limited Promoter Share)",
+        "v": "323",
+        "d": "NBBPO"
+    },
+    {
+        "l": "NCCBPO (Nepal Credit & Commercial Bank Ltd. Promoter Share)",
+        "v": "324",
+        "d": "NCCBPO"
+    },
+    {
+        "l": "NCMPO (N.I.D.C Capital Markets Ltd. Promoter Share)",
+        "v": "325",
+        "d": "NCMPO"
+    },
+    {
+        "l": "NDBPO (Nepal Development Bank Limited Promoter Share)",
+        "v": "326",
+        "d": "NDBPO"
+    },
+    {
+        "l": "NDEPPO (NDEP Development Bank Ltd. Promoter Share)",
+        "v": "327",
+        "d": "NDEPPO"
+    },
+    {
+        "l": "NEFLPO (Nepal Express Finance Limited Promoter Share)",
+        "v": "328",
+        "d": "NEFLPO"
+    },
+    {
+        "l": "NHMFPO (Nepal Housing & Merchant Co. Ltd. Promoter Share)",
+        "v": "329",
+        "d": "NHMFPO"
+    },
+    {
+        "l": "NIBPO (Nepal Investment Bank Ltd. Promoter Share)",
+        "v": "330",
+        "d": "NIBPO"
+    },
+    {
+        "l": "NICAP (NIC Asia Bank Limted Promoter Share)",
+        "v": "331",
+        "d": "NICAP"
+    },
+    {
+        "l": "NLICLP (National Life Insurance Co. Ltd. Promoter Share)",
+        "v": "332",
+        "d": "NLICLP"
+    },
+    {
+        "l": "NLICP (Nepal Life Insurance Co. Ltd. Promoter)",
+        "v": "333",
+        "d": "NLICP"
+    },
+    {
+        "l": "NMBPO (NMB Bank Limited Promoter Share)",
+        "v": "334",
+        "d": "NMBPO"
+    },
+    {
+        "l": "NNFCPO (Narayani National Finance Company Limited Promoter Share)",
+        "v": "335",
+        "d": "NNFCPO"
+    },
+    {
+        "l": "NSMPO (Nepal Share Markets Limited Promoter Share)",
+        "v": "336",
+        "d": "NSMPO"
+    },
+    {
+        "l": "OFLPO (Om Finance Limited Promoter Share)",
+        "v": "337",
+        "d": "OFLPO"
+    },
+    {
+        "l": "PCBLP (Prime Commercial Bank Limited Promoter Share)",
+        "v": "338",
+        "d": "PCBLP"
+    },
+    {
+        "l": "PDBLPO (Paschimanchal Bikash Bank Ltd. Promoter Share)",
+        "v": "339",
+        "d": "PDBLPO"
+    },
+    {
+        "l": "PFCLPO (Peoples Finance Limited Promoter Share)",
+        "v": "340",
+        "d": "PFCLPO"
+    },
+    {
+        "l": "PFLBSP (Patan Finance Limited Promoter Share)",
+        "v": "341",
+        "d": "PFLBSP"
+    },
+    {
+        "l": "PFLPO (Pokhara Finance Company Limited Promoter Share)",
+        "v": "342",
+        "d": "PFLPO"
+    },
+    {
+        "l": "PRFLPO (Prabhu Finance Ltd. Promoter Share)",
+        "v": "343",
+        "d": "PRFLPO"
+    },
+    {
+        "l": "PROFLP (Progressive Finance Limited Promoter Share)",
+        "v": "344",
+        "d": "PROFLP"
+    },
+    {
+        "l": "RIBSLP (Reliable Finance Co. Ltd. Promoter Share)",
+        "v": "345",
+        "d": "RIBSLP"
+    },
+    {
+        "l": "RMBFPO (Royal Merchant Bank & Finance Co. Ltd. Promoter Share)",
+        "v": "346",
+        "d": "RMBFPO"
+    },
+    {
+        "l": "SBBLJP (Sahayogi Bikas Bank Ltd. Promoter Share)",
+        "v": "347",
+        "d": "SBBLJP"
+    },
+    {
+        "l": "SNMAPO (Sanima Bank Limited Promoter Share)",
+        "v": "348",
+        "d": "SNMAPO"
+    },
+    {
+        "l": "SBIPO (Nepal SBI Bank Ltd. Promoter Share)",
+        "v": "349",
+        "d": "SBIPO"
+    },
+    {
+        "l": "SBLPO (Siddhartha Bank Limited Promoter Share)",
+        "v": "350",
+        "d": "SBLPO"
+    },
+    {
+        "l": "SDBLPO (Siddhartha Development Bank Limited Promoter Share)",
+        "v": "351",
+        "d": "SDBLPO"
+    },
+    {
+        "l": "SETIPO (Seti Finance Ltd. Promoter Share)",
+        "v": "352",
+        "d": "SETIPO"
+    },
+    {
+        "l": "SEWAPO (Sewa Bikas Bank Ltd. Promoter)",
+        "v": "353",
+        "d": "SEWAPO"
+    },
+    {
+        "l": "SFCPO (Samjhana Finace Co. Ltd. Promoter Share)",
+        "v": "354",
+        "d": "SFCPO"
+    },
+    {
+        "l": "SFFILP (Srijana Finance Limited Promoter Share)",
+        "v": "355",
+        "d": "SFFILP"
+    },
+    {
+        "l": "SFLPO (Siddhartha Finance Limited Promoter Share)",
+        "v": "356",
+        "d": "SFLPO"
+    },
+    {
+        "l": "SIFCPO (Shree Investment & Finance Company Limited Promoter Share)",
+        "v": "357",
+        "d": "SIFCPO"
+    },
+    {
+        "l": "SLICLP (Surya Life Insurance Co. Ltd. Promoter Share)",
+        "v": "358",
+        "d": "SLICLP"
+    },
+    {
+        "l": "SRBLPO (Sunrise Bank Ltd Promoter Share)",
+        "v": "359",
+        "d": "SRBLPO"
+    },
+    {
+        "l": "STFLPO (Standard Finance Limited Promoter Share)",
+        "v": "360",
+        "d": "STFLPO"
+    },
+    {
+        "l": "SUBBLP (Subbecha Bikas Bank Ltd. Promoter Share)",
+        "v": "361",
+        "d": "SUBBLP"
+    },
+    {
+        "l": "SUPRMP (Supreme Development Bank Ltd. Promoter Share)",
+        "v": "362",
+        "d": "SUPRMP"
+    },
+    {
+        "l": "SWBBLP (Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "363",
+        "d": "SWBBLP"
+    },
+    {
+        "l": "TBBLP (Triveni Bikas Bank Limited Promoter Share)",
+        "v": "364",
+        "d": "TBBLP"
+    },
+    {
+        "l": "UFCLPO (Union Finance Co. Ltd. Promoter Share)",
+        "v": "366",
+        "d": "UFCLPO"
+    },
+    {
+        "l": "UFLKPO (Universal Finance Limited Promoter Share)",
+        "v": "367",
+        "d": "UFLKPO"
+    },
+    {
+        "l": "UFLPO (United Finance Company Limited Promoter Share)",
+        "v": "368",
+        "d": "UFLPO"
+    },
+    {
+        "l": "WMBFPO (World Merchant Banking & Finance Limited Promoter Share)",
+        "v": "369",
+        "d": "WMBFPO"
+    },
+    {
+        "l": "YFLPO (Yeti Finance Limited Promoter Share)",
+        "v": "370",
+        "d": "YFLPO"
+    },
+    {
+        "l": "MLBBL (Mithila Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "371",
+        "d": "MLBBL"
+    },
+    {
+        "l": "ACEDBL (Ace Development Bank Ltd.)",
+        "v": "372",
+        "d": "ACEDBL"
+    },
+    {
+        "l": "NBBL (NagBeli LaghuBitta Bikas Bank Ltd.)",
+        "v": "373",
+        "d": "NBBL"
+    },
+    {
+        "l": "UFILPO (Unique Finance Limited Promoter Share)",
+        "v": "374",
+        "d": "UFILPO"
+    },
+    {
+        "l": "CCBL (Century Commercial Bank Ltd.)",
+        "v": "1374",
+        "d": "CCBL"
+    },
+    {
+        "l": "AEFL (Alpic Everest Finance Company Limited)",
+        "v": "1375",
+        "d": "AEFL"
+    },
+    {
+        "l": "AFL (Api Finance Limited)",
+        "v": "1376",
+        "d": "AFL"
+    },
+    {
+        "l": "BOAN (Bank of Asia Nepal Limited)",
+        "v": "1377",
+        "d": "BOAN"
+    },
+    {
+        "l": "BFIL (Bhajuratna Finance & Saving Co. Ltd.)",
+        "v": "1378",
+        "d": "BFIL"
+    },
+    {
+        "l": "BJM (Biratnagar Jute Mills Limited)",
+        "v": "1379",
+        "d": "BJM"
+    },
+    {
+        "l": "BJFL (Birgunj Finance Ltd.)",
+        "v": "1380",
+        "d": "BJFL"
+    },
+    {
+        "l": "CMBF (CMB Finance Limited)",
+        "v": "1381",
+        "d": "CMBF"
+    },
+    {
+        "l": "GFLK (Gorkha Finance Ltd.)",
+        "v": "1382",
+        "d": "GFLK"
+    },
+    {
+        "l": "GULMI (Gulmi Bikas Bank Ltd.)",
+        "v": "1383",
+        "d": "GULMI"
+    },
+    {
+        "l": "HTL (Himgiri Textile Industries Limited)",
+        "v": "1384",
+        "d": "HTL"
+    },
+    {
+        "l": "IMEFI (IME Financial Institution)",
+        "v": "1385",
+        "d": "IMEFI"
+    },
+    {
+        "l": "LBFIL (Lord Buddha Finance Limited)",
+        "v": "1386",
+        "d": "LBFIL"
+    },
+    {
+        "l": "MDBPO (Miteri Development Bank Limited Promoter Share)",
+        "v": "1387",
+        "d": "MDBPO"
+    },
+    {
+        "l": "MSM (Morang Sugar Mills Limited)",
+        "v": "1388",
+        "d": "MSM"
+    },
+    {
+        "l": "NFL (Narayani Finance Ltd.)",
+        "v": "1389",
+        "d": "NFL"
+    },
+    {
+        "l": "ESC (National Pro. And Eco. Development Centre)",
+        "v": "1391",
+        "d": "ESC"
+    },
+    {
+        "l": "NBFL (Nepal Bangladesh Finance & Leasing Co. Ltd.)",
+        "v": "1393",
+        "d": "NBFL"
+    },
+    {
+        "l": "NBCK (Nepal Byapar Bikash Company(Koshi) Limited)",
+        "v": "1394",
+        "d": "NBCK"
+    },
+    {
+        "l": "NSLMB (Nepal Shree Lanka Merchant Banking & Finance Ltd)",
+        "v": "1395",
+        "d": "NSLMB"
+    },
+    {
+        "l": "PSDBLP (Pashupati Development Bank Limited Promoter Share)",
+        "v": "1396",
+        "d": "PSDBLP"
+    },
+    {
+        "l": "PRBL (Professional Bikas Bank Ltd.)",
+        "v": "1397",
+        "d": "PRBL"
+    },
+    {
+        "l": "PFILPO (Prudential Finance Co. Ltd. Promoter)",
+        "v": "1398",
+        "d": "PFILPO"
+    },
+    {
+        "l": "RARA (Rara Bikas Bank Limited)",
+        "v": "1399",
+        "d": "RARA"
+    },
+    {
+        "l": "RBSL (Resunga Bikas Bank Limited)",
+        "v": "1400",
+        "d": "RBSL"
+    },
+    {
+        "l": "RHPC (Ridi Hydropower Development Company Ltd.)",
+        "v": "1401",
+        "d": "RHPC"
+    },
+    {
+        "l": "SBSL (Shikhar Finance Limited)",
+        "v": "1402",
+        "d": "SBSL"
+    },
+    {
+        "l": "STFL (Standard Finance Ltd.)",
+        "v": "1403",
+        "d": "STFL"
+    },
+    {
+        "l": "SDFL (Suryadarshan Finance Company Limited)",
+        "v": "1404",
+        "d": "SDFL"
+    },
+    {
+        "l": "SMF (Swastik Merchant Finance Co. Ltd.)",
+        "v": "1405",
+        "d": "SMF"
+    },
+    {
+        "l": "TRHPR (Taragaon Regency Hotels Ltd. Preference Share)",
+        "v": "1406",
+        "d": "TRHPR"
+    },
+    {
+        "l": "UBBL (Udhyam Bikas Bank Limited)",
+        "v": "1407",
+        "d": "UBBL"
+    },
+    {
+        "l": "UFLK (Universal Finance Ltd.)",
+        "v": "1408",
+        "d": "UFLK"
+    },
+    {
+        "l": "VFL (Valley Finance Limited)",
+        "v": "1409",
+        "d": "VFL"
+    },
+    {
+        "l": "YFL (Yeti Finance Limited)",
+        "v": "1411",
+        "d": "YFL"
+    },
+    {
+        "l": "HAMAPO (Hama Merchant & Finance Ltd. Promoter Share)",
+        "v": "1412",
+        "d": "HAMAPO"
+    },
+    {
+        "l": "EDBLPO (Excel Development Bank Ltd. Promoter Share)",
+        "v": "1413",
+        "d": "EDBLPO"
+    },
+    {
+        "l": "REDBL (Reliable Development Bank Limited)",
+        "v": "2413",
+        "d": "REDBL"
+    },
+    {
+        "l": "MMDBL (Mount Makalu Development Bank Ltd.)",
+        "v": "2414",
+        "d": "MMDBL"
+    },
+    {
+        "l": "RLFL (Reliance Finance Ltd.)",
+        "v": "2415",
+        "d": "RLFL"
+    },
+    {
+        "l": "NILPO (Neco Insurace Co. Ltd. Promoter)",
+        "v": "2416",
+        "d": "NILPO"
+    },
+    {
+        "l": "SEOS (Siddhartha Equity Orineted Scheme)",
+        "v": "2417",
+        "d": "SEOS"
+    },
+    {
+        "l": "EKBL (Ekata Bikas Bank Ltd.)",
+        "v": "2418",
+        "d": "EKBL"
+    },
+    {
+        "l": "LLBS (Laxmi Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "2419",
+        "d": "LLBS"
+    },
+    {
+        "l": "SICPO (Sagarmatha Insurance Co. Ltd. Promoter Share)",
+        "v": "2420",
+        "d": "SICPO"
+    },
+    {
+        "l": "YETIPO (Yeti Development Bank Limited Promotor Share)",
+        "v": "2421",
+        "d": "YETIPO"
+    },
+    {
+        "l": "GLICLP (Gurans Life Insurance Company Ltd. Promoter Share)",
+        "v": "2422",
+        "d": "GLICLP"
+    },
+    {
+        "l": "ARDBLP (Araniko Development Bank Limited Promoter Share)",
+        "v": "2423",
+        "d": "ARDBLP"
+    },
+    {
+        "l": "GBBLPO (Garima Bikas Bank Limited Promoter Share)",
+        "v": "2424",
+        "d": "GBBLPO"
+    },
+    {
+        "l": "SYFLPO (Synergy Finance Limited Promoter Share)",
+        "v": "2425",
+        "d": "SYFLPO"
+    },
+    {
+        "l": "SHBL (Sahara Bikas Bank Ltd.)",
+        "v": "3425",
+        "d": "SHBL"
+    },
+    {
+        "l": "KCDBL (Kalinchowk Development Bank Ltd.)",
+        "v": "3426",
+        "d": "KCDBL"
+    },
+    {
+        "l": "VBBLPO (Vibor Bikas Bank Limited Promoter Share)",
+        "v": "3427",
+        "d": "VBBLPO"
+    },
+    {
+        "l": "SICLPO (Shikhar Insurance Company Limited Promoter Share)",
+        "v": "3428",
+        "d": "SICLPO"
+    },
+    {
+        "l": "BSBLPO (Bishwa Bikas Bank Limited Promoter Share)",
+        "v": "3429",
+        "d": "BSBLPO"
+    },
+    {
+        "l": "NMBSF1 (NMB Sulav Investment Fund-1)",
+        "v": "3430",
+        "d": "NMBSF1"
+    },
+    {
+        "l": "REDBLP (Reliable Development Bank Ltd. Promoter Share)",
+        "v": "3431",
+        "d": "REDBLP"
+    },
+    {
+        "l": "SILPO (Siddhartha Insurance Limited Promoter Share)",
+        "v": "3432",
+        "d": "SILPO"
+    },
+    {
+        "l": "PRVU (Prabhu Bank Limited)",
+        "v": "3434",
+        "d": "PRVU"
+    },
+    {
+        "l": "BHBLPO (Bhargav Bikash Bank Ltd. Promoter Share)",
+        "v": "3435",
+        "d": "BHBLPO"
+    },
+    {
+        "l": "PRVUPO (Prabhu Bank Limited Promoter Share)",
+        "v": "3436",
+        "d": "PRVUPO"
+    },
+    {
+        "l": "WDBLPO (Western Development Bank Limited Promoter Share)",
+        "v": "3437",
+        "d": "WDBLPO"
+    },
+    {
+        "l": "NBILPO (NB Insurance Company Limited. Promoter Share)",
+        "v": "3438",
+        "d": "NBILPO"
+    },
+    {
+        "l": "RBSPO (Rastriya Beema Sansthan Promoter Share)",
+        "v": "3439",
+        "d": "RBSPO"
+    },
+    {
+        "l": "NIBSF1 (NIBL Samriddhi Fund 1)",
+        "v": "3440",
+        "d": "NIBSF1"
+    },
+    {
+        "l": "CSDBLP (Cosmos Development Bank Ltd. Promoter Share)",
+        "v": "3441",
+        "d": "CSDBLP"
+    },
+    {
+        "l": "CNDBLP (Country Development Bank Limited Promoter Share)",
+        "v": "3442",
+        "d": "CNDBLP"
+    },
+    {
+        "l": "EKBLPO (Ekata Bikas Bank Ltd. Promoter Share)",
+        "v": "3443",
+        "d": "EKBLPO"
+    },
+    {
+        "l": "HAMROP (Hamro Bikas Bank Limited Promoter Share)",
+        "v": "3444",
+        "d": "HAMROP"
+    },
+    {
+        "l": "KNBLPO (Kankai Bikas Bank Ltd. Promoter Share)",
+        "v": "3445",
+        "d": "KNBLPO"
+    },
+    {
+        "l": "LLBSPO (Laxmi Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "3446",
+        "d": "LLBSPO"
+    },
+    {
+        "l": "MNBBLP (Muktinath Bikas Bank Limited Promoter Share)",
+        "v": "3447",
+        "d": "MNBBLP"
+    },
+    {
+        "l": "NNLBPO (Naya Nepal Laghubitta Bikas Bank Ltd. Promoter Share)",
+        "v": "3448",
+        "d": "NNLBPO"
+    },
+    {
+        "l": "BUDBLP (Business Universal Development Bank Ltd. Promoter Share)",
+        "v": "3449",
+        "d": "BUDBLP"
+    },
+    {
+        "l": "PFCPO (Paschimanchal Finance Co. Ltd. Promoter Share)",
+        "v": "3450",
+        "d": "PFCPO"
+    },
+    {
+        "l": "JHBLPO (Jhimruk Bikas Bank Ltd. Promoter Share)",
+        "v": "3451",
+        "d": "JHBLPO"
+    },
+    {
+        "l": "NBBLPO (NagBeli LaghuBitta Bikas Bank Ltd. Promoter Share)",
+        "v": "3452",
+        "d": "NBBLPO"
+    },
+    {
+        "l": "NFSPO (Nepal Finance Ltd. Promoter Share)",
+        "v": "3453",
+        "d": "NFSPO"
+    },
+    {
+        "l": "PICLPO (Prudential Insurance Co. Ltd. Promoter Share)",
+        "v": "3454",
+        "d": "PICLPO"
+    },
+    {
+        "l": "RLFLPO (Reliance Finance Limited Promoter Share)",
+        "v": "3455",
+        "d": "RLFLPO"
+    },
+    {
+        "l": "ALDBLP (Alpine Development Bank Limited Promoter Share)",
+        "v": "3456",
+        "d": "ALDBLP"
+    },
+    {
+        "l": "APEXPO (Apex Development Bank Ltd. Promoter Share)",
+        "v": "3457",
+        "d": "APEXPO"
+    },
+    {
+        "l": "CCBLPO (Century Commercial Bank Limited Promoter Share)",
+        "v": "3458",
+        "d": "CCBLPO"
+    },
+    {
+        "l": "CBLPO (Civil Bank Ltd Promoter Share)",
+        "v": "3459",
+        "d": "CBLPO"
+    },
+    {
+        "l": "GDBLPO (Gandaki Bikas Bank Limited Promoter Share)",
+        "v": "3460",
+        "d": "GDBLPO"
+    },
+    {
+        "l": "GABLPO (Gaumukhee Bikas Bank Ltd. Promoter Share)",
+        "v": "3461",
+        "d": "GABLPO"
+    },
+    {
+        "l": "JBNLPO (Janata Bank Nepal Ltd. Promoter Share)",
+        "v": "3462",
+        "d": "JBNLPO"
+    },
+    {
+        "l": "JEFLPO (Jebils Finance Ltd. Promoter Share)",
+        "v": "3463",
+        "d": "JEFLPO"
+    },
+    {
+        "l": "MSBBLP (Manaslu Bikas Bank Limited Promoter Share)",
+        "v": "3464",
+        "d": "MSBBLP"
+    },
+    {
+        "l": "MEGAPO (Mega Bank Nepal Limited Promoter Share)",
+        "v": "3465",
+        "d": "MEGAPO"
+    },
+    {
+        "l": "MIDBLP (Mission Development Bank Ltd. Promoter Share)",
+        "v": "3466",
+        "d": "MIDBLP"
+    },
+    {
+        "l": "NBSLPO (Namaste Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "3467",
+        "d": "NBSLPO"
+    },
+    {
+        "l": "NLBBLP (Nerude Laghubita Bittiya Sanstha Limited Promoter Share)",
+        "v": "3468",
+        "d": "NLBBLP"
+    },
+    {
+        "l": "NIDCPO (N.I.D.C Development Bank Ltd. Promoter Share)",
+        "v": "3469",
+        "d": "NIDCPO"
+    },
+    {
+        "l": "NUBLPO (Nirdhan Utthan Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "3470",
+        "d": "NUBLPO"
+    },
+    {
+        "l": "PRDBLP (Professional Diyalo Bikas Bank Ltd. Promoter Share)",
+        "v": "3471",
+        "d": "PRDBLP"
+    },
+    {
+        "l": "RMDCPO (Rural Microfinance Development Centre Limited Promoter Share)",
+        "v": "3472",
+        "d": "RMDCPO"
+    },
+    {
+        "l": "SKBBLP (Sana Kisan Bikas Laghubitta Bittiya sanstha Limited Promoter Share)",
+        "v": "3473",
+        "d": "SKBBLP"
+    },
+    {
+        "l": "SHINEP (Shine Resunga Development Bank Limited Promoter Share)",
+        "v": "3474",
+        "d": "SHINEP"
+    },
+    {
+        "l": "SINDUP (Sindhu Bikash Bank Limited Promoter Share)",
+        "v": "3475",
+        "d": "SINDUP"
+    },
+    {
+        "l": "SODBL (Society Development Bank Ltd.)",
+        "v": "3476",
+        "d": "SODBL"
+    },
+    {
+        "l": "SCBPO (Standard Chartered Bank Limited Promoter Share)",
+        "v": "3477",
+        "d": "SCBPO"
+    },
+    {
+        "l": "SMFDBP (Summit Laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "3478",
+        "d": "SMFDBP"
+    },
+    {
+        "l": "PRIN (Prabhu Insurance Ltd.)",
+        "v": "3479",
+        "d": "PRIN"
+    },
+    {
+        "l": "CFCLPO (Central Finance Company Limited Promoter Share)",
+        "v": "3480",
+        "d": "CFCLPO"
+    },
+    {
+        "l": "RBCL (Rastriya Beema Company Limited)",
+        "v": "3481",
+        "d": "RBCL"
+    },
+    {
+        "l": "LVF1 (Laxmi Value Fund-1)",
+        "v": "3482",
+        "d": "LVF1"
+    },
+    {
+        "l": "KMBLPO (Kamana Bikas Bank Limited Promoter Share)",
+        "v": "3483",
+        "d": "KMBLPO"
+    },
+    {
+        "l": "RBCLPO (Rastriya Beema Company Limited Promoter Share)",
+        "v": "3484",
+        "d": "RBCLPO"
+    },
+    {
+        "l": "RBBBL (Raptibheri Bikas Bank Ltd.)",
+        "v": "3485",
+        "d": "RBBBL"
+    },
+    {
+        "l": "BFCL (Bhaktapur Finance Co. Ltd.)",
+        "v": "3486",
+        "d": "BFCL"
+    },
+    {
+        "l": "KMCDBP (Kalika Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "3487",
+        "d": "KMCDBP"
+    },
+    {
+        "l": "PADBLP (Pacific Development Bank Ltd. Promoter Share)",
+        "v": "3488",
+        "d": "PADBLP"
+    },
+    {
+        "l": "BGDBLP (Bagmati Development Bank Ltd. Promoter Share)",
+        "v": "3489",
+        "d": "BGDBLP"
+    },
+    {
+        "l": "PRINPO (Prabhu Insurance Company Ltd. Promoter)",
+        "v": "3490",
+        "d": "PRINPO"
+    },
+    {
+        "l": "DDBLPO (Deprosc LaghuBitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "3491",
+        "d": "DDBLPO"
+    },
+    {
+        "l": "MMFDB (Mirmire Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "3492",
+        "d": "MMFDB"
+    },
+    {
+        "l": "INDBPO (Innovative Development Bank Ltd. Promoter Share)",
+        "v": "3493",
+        "d": "INDBPO"
+    },
+    {
+        "l": "NLGPO (NLG Insurance Company Ltd. Promoter Share)",
+        "v": "3494",
+        "d": "NLGPO"
+    },
+    {
+        "l": "SODBLP (Society Development Bank Limited Promoter Share)",
+        "v": "3495",
+        "d": "SODBLP"
+    },
+    {
+        "l": "ARUNPO (Arun Finance Limited Promoter Share)",
+        "v": "3496",
+        "d": "ARUNPO"
+    },
+    {
+        "l": "DBBL (Deva Bikas Bank Limited)",
+        "v": "3497",
+        "d": "DBBL"
+    },
+    {
+        "l": "DBBLPO (Dev BikasBank Ltd. Promoter Share)",
+        "v": "3498",
+        "d": "DBBLPO"
+    },
+    {
+        "l": "NIBL (Nabil Investment Banking Limited)",
+        "v": "3499",
+        "d": "NIBL"
+    },
+    {
+        "l": "HURJA (Himalaya Urja Bikas Company Limited)",
+        "v": "3501",
+        "d": "HURJA"
+    },
+    {
+        "l": "AKPL (Arun Kabeli Power Ltd.)",
+        "v": "3506",
+        "d": "AKPL"
+    },
+    {
+        "l": "BARUN (Barun Hydropower Co. Ltd.)",
+        "v": "3508",
+        "d": "BARUN"
+    },
+    {
+        "l": "FBBL (Fewa Bikas Bank Limited)",
+        "v": "3510",
+        "d": "FBBL"
+    },
+    {
+        "l": "SAFL (Sagarmatha Finance Limited)",
+        "v": "3511",
+        "d": "SAFL"
+    },
+    {
+        "l": "ILFCPO (International Leasing & Finance Co. Ltd. Promoter Share)",
+        "v": "3512",
+        "d": "ILFCPO"
+    },
+    {
+        "l": "NICLPO (Nepal Insurance Co. Ltd Promoter Share)",
+        "v": "3513",
+        "d": "NICLPO"
+    },
+    {
+        "l": "TDBLPO (Tourism Development Bank Limited Prmoter Share)",
+        "v": "3514",
+        "d": "TDBLPO"
+    },
+    {
+        "l": "SBLD78 (7.5% sbl debenture)",
+        "v": "3516",
+        "d": "SBLD78"
+    },
+    {
+        "l": "MSMBS (Mahila Sahayatra Laghubitta Bittiya Sanstha Limited)",
+        "v": "3517",
+        "d": "MSMBS"
+    },
+    {
+        "l": "ILFCM (ILFCO Microfinance Bittiya Sanstha Ltd.)",
+        "v": "3518",
+        "d": "ILFCM"
+    },
+    {
+        "l": "JSLBB (Janautthan Samudayic Laghubitta Bittiya Sanstha Limited)",
+        "v": "3519",
+        "d": "JSLBB"
+    },
+    {
+        "l": "KMFL (Kisan Microfinance Bittiya Sanstha Ltd.)",
+        "v": "3520",
+        "d": "KMFL"
+    },
+    {
+        "l": "LICNPO (Life Insurance Co. Nepal Promoter Share)",
+        "v": "3525",
+        "d": "LICNPO"
+    },
+    {
+        "l": "API (Api Power Company Ltd.)",
+        "v": "4525",
+        "d": "API"
+    },
+    {
+        "l": "CBBLPO (Chhimek Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "4529",
+        "d": "CBBLPO"
+    },
+    {
+        "l": "NCDBPO (Nepal Community Development Bank Ltd. Promoter Share)",
+        "v": "4530",
+        "d": "NCDBPO"
+    },
+    {
+        "l": "EICPO (Everest Insurance Company Limited Promoter Share)",
+        "v": "4531",
+        "d": "EICPO"
+    },
+    {
+        "l": "HGIPO (Himalayan General Insurance Compny Limited Promoter Share)",
+        "v": "4532",
+        "d": "HGIPO"
+    },
+    {
+        "l": "LGILPO (Lumbini General Insurance Co. Ltd. Promoter Share)",
+        "v": "4533",
+        "d": "LGILPO"
+    },
+    {
+        "l": "PLICPO (Prime Life Insurance Company Limited Promoter Share)",
+        "v": "4534",
+        "d": "PLICPO"
+    },
+    {
+        "l": "RBB (Rastriya Banijya Bank Limited)",
+        "v": "4535",
+        "d": "RBB"
+    },
+    {
+        "l": "NICLL (National Insurance Company Limited)",
+        "v": "4536",
+        "d": "NICLL"
+    },
+    {
+        "l": "NGPL (Ngadi Group Power Ltd.)",
+        "v": "4537",
+        "d": "NGPL"
+    },
+    {
+        "l": "RHL (Remit Hydro Limited)",
+        "v": "4540",
+        "d": "RHL"
+    },
+    {
+        "l": "WOMI (Womi Microfinance Bittiya Sanstha Ltd.)",
+        "v": "4541",
+        "d": "WOMI"
+    },
+    {
+        "l": "SEBON (Securities Board of Nepal)",
+        "v": "4542",
+        "d": "SEBON"
+    },
+    {
+        "l": "NMBL (NCM Merchant Banking Limited)",
+        "v": "4543",
+        "d": "NMBL"
+    },
+    {
+        "l": "MALIC (MetLife American Life Insurance Company)",
+        "v": "4544",
+        "d": "MALIC"
+    },
+    {
+        "l": "ICRA (ICRA Nepal)",
+        "v": "4545",
+        "d": "ICRA"
+    },
+    {
+        "l": "QCL (Quantum Capital Limited)",
+        "v": "4551",
+        "d": "QCL"
+    },
+    {
+        "l": "EIL (Excelling Investment Limited)",
+        "v": "4552",
+        "d": "EIL"
+    },
+    {
+        "l": "MHL (Mandakini Hydropower Limited)",
+        "v": "4553",
+        "d": "MHL"
+    },
+    {
+        "l": "GRDBL (Green Development Bank Ltd.)",
+        "v": "4554",
+        "d": "GRDBL"
+    },
+    {
+        "l": "NYADI (Nyadi Hydropower Limited)",
+        "v": "4555",
+        "d": "NYADI"
+    },
+    {
+        "l": "SBAN (Stock Brokers Association of Nepal)",
+        "v": "4556",
+        "d": "SBAN"
+    },
+    {
+        "l": "VLBS (Vijaya laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4557",
+        "d": "VLBS"
+    },
+    {
+        "l": "MLBBLP (Mithila Laghubitta Bikas Bank Limited Promoter Share)",
+        "v": "4558",
+        "d": "MLBBLP"
+    },
+    {
+        "l": "KCAIL (Kriti Capital and Investment Limited)",
+        "v": "4559",
+        "d": "KCAIL"
+    },
+    {
+        "l": "RSDC (RSDC Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4560",
+        "d": "RSDC"
+    },
+    {
+        "l": "SJCL (SANJEN JALAVIDHYUT COMPANY LIMITED)",
+        "v": "4561",
+        "d": "SJCL"
+    },
+    {
+        "l": "Peoples (Peoples Investment Company Limited)",
+        "v": "4563",
+        "d": "Peoples"
+    },
+    {
+        "l": "CDS (CDS and Clearing Limited)",
+        "v": "4564",
+        "d": "CDS"
+    },
+    {
+        "l": "RHPL (RASUWAGADHI HYDROPOWER COMPANY LIMITED)",
+        "v": "4566",
+        "d": "RHPL"
+    },
+    {
+        "l": "GUHPL (Garjang Upatyaka Hydro Power Ltd.)",
+        "v": "4567",
+        "d": "GUHPL"
+    },
+    {
+        "l": "KHL (Khudi Hydropower Limited)",
+        "v": "4569",
+        "d": "KHL"
+    },
+    {
+        "l": "NRB (Nepal Rastra Bank)",
+        "v": "4570",
+        "d": "NRB"
+    },
+    {
+        "l": "SADBLP (Shangrila Development Bank Ltd. Promoter Share)",
+        "v": "4571",
+        "d": "SADBLP"
+    },
+    {
+        "l": "NLCL (Nepal Life Capital Limited)",
+        "v": "4572",
+        "d": "NLCL"
+    },
+    {
+        "l": "INDBLP (International Development Bank Ltd Promoter Share)",
+        "v": "4573",
+        "d": "INDBLP"
+    },
+    {
+        "l": "KADBLP (Kanchan Development Bank Limited Promoter Share)",
+        "v": "4574",
+        "d": "KADBLP"
+    },
+    {
+        "l": "MMFDBP (Mirmire Laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4575",
+        "d": "MMFDBP"
+    },
+    {
+        "l": "PICPO (Premier Insurance Co. Ltd. Promoter Share)",
+        "v": "4577",
+        "d": "PICPO"
+    },
+    {
+        "l": "PURBLP (Purnima Bikas Bank Limited Promoter Share)",
+        "v": "4578",
+        "d": "PURBLP"
+    },
+    {
+        "l": "SAFLPO (Sagarmatha Finance Limited Promoter Share)",
+        "v": "4579",
+        "d": "SAFLPO"
+    },
+    {
+        "l": "VLBSPO (Vijaya laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4580",
+        "d": "VLBSPO"
+    },
+    {
+        "l": "UMHL (United Modi Hydropower Ltd.)",
+        "v": "4582",
+        "d": "UMHL"
+    },
+    {
+        "l": "JSLBBP (Janautthan Samudayic Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "4583",
+        "d": "JSLBBP"
+    },
+    {
+        "l": "KCDBLP (Kalinchowk Development Bank Ltd. Promoter Share)",
+        "v": "4584",
+        "d": "KCDBLP"
+    },
+    {
+        "l": "RBBBLP (Rapti Bheri Bikas Bank Ltd. Promoter Share)",
+        "v": "4585",
+        "d": "RBBBLP"
+    },
+    {
+        "l": "SLBBLP (Swarojgar Laghu Bitta Bikas Bank Ltd. Promoter Share)",
+        "v": "4588",
+        "d": "SLBBLP"
+    },
+    {
+        "l": "WOMIPO (Womi Microfinance Bittiya Sanstha Limited Promoter Share)",
+        "v": "4589",
+        "d": "WOMIPO"
+    },
+    {
+        "l": "FBBLPO (Fewa Bikas Bank Ltd. Promoter Share)",
+        "v": "4591",
+        "d": "FBBLPO"
+    },
+    {
+        "l": "CVMFPO (Clean Village Microfinance Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4592",
+        "d": "CVMFPO"
+    },
+    {
+        "l": "FMDBLP (First Micro Finance Laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4593",
+        "d": "FMDBLP"
+    },
+    {
+        "l": "ILFCMP (ILFCO Microfinance Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4594",
+        "d": "ILFCMP"
+    },
+    {
+        "l": "MMDBLP (Mount Makalu Development Bank Ltd. Promoter Share)",
+        "v": "4595",
+        "d": "MMDBLP"
+    },
+    {
+        "l": "BFCLPO (Bhaktapur Finance Co. Ltd. Promoter Share)",
+        "v": "4596",
+        "d": "BFCLPO"
+    },
+    {
+        "l": "GMFILP (Guheyshwori Merchant & Finance Ltd. Promoter Share)",
+        "v": "4597",
+        "d": "GMFILP"
+    },
+    {
+        "l": "KEBLPO (Kabeli BIkas Bank Ltd. Promoter Share)",
+        "v": "4598",
+        "d": "KEBLPO"
+    },
+    {
+        "l": "KKBLPO (Kankre Bihar Bikash Bank Limited Promoter Share)",
+        "v": "4599",
+        "d": "KKBLPO"
+    },
+    {
+        "l": "UICPO (United Insurance Co. (Nepal) Ltd. Promoter Share)",
+        "v": "4600",
+        "d": "UICPO"
+    },
+    {
+        "l": "NMBCL (NMB Capital Limited)",
+        "v": "4601",
+        "d": "NMBCL"
+    },
+    {
+        "l": "MFILPO (Manjushree Finance Limited Promoter Share)",
+        "v": "4602",
+        "d": "MFILPO"
+    },
+    {
+        "l": "RMFLPO (Reliable Microfinance Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4603",
+        "d": "RMFLPO"
+    },
+    {
+        "l": "SAJHA (Sajha Bikas Bank Ltd.)",
+        "v": "4606",
+        "d": "SAJHA"
+    },
+    {
+        "l": "GICL (Global IME Capital Limited)",
+        "v": "4607",
+        "d": "GICL"
+    },
+    {
+        "l": "DORDI (Dordi Khola Jal Bidyut Company Limited)",
+        "v": "4610",
+        "d": "DORDI"
+    },
+    {
+        "l": "SHCL (Sangay Hydropower Company Limited)",
+        "v": "4611",
+        "d": "SHCL"
+    },
+    {
+        "l": "SKHCL (Sunkoshi Hydropower Company Limited)",
+        "v": "4612",
+        "d": "SKHCL"
+    },
+    {
+        "l": "PHCL (Peoples Hydropower Company Limited)",
+        "v": "4613",
+        "d": "PHCL"
+    },
+    {
+        "l": "PPL (People's Power Limited)",
+        "v": "4614",
+        "d": "PPL"
+    },
+    {
+        "l": "CIVIL (Civil Capital Market)",
+        "v": "4616",
+        "d": "CIVIL"
+    },
+    {
+        "l": "NIBCL (NIBL Ace Capital Limited)",
+        "v": "4617",
+        "d": "NIBCL"
+    },
+    {
+        "l": "LEDCL (Lamjung Electricity Development Company Ltd.)",
+        "v": "4618",
+        "d": "LEDCL"
+    },
+    {
+        "l": "SDCL (Siddhartha Capital Limited)",
+        "v": "4619",
+        "d": "SDCL"
+    },
+    {
+        "l": "ORIENTAL (The Oriental Insurance Company Limited)",
+        "v": "4621",
+        "d": "ORIENTAL"
+    },
+    {
+        "l": "SALAPA (Salapa Bikas Bank Limited)",
+        "v": "4622",
+        "d": "SALAPA"
+    },
+    {
+        "l": "GUFLPO (Gurkhas Finance Limited Promoter Share)",
+        "v": "4628",
+        "d": "GUFLPO"
+    },
+    {
+        "l": "CVMF (Clean Village Microfinance Bittiya Sanstha Ltd.)",
+        "v": "4631",
+        "d": "CVMF"
+    },
+    {
+        "l": "NMBMF (NMB Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4632",
+        "d": "NMBMF"
+    },
+    {
+        "l": "UPCL (UNIVERSAL POWER COMPANY LTD)",
+        "v": "4633",
+        "d": "UPCL"
+    },
+    {
+        "l": "SPL (Shuvam Power Company Limited)",
+        "v": "4634",
+        "d": "SPL"
+    },
+    {
+        "l": "MERO (Meromicrofinance Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4635",
+        "d": "MERO"
+    },
+    {
+        "l": "NEPS (Nepal Elcetronic Payment Systems Limited)",
+        "v": "4636",
+        "d": "NEPS"
+    },
+    {
+        "l": "GIMES1 (Global IME Samunnat Scheme-1)",
+        "v": "4637",
+        "d": "GIMES1"
+    },
+    {
+        "l": "NRIC (Nepal Re-Insurance Company Limited)",
+        "v": "4638",
+        "d": "NRIC"
+    },
+    {
+        "l": "GMBL (Growmore Merchant Banker Limited)",
+        "v": "4639",
+        "d": "GMBL"
+    },
+    {
+        "l": "PRMBL (Provident Merchant Banking Limited)",
+        "v": "4640",
+        "d": "PRMBL"
+    },
+    {
+        "l": "NADEP (Nadep Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4641",
+        "d": "NADEP"
+    },
+    {
+        "l": "ODBL (Om Development Bank Ltd.)",
+        "v": "4642",
+        "d": "ODBL"
+    },
+    {
+        "l": "SPDL (Synergy Power Development Ltd.)",
+        "v": "4643",
+        "d": "SPDL"
+    },
+    {
+        "l": "LCML (Laxmi Capital Market Limited)",
+        "v": "4644",
+        "d": "LCML"
+    },
+    {
+        "l": "KRBLPO (Karnali Development Bank Limited Promoter Share)",
+        "v": "4645",
+        "d": "KRBLPO"
+    },
+    {
+        "l": "PRVUCL (Prabhu Capital Limited)",
+        "v": "4646",
+        "d": "PRVUCL"
+    },
+    {
+        "l": "HATHY (Hathway Investment Nepal Limited)",
+        "v": "4647",
+        "d": "HATHY"
+    },
+    {
+        "l": "ACE (ACE Capital Limited)",
+        "v": "4648",
+        "d": "ACE"
+    },
+    {
+        "l": "NCHL (Nepal Clearing House Limited)",
+        "v": "4649",
+        "d": "NCHL"
+    },
+    {
+        "l": "BOKL (Bank of Kathmandu Ltd.)",
+        "v": "4652",
+        "d": "BOKL"
+    },
+    {
+        "l": "JSLBSL (Janasewi Laghubitta Bittiya Sanstha Limited)",
+        "v": "4653",
+        "d": "JSLBSL"
+    },
+    {
+        "l": "BOKLPO (Bank of Kathmandu Limited Promoter Share)",
+        "v": "4654",
+        "d": "BOKLPO"
+    },
+    {
+        "l": "VSDBL (Vibor Society Development Bank Limited)",
+        "v": "4655",
+        "d": "VSDBL"
+    },
+    {
+        "l": "VSDBLP (Vibor Society Development Bank Limited Promoter Share)",
+        "v": "4660",
+        "d": "VSDBLP"
+    },
+    {
+        "l": "ALBSL (Asha Laghubitta Bittiya Sanstha Limited)",
+        "v": "4661",
+        "d": "ALBSL"
+    },
+    {
+        "l": "SACL (Sanima Capital Limited)",
+        "v": "4662",
+        "d": "SACL"
+    },
+    {
+        "l": "Siddhartha mutual Fu (Siddhartha mutual Fund)",
+        "v": "4663",
+        "d": "Siddhartha mutual Fu"
+    },
+    {
+        "l": "KTMC (Kathmandu Capital Market Limited)",
+        "v": "4664",
+        "d": "KTMC"
+    },
+    {
+        "l": "NMFBS (National Laghubitta Bittiya Sanstha Limited)",
+        "v": "4665",
+        "d": "NMFBS"
+    },
+    {
+        "l": "MKJC (Mailung Khola Jal Vidhyut Company  Limited)",
+        "v": "4667",
+        "d": "MKJC"
+    },
+    {
+        "l": "NHEL (Nepal Hydro And Electric Limited)",
+        "v": "4669",
+        "d": "NHEL"
+    },
+    {
+        "l": "SAHAS (Sahas Urja Limited)",
+        "v": "4670",
+        "d": "SAHAS"
+    },
+    {
+        "l": "NEF (Nabil Equity Fund)",
+        "v": "4672",
+        "d": "NEF"
+    },
+    {
+        "l": "MOEl (Morang Energy Limited)",
+        "v": "4673",
+        "d": "MOEl"
+    },
+    {
+        "l": "SLBS (Suryodaya Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4674",
+        "d": "SLBS"
+    },
+    {
+        "l": "MLBL (Mahalaxmi Bikas Bank Ltd.)",
+        "v": "4675",
+        "d": "MLBL"
+    },
+    {
+        "l": "KKHC (Khanikhola Hydropower Co. Ltd.)",
+        "v": "4676",
+        "d": "KKHC"
+    },
+    {
+        "l": "NIBLPF (NIBL Pragati Fund)",
+        "v": "4677",
+        "d": "NIBLPF"
+    },
+    {
+        "l": "HPPL (Himalayan Power Partner Ltd.)",
+        "v": "4678",
+        "d": "HPPL"
+    },
+    {
+        "l": "NMBHF1 (NMB Hybrid Fund L-1)",
+        "v": "4679",
+        "d": "NMBHF1"
+    },
+    {
+        "l": "GMFBS (Ganapati Microfinance Bittiya Sanstha Ltd)",
+        "v": "4681",
+        "d": "GMFBS"
+    },
+    {
+        "l": "DHPL (Dibyashwori Hydropower Ltd.)",
+        "v": "4682",
+        "d": "DHPL"
+    },
+    {
+        "l": "NCBL (Rastriya Sahakari Bank Limited)",
+        "v": "4683",
+        "d": "NCBL"
+    },
+    {
+        "l": "ESML (Eastern Sugar Mills Limited)",
+        "v": "4684",
+        "d": "ESML"
+    },
+    {
+        "l": "KMBSLP (unknown)",
+        "v": "4685",
+        "d": "KMBSLP"
+    },
+    {
+        "l": "GGBSL (Ghodighoda Laghu Bitta Bittiya Sanstha Limited)",
+        "v": "4686",
+        "d": "GGBSL"
+    },
+    {
+        "l": "SDICL (Super Dordi Investment Company Limited)",
+        "v": "4688",
+        "d": "SDICL"
+    },
+    {
+        "l": "GUFL (Gurkhas Finance Ltd.)",
+        "v": "4689",
+        "d": "GUFL"
+    },
+    {
+        "l": "SKDBLPO (Saptakoshi Development Bank Limited Promoter Share)",
+        "v": "4692",
+        "d": "SKDBLPO"
+    },
+    {
+        "l": "CLI (Citizen Life Insurance Company Limited)",
+        "v": "4693",
+        "d": "CLI"
+    },
+    {
+        "l": "DBANL (Development Bankers Association Nepal Limited)",
+        "v": "4694",
+        "d": "DBANL"
+    },
+    {
+        "l": "GALUN (Galun Khola Hydropower Company Limited)",
+        "v": "4696",
+        "d": "GALUN"
+    },
+    {
+        "l": "BHPL (Barahi Hydropower Public Limited)",
+        "v": "4698",
+        "d": "BHPL"
+    },
+    {
+        "l": "HLBSL (Himalayan Laghubitta Bittiya Sanstha Limited)",
+        "v": "4699",
+        "d": "HLBSL"
+    },
+    {
+        "l": "LYNCH (Lynch Stock Market Limited)",
+        "v": "4700",
+        "d": "LYNCH"
+    },
+    {
+        "l": "ILBS (Infinity Laghubitta Bittiya Sanstha Limited)",
+        "v": "4701",
+        "d": "ILBS"
+    },
+    {
+        "l": "FOWAD (Forward Microfinance Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4702",
+        "d": "FOWAD"
+    },
+    {
+        "l": "MHNL (Mountain Hydro Nepal Limited)",
+        "v": "4703",
+        "d": "MHNL"
+    },
+    {
+        "l": "MLIL (Mahalaxmi Life Insurance Limited)",
+        "v": "4704",
+        "d": "MLIL"
+    },
+    {
+        "l": "BHKP (Bhairabkunda Hydropower Limited)",
+        "v": "4705",
+        "d": "BHKP"
+    },
+    {
+        "l": "SMATA (Samata Gharelu Laghubitta Bittiya Sanstha Limited)",
+        "v": "4706",
+        "d": "SMATA"
+    },
+    {
+        "l": "SANOMILTI (Sano Milti Khola Hydropower Limited)",
+        "v": "4709",
+        "d": "SANOMILTI"
+    },
+    {
+        "l": "LBBL (Lumbini Bikas Bank Ltd.)",
+        "v": "4711",
+        "d": "LBBL"
+    },
+    {
+        "l": "MBAN (Merchant Bankers Association Of Nepal)",
+        "v": "4712",
+        "d": "MBAN"
+    },
+    {
+        "l": "SDESI (Swadeshi Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4714",
+        "d": "SDESI"
+    },
+    {
+        "l": "LEMF (Laxmi Equity Fund)",
+        "v": "4715",
+        "d": "LEMF"
+    },
+    {
+        "l": "CHL (Chhyangdi Hydropower Ltd.)",
+        "v": "4716",
+        "d": "CHL"
+    },
+    {
+        "l": "CBIL (CBIL CAPITAL)",
+        "v": "4718",
+        "d": "CBIL"
+    },
+    {
+        "l": "NICCL (NIC Asia Capital Limited)",
+        "v": "4720",
+        "d": "NICCL"
+    },
+    {
+        "l": "MSLB (Mahuli Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4722",
+        "d": "MSLB"
+    },
+    {
+        "l": "ODBLPO (Om Development Bank Ltd. Promoter)",
+        "v": "4725",
+        "d": "ODBLPO"
+    },
+    {
+        "l": "KSBBL (Kamana Sewa Bikas Bank Limited)",
+        "v": "4726",
+        "d": "KSBBL"
+    },
+    {
+        "l": "STAR (Star Life Insurance Company Limited)",
+        "v": "4727",
+        "d": "STAR"
+    },
+    {
+        "l": "RELIABLE CAPITAL (Reliable Capital Limited)",
+        "v": "4729",
+        "d": "RELIABLE CAPITAL"
+    },
+    {
+        "l": "USHL (Upper Syange  Hydropower Limited)",
+        "v": "4730",
+        "d": "USHL"
+    },
+    {
+        "l": "NBINSL (National Banking Institute Limited)",
+        "v": "4731",
+        "d": "NBINSL"
+    },
+    {
+        "l": "SPHL (Sayapatri Hydropower Limited)",
+        "v": "4732",
+        "d": "SPHL"
+    },
+    {
+        "l": "SCL (Sunrise Capital Limited)",
+        "v": "4733",
+        "d": "SCL"
+    },
+    {
+        "l": "HPL (Himal Power Limited)",
+        "v": "4734",
+        "d": "HPL"
+    },
+    {
+        "l": "BFC (Best Finance Company Ltd.)",
+        "v": "4735",
+        "d": "BFC"
+    },
+    {
+        "l": "KSBBLP (Kamana Sewa Bikas Bank Limited Promoter Share)",
+        "v": "4736",
+        "d": "KSBBLP"
+    },
+    {
+        "l": "MLBLPO (Mahalxmi Bikas Bank Ltd. Promotor Share)",
+        "v": "4737",
+        "d": "MLBLPO"
+    },
+    {
+        "l": "SAMRIDDHI (Samriddhi Capital Limited)",
+        "v": "4738",
+        "d": "SAMRIDDHI"
+    },
+    {
+        "l": "NHDL (Nepal Hydro Developers Ltd.)",
+        "v": "4739",
+        "d": "NHDL"
+    },
+    {
+        "l": "RNLI (Reliable Nepal Life Insurance Limited)",
+        "v": "4740",
+        "d": "RNLI"
+    },
+    {
+        "l": "BFCPO (Best Finance Co. Limited Promoter Share)",
+        "v": "4741",
+        "d": "BFCPO"
+    },
+    {
+        "l": "IGI (IGI Prudential Insurance Company Limited)",
+        "v": "4742",
+        "d": "IGI"
+    },
+    {
+        "l": "MPFLPO (Multipurpose Finance Company  Limited Promoter Share)",
+        "v": "4743",
+        "d": "MPFLPO"
+    },
+    {
+        "l": "SEF (Siddhartha Equity Fund)",
+        "v": "4745",
+        "d": "SEF"
+    },
+    {
+        "l": "LBBLPO (Lumbini Bikas Bank Ltd. Promoter Share)",
+        "v": "4746",
+        "d": "LBBLPO"
+    },
+    {
+        "l": "GILB (Global IME Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4747",
+        "d": "GILB"
+    },
+    {
+        "l": "SLI (Sanima Life Insurance Limited)",
+        "v": "4748",
+        "d": "SLI"
+    },
+    {
+        "l": "JLI (Jyoti Life Insurance Company Limited)",
+        "v": "4749",
+        "d": "JLI"
+    },
+    {
+        "l": "ULI (Union Life Insurance Company Limited)",
+        "v": "4750",
+        "d": "ULI"
+    },
+    {
+        "l": "ILI (IME Life Insurance Company Limited)",
+        "v": "4751",
+        "d": "ILI"
+    },
+    {
+        "l": "SMB (Support Microfinance Bittiya Sanstha Ltd.)",
+        "v": "4752",
+        "d": "SMB"
+    },
+    {
+        "l": "SAEF (Sanima Equity Fund)",
+        "v": "4753",
+        "d": "SAEF"
+    },
+    {
+        "l": "CEFL (City Express Finance Co. Limited)",
+        "v": "4761",
+        "d": "CEFL"
+    },
+    {
+        "l": "HATH (Hathway Finance Company Limited)",
+        "v": "4763",
+        "d": "HATH"
+    },
+    {
+        "l": "RADHI (Radhi Bidyut Company Ltd)",
+        "v": "4764",
+        "d": "RADHI"
+    },
+    {
+        "l": "CEFLPO (City Express Finance Co. Ltd. Promoter Share)",
+        "v": "4765",
+        "d": "CEFLPO"
+    },
+    {
+        "l": "AMFI (Arambha Microfinance Bittiya Sanstha Ltd.)",
+        "v": "4766",
+        "d": "AMFI"
+    },
+    {
+        "l": "IGIPO (IGI Prudential insurance Limited Promoter Share)",
+        "v": "4768",
+        "d": "IGIPO"
+    },
+    {
+        "l": "Nepal Security Board (Nepal Security Board)",
+        "v": "4769",
+        "d": "Nepal Security Board"
+    },
+    {
+        "l": "NICGF (NIC Asia Growth Fund)",
+        "v": "4770",
+        "d": "NICGF"
+    },
+    {
+        "l": "CMF1 (Citizens Mutual Fund -1)",
+        "v": "4771",
+        "d": "CMF1"
+    },
+    {
+        "l": "BNHC (Buddhabhumi Nepal Hydropower Company Limited)",
+        "v": "4772",
+        "d": "BNHC"
+    },
+    {
+        "l": "GBLBS (Grameen Bikas Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4774",
+        "d": "GBLBS"
+    },
+    {
+        "l": "RHGCL (Rapti Hydro and General Construction Limited)",
+        "v": "4775",
+        "d": "RHGCL"
+    },
+    {
+        "l": "NBSS (Nepal Bittiya Sanstha Sangh)",
+        "v": "4777",
+        "d": "NBSS"
+    },
+    {
+        "l": "RLI (Reliance Life Insurance Company Limited)",
+        "v": "4778",
+        "d": "RLI"
+    },
+    {
+        "l": "NAGARIK (Nagarik Laghubitta Bittiya Sanstha ltd)",
+        "v": "4780",
+        "d": "NAGARIK"
+    },
+    {
+        "l": "SNLI (Sun Nepal Life Insurance Company Limited)",
+        "v": "4781",
+        "d": "SNLI"
+    },
+    {
+        "l": "SSL (Securd Securities Limited)",
+        "v": "4782",
+        "d": "SSL"
+    },
+    {
+        "l": "NESDO (NESDO Sambridha Laghubitta Bittiye Sanstha Limited)",
+        "v": "4783",
+        "d": "NESDO"
+    },
+    {
+        "l": "KIL (Khare Investment Limited)",
+        "v": "4784",
+        "d": "KIL"
+    },
+    {
+        "l": "ICEL (Inspire Clean Energy Limited)",
+        "v": "4785",
+        "d": "ICEL"
+    },
+    {
+        "l": "KBCL (Kosh Bewasthapan Company Limited)",
+        "v": "4786",
+        "d": "KBCL"
+    },
+    {
+        "l": "KPCL (Kalika power Company Ltd)",
+        "v": "4787",
+        "d": "KPCL"
+    },
+    {
+        "l": "NSEWA (Nepal Seva Laghubitta Bittiya Sanstha Ltd.)",
+        "v": "4788",
+        "d": "NSEWA"
+    },
+    {
+        "l": "BKSHCL (Betan Karnali Sanchayakarta Hydropower Company Limited)",
+        "v": "4789",
+        "d": "BKSHCL"
+    },
+    {
+        "l": "TAMOR (Sanima Middle Tamor Hydropower Limited)",
+        "v": "4790",
+        "d": "TAMOR"
+    },
+    {
+        "l": "RRHP (Rairang Hydropower Development Company Ltd.)",
+        "v": "4791",
+        "d": "RRHP"
+    },
+    {
+        "l": "SHIVM (SHIVAM CEMENTS LTD)",
+        "v": "4793",
+        "d": "SHIVM"
+    },
+    {
+        "l": "GHL (Ghalemdi Hydro Limited)",
+        "v": "4794",
+        "d": "GHL"
+    },
+    {
+        "l": "KACL (Kathmandu Capital Limited)",
+        "v": "4795",
+        "d": "KACL"
+    },
+    {
+        "l": "NTL (Nepal Tading Limited)",
+        "v": "4796",
+        "d": "NTL"
+    },
+    {
+        "l": "NFL (Nabil Foundation)",
+        "v": "4797",
+        "d": "NFL"
+    },
+    {
+        "l": "MLBSL (Mahila Laghubitta Bittiya Sanstha Limited)",
+        "v": "4798",
+        "d": "MLBSL"
+    },
+    {
+        "l": "KKHL (Kasuwa Khola Hydropower Limited)",
+        "v": "4801",
+        "d": "KKHL"
+    },
+    {
+        "l": "DNL (Deprocx  Nepal)",
+        "v": "4802",
+        "d": "DNL"
+    },
+    {
+        "l": "AIL (AJOD Insurance Limited)",
+        "v": "4803",
+        "d": "AIL"
+    },
+    {
+        "l": "EHPL (Eastern Hydropower Limited)",
+        "v": "4804",
+        "d": "EHPL"
+    },
+    {
+        "l": "ASLSSSL (Aarthik Samriddhi Laghu Bitta Bittiya Sanstha Limited)",
+        "v": "4806",
+        "d": "ASLSSSL"
+    },
+    {
+        "l": "MKLB (Manakamana Smart Laghubitta Bittiya Sanstha Limited)",
+        "v": "4807",
+        "d": "MKLB"
+    },
+    {
+        "l": "NADEPP (Nadep Laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4808",
+        "d": "NADEPP"
+    },
+    {
+        "l": "SGI (Sanima General Insurance Company Limited)",
+        "v": "4809",
+        "d": "SGI"
+    },
+    {
+        "l": "GIC (General Insurance Company Limited)",
+        "v": "4810",
+        "d": "GIC"
+    },
+    {
+        "l": "MKHC (Maya Khola Hydropower Company Limited)",
+        "v": "4812",
+        "d": "MKHC"
+    },
+    {
+        "l": "HBTFL (Harisiddi Brick And Tile Factory Limited)",
+        "v": "4814",
+        "d": "HBTFL"
+    },
+    {
+        "l": "HATHPO (Hathway Finance Company Limited Promoter Share)",
+        "v": "4815",
+        "d": "HATHPO"
+    },
+    {
+        "l": "RLBSL (Ramaroshan Laghubitta Bittiya Sanstha Limited)",
+        "v": "4816",
+        "d": "RLBSL"
+    },
+    {
+        "l": "BEDC (Bhugol Energy Development Company Limited)",
+        "v": "4818",
+        "d": "BEDC"
+    },
+    {
+        "l": "NSBI (Nepal SBI Merchant Banking Limited.)",
+        "v": "4819",
+        "d": "NSBI"
+    },
+    {
+        "l": "PMHPL (Panchakanya Mai Hydropower Ltd)",
+        "v": "4820",
+        "d": "PMHPL"
+    },
+    {
+        "l": "MNL (M. Nepal Limited)",
+        "v": "4821",
+        "d": "MNL"
+    },
+    {
+        "l": "FHIPL (Fund For Hydro Investment Private Limited.)",
+        "v": "4822",
+        "d": "FHIPL"
+    },
+    {
+        "l": "LSML (Linch Stock Market Limited)",
+        "v": "4823",
+        "d": "LSML"
+    },
+    {
+        "l": "KBSH (Kutheli Bukhari Small Hydropower Limited)",
+        "v": "4824",
+        "d": "KBSH"
+    },
+    {
+        "l": "CRNL (Care Ratings Nepal Limited)",
+        "v": "4825",
+        "d": "CRNL"
+    },
+    {
+        "l": "TLBSL (Trilok Laghubitta Bittiya Sanstha Limited)",
+        "v": "4826",
+        "d": "TLBSL"
+    },
+    {
+        "l": "MBJC (Madhya Bhotekoshi Jalavidyut Company Limited)",
+        "v": "4827",
+        "d": "MBJC"
+    },
+    {
+        "l": "Sindhupalchowk (Sindhupalchowk Hydropower Company Limited)",
+        "v": "4828",
+        "d": "Sindhupalchowk"
+    },
+    {
+        "l": "GLBSL (Gurans Laghubitta Bittiya Sanstha Limited)",
+        "v": "4830",
+        "d": "GLBSL"
+    },
+    {
+        "l": "JLKCL (Jalvidhyut Lagani Tatha Bikas Company Limited)",
+        "v": "4831",
+        "d": "JLKCL"
+    },
+    {
+        "l": "GLH (Greenlife Hydropower Limited)",
+        "v": "4833",
+        "d": "GLH"
+    },
+    {
+        "l": "ASALI (Asali Investment Limited)",
+        "v": "4834",
+        "d": "ASALI"
+    },
+    {
+        "l": "NDPL (Nepal DP Limited)",
+        "v": "4835",
+        "d": "NDPL"
+    },
+    {
+        "l": "Nepal (Nepal)",
+        "v": "4836",
+        "d": "Nepal"
+    },
+    {
+        "l": "BMIL (Balkot Multipurpose Investment Limited.)",
+        "v": "4837",
+        "d": "BMIL"
+    },
+    {
+        "l": "PTCNL (Power Transmission Company Nepal Limited)",
+        "v": "4838",
+        "d": "PTCNL"
+    },
+    {
+        "l": "MCML (Mega Capital Markets Limited.)",
+        "v": "4839",
+        "d": "MCML"
+    },
+    {
+        "l": "TSIL (Trisul Securities and Investment Limited)",
+        "v": "4840",
+        "d": "TSIL"
+    },
+    {
+        "l": "KVFL (Kriti Venture Fund Limited)",
+        "v": "4841",
+        "d": "KVFL"
+    },
+    {
+        "l": "SEL (Shangri-la Energy Limited)",
+        "v": "4842",
+        "d": "SEL"
+    },
+    {
+        "l": "HSIL (Hulas Steel Industries Limited)",
+        "v": "4843",
+        "d": "HSIL"
+    },
+    {
+        "l": "MGHL (Myagdi Hydropower Limited)",
+        "v": "4844",
+        "d": "MGHL"
+    },
+    {
+        "l": "KCLACL (K.C.L. Astute Capital Limited)",
+        "v": "4845",
+        "d": "KCLACL"
+    },
+    {
+        "l": "NICLBSL (NIC Asia Laghubitta Biitiya Sanstha Limited)",
+        "v": "4846",
+        "d": "NICLBSL"
+    },
+    {
+        "l": "USHEC (Upper Solu Hydro Electric Company Limited)",
+        "v": "4847",
+        "d": "USHEC"
+    },
+    {
+        "l": "Sisa (Sisa Hydroelectric Company Limited)",
+        "v": "4848",
+        "d": "Sisa"
+    },
+    {
+        "l": "SMLBSL (Shree Manushi Laghubitta Bittiya Sanstha Limited)",
+        "v": "4849",
+        "d": "SMLBSL"
+    },
+    {
+        "l": "JHCL (Jagdulla Hydropower  Company Limited)",
+        "v": "4850",
+        "d": "JHCL"
+    },
+    {
+        "l": "RIFL (Rajdhani Investment Fund Limited)",
+        "v": "4851",
+        "d": "RIFL"
+    },
+    {
+        "l": "SUIL (Samunnati Investment Limited)",
+        "v": "4852",
+        "d": "SUIL"
+    },
+    {
+        "l": "PKHL (Puwa Khola-One Hydropower Limited)",
+        "v": "4854",
+        "d": "PKHL"
+    },
+    {
+        "l": "AKJCL (Ankhu Khola Jalvidhyut Company Ltd)",
+        "v": "4855",
+        "d": "AKJCL"
+    },
+    {
+        "l": "LEC (Liberty Energy Company Limited)",
+        "v": "4856",
+        "d": "LEC"
+    },
+    {
+        "l": "AMCL (Adar Multi Investment Company Limited)",
+        "v": "4857",
+        "d": "AMCL"
+    },
+    {
+        "l": "LBNL (Laughing Buddha Power Nepal Limited)",
+        "v": "4858",
+        "d": "LBNL"
+    },
+    {
+        "l": "CCIL (Chartered Capital & Investment Limited)",
+        "v": "4859",
+        "d": "CCIL"
+    },
+    {
+        "l": "TPC (Terhathum Power Company Limited)",
+        "v": "4860",
+        "d": "TPC"
+    },
+    {
+        "l": "HIDCL (Hydorelectricity Investment and Development Company Ltd)",
+        "v": "4862",
+        "d": "HIDCL"
+    },
+    {
+        "l": "SHEL (Singati Hydro Energy Limited)",
+        "v": "4863",
+        "d": "SHEL"
+    },
+    {
+        "l": "VUCL (Vidhyut Utpadan Company Limited)",
+        "v": "4864",
+        "d": "VUCL"
+    },
+    {
+        "l": "RBBML (RBB Merchant Banking Limited)",
+        "v": "4866",
+        "d": "RBBML"
+    },
+    {
+        "l": "PPCL (Panchthar Power Company Limited)",
+        "v": "4867",
+        "d": "PPCL"
+    },
+    {
+        "l": "ASLBSL (Arthik Samriddhi Laghubitta Bittiya Sanstha Limited)",
+        "v": "4868",
+        "d": "ASLBSL"
+    },
+    {
+        "l": "NAHL (Nepal Araniko Hydropower Limited)",
+        "v": "4869",
+        "d": "NAHL"
+    },
+    {
+        "l": "TSHL (Three Star Hydropower Limited)",
+        "v": "4870",
+        "d": "TSHL"
+    },
+    {
+        "l": "SSHL (Shiva Shree Hydropower Limited)",
+        "v": "4871",
+        "d": "SSHL"
+    },
+    {
+        "l": "SLBSL (Samudayik Laghubitta Bittiya Sanstha Limited)",
+        "v": "4873",
+        "d": "SLBSL"
+    },
+    {
+        "l": "SJHL (Sindhu Jwala Hydropower Limited)",
+        "v": "4874",
+        "d": "SJHL"
+    },
+    {
+        "l": "CHLBS (Chautari Laghubitta Bittya Sanstha Ltd)",
+        "v": "4875",
+        "d": "CHLBS"
+    },
+    {
+        "l": "JOSHI (Joshi Hydropower Development Company Ltd)",
+        "v": "4876",
+        "d": "JOSHI"
+    },
+    {
+        "l": "SPARKS (Sparks Hydroelectric Company Limited)",
+        "v": "4877",
+        "d": "SPARKS"
+    },
+    {
+        "l": "RAN (Rin Asuli Nyayadhikaran)",
+        "v": "4878",
+        "d": "RAN"
+    },
+    {
+        "l": "UPPER (Upper Tamakoshi Hydropower Ltd)",
+        "v": "4879",
+        "d": "UPPER"
+    },
+    {
+        "l": "MKECL (Mount Kailash Energy Company Limited)",
+        "v": "4880",
+        "d": "MKECL"
+    },
+    {
+        "l": "THCL (Tamakoshi Hydropower Company Limited)",
+        "v": "4881",
+        "d": "THCL"
+    },
+    {
+        "l": "HHGCL (Himal Hydro and General Construction Limited)",
+        "v": "4882",
+        "d": "HHGCL"
+    },
+    {
+        "l": "SPARS (Sparsha Laghubitta Bittiya Sanstha Limited)",
+        "v": "4883",
+        "d": "SPARS"
+    },
+    {
+        "l": "SAJILO (Sajilo Laghubitta Sanstha Ltd)",
+        "v": "4884",
+        "d": "SAJILO"
+    },
+    {
+        "l": "SDLBSL (Sadhana Laghubitta Bittiya Sanstha Limited)",
+        "v": "4886",
+        "d": "SDLBSL"
+    },
+    {
+        "l": "RULB (Rastra Utthan Laghubitta Sanstha Limited)",
+        "v": "4887",
+        "d": "RULB"
+    },
+    {
+        "l": "DLBSL (Dibya Laghubitta Bittiya Sanstha Limited)",
+        "v": "4888",
+        "d": "DLBSL"
+    },
+    {
+        "l": "NPBCL (Nepal Purbadhar Bikas Company Limited)",
+        "v": "4889",
+        "d": "NPBCL"
+    },
+    {
+        "l": "KSCL (Krishi Samagri Company Limited)",
+        "v": "4890",
+        "d": "KSCL"
+    },
+    {
+        "l": "NOC (Nepal Oil Corporation Limited)",
+        "v": "4891",
+        "d": "NOC"
+    },
+    {
+        "l": "TVCL (Trishuli Jal Vidhyut Company Limited)",
+        "v": "4892",
+        "d": "TVCL"
+    },
+    {
+        "l": "ANMACL (Arabha Nepal Modern Agricultural Company Limited)",
+        "v": "4893",
+        "d": "ANMACL"
+    },
+    {
+        "l": "SMCL (Sopan Multiple Company Limited)",
+        "v": "4894",
+        "d": "SMCL"
+    },
+    {
+        "l": "CCML (Century Capital Market Limited)",
+        "v": "4895",
+        "d": "CCML"
+    },
+    {
+        "l": "KUKL (Kathmandu Upatyaka Khanepani Limited)",
+        "v": "4896",
+        "d": "KUKL"
+    },
+    {
+        "l": "NIA (Nepal Insurers Association)",
+        "v": "4898",
+        "d": "NIA"
+    },
+    {
+        "l": "CFEL (Commodity Futures Exchange Limited)",
+        "v": "4900",
+        "d": "CFEL"
+    },
+    {
+        "l": "MPL (Molniya Power Limited)",
+        "v": "4902",
+        "d": "MPL"
+    },
+    {
+        "l": "TSPL (Trishakti Securities Public limited)",
+        "v": "4903",
+        "d": "TSPL"
+    },
+    {
+        "l": "NBF2 (NABIL BALANCED FUND-2)",
+        "v": "4904",
+        "d": "NBF2"
+    },
+    {
+        "l": "NAGRO (Nepal Agro Laghubitta Bittiya Sanstha Limited)",
+        "v": "4905",
+        "d": "NAGRO"
+    },
+    {
+        "l": "EHNL (Everest Hydro Nepal Limited)",
+        "v": "4906",
+        "d": "EHNL"
+    },
+    {
+        "l": "UNLB (Unique Nepal Laghubitta Bittiya Sanstha Limited)",
+        "v": "4909",
+        "d": "UNLB"
+    },
+    {
+        "l": "Swastik (Swastik Laghubitta Bittiya Sanstha Limited)",
+        "v": "4910",
+        "d": "Swastik"
+    },
+    {
+        "l": "SWL (Sewa Hydro Limited)",
+        "v": "4911",
+        "d": "SWL"
+    },
+    {
+        "l": "JBLB (Jeevan Bikas Laghubitta Bittiya Sanstha Limited)",
+        "v": "4912",
+        "d": "JBLB"
+    },
+    {
+        "l": "RASTRIYA (Rastriya Aavash Company Limited)",
+        "v": "4913",
+        "d": "RASTRIYA"
+    },
+    {
+        "l": "NIFRA (Nepal Infrastructure Bank Limited)",
+        "v": "4915",
+        "d": "NIFRA"
+    },
+    {
+        "l": "SHLB (Shrijanshil Laghubitta Bittiya Sanstha Limited)",
+        "v": "4916",
+        "d": "SHLB"
+    },
+    {
+        "l": "SIURI (Siuri Nyadi Power Limited)",
+        "v": "4917",
+        "d": "SIURI"
+    },
+    {
+        "l": "CMF2 (CITIZENS MUTUAL FUND 2)",
+        "v": "4918",
+        "d": "CMF2"
+    },
+    {
+        "l": "Nepal Metal (Nepal Metal Company Limited)",
+        "v": "4919",
+        "d": "Nepal Metal"
+    },
+    {
+        "l": "ULBSL (Upakar Laghubitta Bittiya Sanstha Limited)",
+        "v": "4920",
+        "d": "ULBSL"
+    },
+    {
+        "l": "NIBLSF (NIBL Sahabhagita Fund)",
+        "v": "4923",
+        "d": "NIBLSF"
+    },
+    {
+        "l": "APCL (Aarati Power Company Limited)",
+        "v": "4924",
+        "d": "APCL"
+    },
+    {
+        "l": "KANCHANJUNGA (Kanchanjunga Housing Limited)",
+        "v": "4925",
+        "d": "KANCHANJUNGA"
+    },
+    {
+        "l": "ADLB (Adarsha Laghubitta Bittiya Sanstha Limited)",
+        "v": "4926",
+        "d": "ADLB"
+    },
+    {
+        "l": "SWEDA (Sweda Laghubitta Bittiya Sanstha Limited)",
+        "v": "4927",
+        "d": "SWEDA"
+    },
+    {
+        "l": "UNHPL (Union Hydropower Limited)",
+        "v": "4928",
+        "d": "UNHPL"
+    },
+    {
+        "l": "VIBOR (Vibor Capital Limited)",
+        "v": "4930",
+        "d": "VIBOR"
+    },
+    {
+        "l": "SAND2085 (10% Sanima Bank Limited Debenture)",
+        "v": "4931",
+        "d": "SAND2085"
+    },
+    {
+        "l": "SMFBS (Swabhimaan Laghubitta Bittiya Sanstha Ltd)",
+        "v": "4932",
+        "d": "SMFBS"
+    },
+    {
+        "l": "Bomkhola (BomKhola Mini Hydropower Limited)",
+        "v": "4934",
+        "d": "Bomkhola"
+    },
+    {
+        "l": "NBF1 (Nabil Balance Fund 1)",
+        "v": "4935",
+        "d": "NBF1"
+    },
+    {
+        "l": "SIGS1 (Siddhartha Investment Growth Scheme-1)",
+        "v": "4936",
+        "d": "SIGS1"
+    },
+    {
+        "l": "VIJAYADEEP (Vijayadeep Laboratories Limited)",
+        "v": "4937",
+        "d": "VIJAYADEEP"
+    },
+    {
+        "l": "NMB50 (NMB 50)",
+        "v": "4938",
+        "d": "NMB50"
+    },
+    {
+        "l": "SIGS2 (Siddhartha Investment Growth Scheme - 2)",
+        "v": "4939",
+        "d": "SIGS2"
+    },
+    {
+        "l": "Raghuganga (Raghuganga Hydropower Limited)",
+        "v": "4940",
+        "d": "Raghuganga"
+    },
+    {
+        "l": "GSLBSL (Grameen Swayamsewak Laghubitta Bittiya Sanstha Limited)",
+        "v": "4942",
+        "d": "GSLBSL"
+    },
+    {
+        "l": "WNLB (WEAN Nepal Laghubitta Bittiya Sanstha Limited)",
+        "v": "4943",
+        "d": "WNLB"
+    },
+    {
+        "l": "JACL (Janata Capital Limited)",
+        "v": "4944",
+        "d": "JACL"
+    },
+    {
+        "l": "SABSL (SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED)",
+        "v": "4945",
+        "d": "SABSL"
+    },
+    {
+        "l": "NICAD85/86 (NIC Asia Debenture 2085/86)",
+        "v": "4947",
+        "d": "NICAD85/86"
+    },
+    {
+        "l": "AKBSL (Adhikhola Laghubitta Bittiya Sanstha Limited)",
+        "v": "4948",
+        "d": "AKBSL"
+    },
+    {
+        "l": "KCL (Kumari Capital Limited)",
+        "v": "4949",
+        "d": "KCL"
+    },
+    {
+        "l": "NPUS (Nepal Plastic Utpadak Sangh)",
+        "v": "4950",
+        "d": "NPUS"
+    },
+    {
+        "l": "ARKS (Arks Capital Advisors Limited)",
+        "v": "4953",
+        "d": "ARKS"
+    },
+    {
+        "l": "TMDBL (Tinau Mission Development Bank Limited)",
+        "v": "4954",
+        "d": "TMDBL"
+    },
+    {
+        "l": "SAPDBL (Saptakoshi Development Bank Ltd)",
+        "v": "4955",
+        "d": "SAPDBL"
+    },
+    {
+        "l": "MNPL (M Nepal Limited)",
+        "v": "4956",
+        "d": "MNPL"
+    },
+    {
+        "l": "RUBYVALLEY (Ruby Valley Hydropower Company Limited Co)",
+        "v": "4957",
+        "d": "RUBYVALLEY"
+    },
+    {
+        "l": "Nepal Derivative (Nepal Derivative Exchange Limited)",
+        "v": "4958",
+        "d": "Nepal Derivative"
+    },
+    {
+        "l": "MNCL (Muktinath Capital Limited)",
+        "v": "4959",
+        "d": "MNCL"
+    },
+    {
+        "l": "SAMAJ (Samaj Laghubittya Bittiya Sanstha Limited)",
+        "v": "4961",
+        "d": "SAMAJ"
+    },
+    {
+        "l": "TMDBLP (Tinau Mission Development Bank Limited Promoter)",
+        "v": "4962",
+        "d": "TMDBLP"
+    },
+    {
+        "l": "BENI (Beni Hydropower Project Ltd.)",
+        "v": "4963",
+        "d": "BENI"
+    },
+    {
+        "l": "NMBMFP (NMB  Microfinance Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "4964",
+        "d": "NMBMFP"
+    },
+    {
+        "l": "NBBCL (Nepal Bangladesh Capital Limited)",
+        "v": "4965",
+        "d": "NBBCL"
+    },
+    {
+        "l": "SUNDHARA (Sundhara Securities Limited)",
+        "v": "4966",
+        "d": "SUNDHARA"
+    },
+    {
+        "l": "DLBS (Dhaulagiri Laghubitta Bittiya Sanstha Limited)",
+        "v": "4967",
+        "d": "DLBS"
+    },
+    {
+        "l": "NICBF (NIC Asia Balanced Fund)",
+        "v": "4968",
+        "d": "NICBF"
+    },
+    {
+        "l": "ONIC (Overseas Nepalese Investment Company Limited)",
+        "v": "4969",
+        "d": "ONIC"
+    },
+    {
+        "l": "ENL (Emerging Nepal Limited)",
+        "v": "4970",
+        "d": "ENL"
+    },
+    {
+        "l": "ANLB (Aatmanirbhar Laghubitta Bittiya Sanstha Limited)",
+        "v": "4971",
+        "d": "ANLB"
+    },
+    {
+        "l": "SFCLP (Samriddhi Finance Company Limited Promoter Share)",
+        "v": "4972",
+        "d": "SFCLP"
+    },
+    {
+        "l": "GRDBLP (Green Development Bank Ltd. Promoter Share)",
+        "v": "4973",
+        "d": "GRDBLP"
+    },
+    {
+        "l": "SOALTEE (Soaltee Hospitality Limited)",
+        "v": "4974",
+        "d": "SOALTEE"
+    },
+    {
+        "l": "SAURYA (Saurya Cement Limited)",
+        "v": "4975",
+        "d": "SAURYA"
+    },
+    {
+        "l": "SFCL (Samriddhi Finance Company Limited)",
+        "v": "4976",
+        "d": "SFCL"
+    },
+    {
+        "l": "RGL (Ridi Group Limited)",
+        "v": "4977",
+        "d": "RGL"
+    },
+    {
+        "l": "SYARPU (Syarpu Power Company Limited)",
+        "v": "4978",
+        "d": "SYARPU"
+    },
+    {
+        "l": "GHARELU (Gharelu Laghubitta Bittiya Sanstha Limited)",
+        "v": "4979",
+        "d": "GHARELU"
+    },
+    {
+        "l": "HCL (Himalayan Capital Limited)",
+        "v": "4980",
+        "d": "HCL"
+    },
+    {
+        "l": "SPC (Samling Power Company Limited)",
+        "v": "4981",
+        "d": "SPC"
+    },
+    {
+        "l": "MLBS (Manushi Laghubitta Bittiya Sanstha Limited)",
+        "v": "4982",
+        "d": "MLBS"
+    },
+    {
+        "l": "GBLBSP (Grameen Bikas Lagubitta Bittiya Sanstha Limited (Promoter Share))",
+        "v": "4983",
+        "d": "GBLBSP"
+    },
+    {
+        "l": "SGHC (Swet-Ganga Hydropower & Construction Limited)",
+        "v": "4984",
+        "d": "SGHC"
+    },
+    {
+        "l": "AHL (Asian Hydropower Limited)",
+        "v": "4985",
+        "d": "AHL"
+    },
+    {
+        "l": "Tanahu (Tanahu Hydropower Limited)",
+        "v": "4986",
+        "d": "Tanahu"
+    },
+    {
+        "l": "BFINL (Banking Finance and Insurance Institute of Nepal Limited)",
+        "v": "4987",
+        "d": "BFINL"
+    },
+    {
+        "l": "Karja (Karja Suchana Kendra Limited)",
+        "v": "4988",
+        "d": "Karja"
+    },
+    {
+        "l": "LOWER (Lower Erkhuwa Hydropower Company.Ltd.)",
+        "v": "4989",
+        "d": "LOWER"
+    },
+    {
+        "l": "NEPSE (Nepal Stock Exchange Limited)",
+        "v": "4990",
+        "d": "NEPSE"
+    },
+    {
+        "l": "NICAD8283 (11% NIC Asia Debenture 082/83)",
+        "v": "4991",
+        "d": "NICAD8283"
+    },
+    {
+        "l": "Surikhola (Surikhola Hydropower Limited)",
+        "v": "4992",
+        "d": "Surikhola"
+    },
+    {
+        "l": "SBLD2082 (10.50% SBL Debenture 2082)",
+        "v": "4993",
+        "d": "SBLD2082"
+    },
+    {
+        "l": "PRABHU (Prabhu Co-operative Service Limited)",
+        "v": "4994",
+        "d": "PRABHU"
+    },
+    {
+        "l": "SHALIGRAM (Shaligram Laghubitta Bittiya Sanstha Limited)",
+        "v": "4995",
+        "d": "SHALIGRAM"
+    },
+    {
+        "l": "BHDC (Bindyabasini Hydropower Development Company Limited)",
+        "v": "4997",
+        "d": "BHDC"
+    },
+    {
+        "l": "AVYAN (Aviyan Laghubitta Bittiya Sanstha Limited)",
+        "v": "4998",
+        "d": "AVYAN"
+    },
+    {
+        "l": "SOLVE (Solve Laghubitta Bittiya Sanstha Limited)",
+        "v": "4999",
+        "d": "SOLVE"
+    },
+    {
+        "l": "NMBD2085 (10% NMB DEBENTURE 2085)",
+        "v": "5000",
+        "d": "NMBD2085"
+    },
+    {
+        "l": "SRD80 (10% Sunrise Debenture 2080)",
+        "v": "5001",
+        "d": "SRD80"
+    },
+    {
+        "l": "NICD83/84 (10.25% NIC Asia Debenture 2083/84)",
+        "v": "5002",
+        "d": "NICD83/84"
+    },
+    {
+        "l": "PBLD86 (10.25% Prabhu Bank Debenture 2086)",
+        "v": "5003",
+        "d": "PBLD86"
+    },
+    {
+        "l": "SBLD83 (10.25% SBL Debenture 2083)",
+        "v": "5004",
+        "d": "SBLD83"
+    },
+    {
+        "l": "SRBLD83 (10.25% Sunrise Bank Debenture 2083)",
+        "v": "5005",
+        "d": "SRBLD83"
+    },
+    {
+        "l": "BOKD2079 (8% BOK Debenture 2079)",
+        "v": "5006",
+        "d": "BOKD2079"
+    },
+    {
+        "l": "EBLD2078 (8% EBL Debenture 2078)",
+        "v": "5007",
+        "d": "EBLD2078"
+    },
+    {
+        "l": "SFMF (Sunrise First Mutual Fund)",
+        "v": "5008",
+        "d": "SFMF"
+    },
+    {
+        "l": "NAVIKARAN (Navikarana Laghubitta Bittiya Sanstha Limited)",
+        "v": "5009",
+        "d": "NAVIKARAN"
+    },
+    {
+        "l": "HDHPC (Himal Dolakha Hydropower Company Limited)",
+        "v": "5010",
+        "d": "HDHPC"
+    },
+    {
+        "l": "LUK (Laxmi unnati Kosh)",
+        "v": "5011",
+        "d": "LUK"
+    },
+    {
+        "l": "JALPA (Jalpa Samudayik Laghubitta Bittiya Sanstha Limited)",
+        "v": "5012",
+        "d": "JALPA"
+    },
+    {
+        "l": "LBLD (10% Laxmi Bank Limited)",
+        "v": "5013",
+        "d": "LBLD"
+    },
+    {
+        "l": "KBLD (10.25% Kumari Bank Limited)",
+        "v": "5014",
+        "d": "KBLD"
+    },
+    {
+        "l": "MHCL (Molung Hydropower Company Limited)",
+        "v": "5015",
+        "d": "MHCL"
+    },
+    {
+        "l": "Nepal Ban (Nepal Ban Nigam Limited)",
+        "v": "5016",
+        "d": "Nepal Ban"
+    },
+    {
+        "l": "NJPBL (Nepal Jalvidhyut Prabardhan Tatha Bikas Limited)",
+        "v": "5017",
+        "d": "NJPBL"
+    },
+    {
+        "l": "SDESIP (Swadeshi Laghubitta Bittiya Sanstha Ltd Promoter Share)",
+        "v": "5018",
+        "d": "SDESIP"
+    },
+    {
+        "l": "ACLBSL (Aarambha Chautari Laghubitta Bittiya Sanstha Limited)",
+        "v": "5019",
+        "d": "ACLBSL"
+    },
+    {
+        "l": "NIBD2082 (10.5% Nepal Investment Debenture 2082)",
+        "v": "5022",
+        "d": "NIBD2082"
+    },
+    {
+        "l": "NAVA KIRAN (Nava Kiran Laghubitta Bittiya Sanstha Limited)",
+        "v": "5023",
+        "d": "NAVA KIRAN"
+    },
+    {
+        "l": "NRN (NRN Infrastructure and Development Limited)",
+        "v": "5024",
+        "d": "NRN"
+    },
+    {
+        "l": "USLB (Unnati Sahakarya Laghubitta Bittiya Sanstha Limited)",
+        "v": "5025",
+        "d": "USLB"
+    },
+    {
+        "l": "SMH (Super Mai Hydropower Limited)",
+        "v": "5027",
+        "d": "SMH"
+    },
+    {
+        "l": "KBLD86 (10.25% Kumari Bank Debenture 2086)",
+        "v": "5028",
+        "d": "KBLD86"
+    },
+    {
+        "l": "L (L)",
+        "v": "5029",
+        "d": "L"
+    },
+    {
+        "l": "SBIBD86 (10% Nepal SBI Bank Debenture 2086)",
+        "v": "5030",
+        "d": "SBIBD86"
+    },
+    {
+        "l": "RFPL (River Falls Power Limited)",
+        "v": "5032",
+        "d": "RFPL"
+    },
+    {
+        "l": "GBD80/81 (10.25% Global IME Bank Limited Debenture 2080/81)",
+        "v": "5033",
+        "d": "GBD80/81"
+    },
+    {
+        "l": "CHDC (CEDB Hydropower Development Company Limited)",
+        "v": "5034",
+        "d": "CHDC"
+    },
+    {
+        "l": "MCL (Machhapuchhre Capital Limited)",
+        "v": "5035",
+        "d": "MCL"
+    },
+    {
+        "l": "NSLB (Naya Sarathi Laghubitta Bittiya Sanstha Limited)",
+        "v": "5036",
+        "d": "NSLB"
+    },
+    {
+        "l": "PBLD84 (10% Prabhu Bank Debenture 2084)",
+        "v": "5037",
+        "d": "PBLD84"
+    },
+    {
+        "l": "SLBSP (Suryodaya Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5038",
+        "d": "SLBSP"
+    },
+    {
+        "l": "SLBSP (Suryodaya Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5039",
+        "d": "SLBSP"
+    },
+    {
+        "l": "AKBSLP (ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE)",
+        "v": "5040",
+        "d": "AKBSLP"
+    },
+    {
+        "l": "SAPDBLP (Saptakoshi Development Bank Ltd Promoter Share)",
+        "v": "5041",
+        "d": "SAPDBLP"
+    },
+    {
+        "l": "NADDF (Nic Asia Dynamic Debt Fund)",
+        "v": "5042",
+        "d": "NADDF"
+    },
+    {
+        "l": "BOKD2086 (8.5% Bank of Kathmadu Limited 2086)",
+        "v": "5043",
+        "d": "BOKD2086"
+    },
+    {
+        "l": "HBLD83 (10% Himalayan Bank Debenture 2083)",
+        "v": "5044",
+        "d": "HBLD83"
+    },
+    {
+        "l": "RSDCP (RSDC Laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "5045",
+        "d": "RSDCP"
+    },
+    {
+        "l": "BOKD86 (8.5% BOK Debenture 2086)",
+        "v": "5048",
+        "d": "BOKD86"
+    },
+    {
+        "l": "MEN (Mountain Energy Nepal Limited)",
+        "v": "5049",
+        "d": "MEN"
+    },
+    {
+        "l": "UHEWA (Upper Hewakhola Hydropower Company Limited)",
+        "v": "5050",
+        "d": "UHEWA"
+    },
+    {
+        "l": "HHL (Himalayan Hydropower Limited)",
+        "v": "5051",
+        "d": "HHL"
+    },
+    {
+        "l": "UMRH (United IDI Mardi RB Hydropower Limited.)",
+        "v": "5052",
+        "d": "UMRH"
+    },
+    {
+        "l": "CYCL (CYC Nepal Laghubitta Bittiya Sanstha Limited)",
+        "v": "5053",
+        "d": "CYCL"
+    },
+    {
+        "l": "PLI (Prabhu Life Insurance Limited)",
+        "v": "5055",
+        "d": "PLI"
+    },
+    {
+        "l": "NICAD8182 (9% NIC Asia Debenture 2081/82)",
+        "v": "5056",
+        "d": "NICAD8182"
+    },
+    {
+        "l": "KLBSL (Kisan Lagubitta Bittiya Sanstha Limited)",
+        "v": "5057",
+        "d": "KLBSL"
+    },
+    {
+        "l": "ACL (Aakash Capital Limited)",
+        "v": "5058",
+        "d": "ACL"
+    },
+    {
+        "l": "SLCF (Sanima Large Cap Fund)",
+        "v": "5059",
+        "d": "SLCF"
+    },
+    {
+        "l": "SARBTM (Sarbottam Cement Limited)",
+        "v": "5060",
+        "d": "SARBTM"
+    },
+    {
+        "l": "BOKCML (BOK Capital Market Limited)",
+        "v": "5061",
+        "d": "BOKCML"
+    },
+    {
+        "l": "NIBD2084 (8.5% Nepal Investment Bank Bond)",
+        "v": "5062",
+        "d": "NIBD2084"
+    },
+    {
+        "l": "KSBBLD87 (9% Kamana Sewa Bikas Bank Limited Debenture 2087)",
+        "v": "5064",
+        "d": "KSBBLD87"
+    },
+    {
+        "l": "ICFCD83 (12% ICFC Finance Limited Debenture 2083)",
+        "v": "5065",
+        "d": "ICFCD83"
+    },
+    {
+        "l": "CGH (Chandragiri Hills Limited)",
+        "v": "5066",
+        "d": "CGH"
+    },
+    {
+        "l": "9%CSB2082 (Nepal Rastra Bank Nagarik Bachatpatra 2082 Ka)",
+        "v": "5067",
+        "d": "9%CSB2082"
+    },
+    {
+        "l": "NMFBSP (National Laghubitta Bittiya Sanstha Ltd. Promoter)",
+        "v": "5068",
+        "d": "NMFBSP"
+    },
+    {
+        "l": "GWFD83 (12% Goodwill finance Debenture 2083)",
+        "v": "5069",
+        "d": "GWFD83"
+    },
+    {
+        "l": "FOWADP (Forward Community Microfinance Bittiya Sanstha Ltd Promoter Share)",
+        "v": "5070",
+        "d": "FOWADP"
+    },
+    {
+        "l": "KEF (Kumari Equity Fund)",
+        "v": "5071",
+        "d": "KEF"
+    },
+    {
+        "l": "NRBBR2085Gha (Bikash Rinpatra 2085 Gha)",
+        "v": "5072",
+        "d": "NRBBR2085Gha"
+    },
+    {
+        "l": "PBD85 (8.75% Prime Commercial Bank Debenture 2085)",
+        "v": "5073",
+        "d": "PBD85"
+    },
+    {
+        "l": "SBCF (Sunrise Bluechip Fund)",
+        "v": "5074",
+        "d": "SBCF"
+    },
+    {
+        "l": "GBILD86/87 (8.5% Global IME Bank Limited Debenture 2086/87)",
+        "v": "5075",
+        "d": "GBILD86/87"
+    },
+    {
+        "l": "NBBD2085 (10.25% NBB Debenture 2085)",
+        "v": "5076",
+        "d": "NBBD2085"
+    },
+    {
+        "l": "SIKLES (Sikles Hydropower Limited)",
+        "v": "5077",
+        "d": "SIKLES"
+    },
+    {
+        "l": "9.50%NCCR2086 (Nepal Credit and Commerce Bank Limited)",
+        "v": "5078",
+        "d": "9.50%NCCR2086"
+    },
+    {
+        "l": "MSLBP (Mahuli Laghubitta Bittiya Sanstha Ltd Promoter)",
+        "v": "5079",
+        "d": "MSLBP"
+    },
+    {
+        "l": "MEL (Modi Energy Limited)",
+        "v": "5080",
+        "d": "MEL"
+    },
+    {
+        "l": "BPW (BPW Laghubitta Bittiya Sanstha Limited)",
+        "v": "5081",
+        "d": "BPW"
+    },
+    {
+        "l": "SHDCL (Shiwani Hydropower Company Pvt. Ltd.)",
+        "v": "5082",
+        "d": "SHDCL"
+    },
+    {
+        "l": "NSDCL (Nagarik Stock Dealer Company Ltd..)",
+        "v": "5083",
+        "d": "NSDCL"
+    },
+    {
+        "l": "RVHPL (Rubi Valley Hydropower Company Limited)",
+        "v": "5085",
+        "d": "RVHPL"
+    },
+    {
+        "l": "HLBSLP (Himalayan Laghubitta Bittiya Sanstha Promoter)",
+        "v": "5086",
+        "d": "HLBSLP"
+    },
+    {
+        "l": "NIBSF2 (NIBL Samriddhi Fund 2)",
+        "v": "5087",
+        "d": "NIBSF2"
+    },
+    {
+        "l": "MFLD85 (9.5% Manjushree Finance Limited Debenture 2085)",
+        "v": "5088",
+        "d": "MFLD85"
+    },
+    {
+        "l": "NBR2087 (8.5% Nepal Bank Rinpatra 2087)",
+        "v": "5089",
+        "d": "NBR2087"
+    },
+    {
+        "l": "MEROPO (Meromicrofinance Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5090",
+        "d": "MEROPO"
+    },
+    {
+        "l": "MBLD2085 (10.25% Machhapuchhre Bank Debenture 2085)",
+        "v": "5091",
+        "d": "MBLD2085"
+    },
+    {
+        "l": "LBLD86 (10% Laxmi Bank Debenture 2086)",
+        "v": "5092",
+        "d": "LBLD86"
+    },
+    {
+        "l": "ADBLD83 (10.35% Agricultural Bank Debenture 2083)",
+        "v": "5093",
+        "d": "ADBLD83"
+    },
+    {
+        "l": "SNLBPO (Sarathi Nepal Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5094",
+        "d": "SNLBPO"
+    },
+    {
+        "l": "RURU (Ru Ru Jalbidhyut Pariyojana Limited)",
+        "v": "5096",
+        "d": "RURU"
+    },
+    {
+        "l": "NMBD87/88 (8.50% NMB Rinpatra 2087/88)",
+        "v": "5097",
+        "d": "NMBD87/88"
+    },
+    {
+        "l": "PSF (Prabhu Select Fund)",
+        "v": "5098",
+        "d": "PSF"
+    },
+    {
+        "l": "DEURALI (Deurali Laghubitta Bittiya Sanstha Limited)",
+        "v": "5099",
+        "d": "DEURALI"
+    },
+    {
+        "l": "PBLD87 (8.5% Prabhu Bank Debenture 2087)",
+        "v": "5100",
+        "d": "PBLD87"
+    },
+    {
+        "l": "NMBEB92/93 (4% NMB Urja Rinpatra (Energy Bond) 2092/93)",
+        "v": "5101",
+        "d": "NMBEB92/93"
+    },
+    {
+        "l": "9%CSB2083 (Nepal Rastra Bank Nagarik Bachatpatra 2083 (5 Years))",
+        "v": "5103",
+        "d": "9%CSB2083"
+    },
+    {
+        "l": "NRBBR2083Gha (Nepal Rastra Bank Bikash Rinpatra 2083 Gha)",
+        "v": "5104",
+        "d": "NRBBR2083Gha"
+    },
+    {
+        "l": "NBLD82 (10% Nabil Debenture 2082)",
+        "v": "5105",
+        "d": "NBLD82"
+    },
+    {
+        "l": "RBBD83 (8.5% RBBL Debenture 2083)",
+        "v": "5106",
+        "d": "RBBD83"
+    },
+    {
+        "l": "SBD87 (8.5% Sanima Debenture 2087)",
+        "v": "5107",
+        "d": "SBD87"
+    },
+    {
+        "l": "SBLD84 (8.5% SBL Debenture 2084)",
+        "v": "5108",
+        "d": "SBLD84"
+    },
+    {
+        "l": "SDBD87 (9% Shangri-la Development Bank Debenture 2087)",
+        "v": "5110",
+        "d": "SDBD87"
+    },
+    {
+        "l": "NICD88 (8.5% NIC Asia Rinpatra 2088)",
+        "v": "5111",
+        "d": "NICD88"
+    },
+    {
+        "l": "NICSF (NIC Asia Select - 30 (Index Fund))",
+        "v": "5112",
+        "d": "NICSF"
+    },
+    {
+        "l": "SSIS (Siddhartha Systematic Investment Scheme)",
+        "v": "5113",
+        "d": "SSIS"
+    },
+    {
+        "l": "SUPER (Super Laghubitta Bittiya Sanstha Limited)",
+        "v": "5114",
+        "d": "SUPER"
+    },
+    {
+        "l": "PCMCPL (Prudential Capital Management Co. Pvt. Ltd.)",
+        "v": "5115",
+        "d": "PCMCPL"
+    },
+    {
+        "l": "JBBD87 (Jyoti Bikash Bank Bond 2087)",
+        "v": "5117",
+        "d": "JBBD87"
+    },
+    {
+        "l": "RMF1 (RBB Mutual Fund 1)",
+        "v": "5118",
+        "d": "RMF1"
+    },
+    {
+        "l": "LBLD88 (8.5% Laxmi Bank Debenture 2088)",
+        "v": "5119",
+        "d": "LBLD88"
+    },
+    {
+        "l": "MBLD87 (8.50% Machhapuchchhre Debenture 2087)",
+        "v": "5120",
+        "d": "MBLD87"
+    },
+    {
+        "l": "MND84/85 (8.75% Muktinath Debenture/Rinpatra 2084/85)",
+        "v": "5121",
+        "d": "MND84/85"
+    },
+    {
+        "l": "KLBSLP (Kisan Lagubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5122",
+        "d": "KLBSLP"
+    },
+    {
+        "l": "NBLD85 (8% Nabil Debenture 2085)",
+        "v": "5123",
+        "d": "NBLD85"
+    },
+    {
+        "l": "MAKAR (Makar Jitumaya Suri Hydropower Limited)",
+        "v": "5124",
+        "d": "MAKAR"
+    },
+    {
+        "l": "NCCD86 (9.5% NCC Debenture 2086)",
+        "v": "5125",
+        "d": "NCCD86"
+    },
+    {
+        "l": "MMF1 (Mega Mutual Fund-1)",
+        "v": "5126",
+        "d": "MMF1"
+    },
+    {
+        "l": "NMBSBFE (NMB Saral Bachat Fund-E)",
+        "v": "5130",
+        "d": "NMBSBFE"
+    },
+    {
+        "l": "HIDCLP (Hydroelectricity Investment and Development Company Limited Promoter Share)",
+        "v": "5132",
+        "d": "HIDCLP"
+    },
+    {
+        "l": "HRL (Himalayan Reinsurance Limited)",
+        "v": "5134",
+        "d": "HRL"
+    },
+    {
+        "l": "MPCMBL (Market Pandit Capital And Merchant Banking Limited)",
+        "v": "5135",
+        "d": "MPCMBL"
+    },
+    {
+        "l": "DHEL (DaramKhola Hydro Energy Limited)",
+        "v": "5136",
+        "d": "DHEL"
+    },
+    {
+        "l": "NilgiriKhola (Nilgiri Khola Hydropower Company Limited)",
+        "v": "5137",
+        "d": "NilgiriKhola"
+    },
+    {
+        "l": "SMBPO (Support Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5139",
+        "d": "SMBPO"
+    },
+    {
+        "l": "M (M)",
+        "v": "5140",
+        "d": "M"
+    },
+    {
+        "l": "NBF3 (Nabil Balanced Fund-3)",
+        "v": "5141",
+        "d": "NBF3"
+    },
+    {
+        "l": "GBBD85 (Garima Debenture, 2085)",
+        "v": "5142",
+        "d": "GBBD85"
+    },
+    {
+        "l": "NIBD84 (8.5% Nepal Investment Bank Debenture 2084)",
+        "v": "5143",
+        "d": "NIBD84"
+    },
+    {
+        "l": "NICLBSLP (NIC ASIA Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5144",
+        "d": "NICLBSLP"
+    },
+    {
+        "l": "CBLD88 (Civil Bank Debenture 2088)",
+        "v": "5145",
+        "d": "CBLD88"
+    },
+    {
+        "l": "NABBCP (Narayani Development Bank Limited Promoter)",
+        "v": "5146",
+        "d": "NABBCP"
+    },
+    {
+        "l": "SMJC (Sagarmatha Jalabidhyut Company Limited)",
+        "v": "5147",
+        "d": "SMJC"
+    },
+    {
+        "l": "MKHL (Mai Khola Hydropower Limited)",
+        "v": "5148",
+        "d": "MKHL"
+    },
+    {
+        "l": "KLBS (Khaptad Laghubitta Bittiya Sanstha Limited)",
+        "v": "5149",
+        "d": "KLBS"
+    },
+    {
+        "l": "1O1 (One O One Company Limited)",
+        "v": "5151",
+        "d": "1O1"
+    },
+    {
+        "l": "MJBCL (Modi Jal Bidhyut Company Limited)",
+        "v": "5152",
+        "d": "MJBCL"
+    },
+    {
+        "l": "NPEL (Nepal Power Exchange Limited)",
+        "v": "5153",
+        "d": "NPEL"
+    },
+    {
+        "l": "Nalgad (Nalgad Hydropower Company Limited)",
+        "v": "5154",
+        "d": "Nalgad"
+    },
+    {
+        "l": "HPHL (Him Parpat Hydropower Limited)",
+        "v": "5155",
+        "d": "HPHL"
+    },
+    {
+        "l": "CKHL (Chirkhwa Hydropower Limited)",
+        "v": "5156",
+        "d": "CKHL"
+    },
+    {
+        "l": "GPDL (Gaurishankar Power Development Limited)",
+        "v": "5157",
+        "d": "GPDL"
+    },
+    {
+        "l": "AMHL (Apex Makalu Hydropower Limited)",
+        "v": "5158",
+        "d": "AMHL"
+    },
+    {
+        "l": "MMKJL (Mathillo Mailun Khola Jalvidhyut Limited)",
+        "v": "5159",
+        "d": "MMKJL"
+    },
+    {
+        "l": "Tamakoshi (Tamakoshi Jal Vidhyut Company Limited)",
+        "v": "5160",
+        "d": "Tamakoshi"
+    },
+    {
+        "l": "Salleri (Salleri Chhylsa Vidyut Company Limited)",
+        "v": "5161",
+        "d": "Salleri"
+    },
+    {
+        "l": "SBHL (Sindhu Bhotekoshi Hydropower Limited)",
+        "v": "5162",
+        "d": "SBHL"
+    },
+    {
+        "l": "PEL (Peoples Energy Limited)",
+        "v": "5163",
+        "d": "PEL"
+    },
+    {
+        "l": "Electric (Electric Energy Consumption Company Limited)",
+        "v": "5164",
+        "d": "Electric"
+    },
+    {
+        "l": "JBLBP (Jeevan Bikas Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5165",
+        "d": "JBLBP"
+    },
+    {
+        "l": "UttarGanga (Uttar Ganga Power Company Limited)",
+        "v": "5166",
+        "d": "UttarGanga"
+    },
+    {
+        "l": "DOLTI (Dolti Power Company Limited)",
+        "v": "5167",
+        "d": "DOLTI"
+    },
+    {
+        "l": "NSLBP (Naya Sarathi Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5168",
+        "d": "NSLBP"
+    },
+    {
+        "l": "EBLD86 (8.5% of Everest Bank Limited Debenture 2086)",
+        "v": "5169",
+        "d": "EBLD86"
+    },
+    {
+        "l": "CORBLPO (Corporate Development Bank Ltd. Promoter Share)",
+        "v": "5170",
+        "d": "CORBLPO"
+    },
+    {
+        "l": "BHL (Balephi Hydropower Limited)",
+        "v": "5171",
+        "d": "BHL"
+    },
+    {
+        "l": "GVL (Green Ventures Limited)",
+        "v": "5172",
+        "d": "GVL"
+    },
+    {
+        "l": "ACLBSLP (Aarambha Chautari Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5173",
+        "d": "ACLBSLP"
+    },
+    {
+        "l": "HFSL (Hulas Fin Serve Limited)",
+        "v": "5174",
+        "d": "HFSL"
+    },
+    {
+        "l": "ABSAR (Absar Equity Limited)",
+        "v": "5175",
+        "d": "ABSAR"
+    },
+    {
+        "l": "CSB2083KA (Nagarik Bachatpatra 2083 Ka)",
+        "v": "5176",
+        "d": "CSB2083KA"
+    },
+    {
+        "l": "ALBSLP (Asha Laghubitta Bittiya Sanstha Ltd Promoter Share)",
+        "v": "5177",
+        "d": "ALBSLP"
+    },
+    {
+        "l": "PBD88 (10% Prime Debenture 2088)",
+        "v": "5178",
+        "d": "PBD88"
+    },
+    {
+        "l": "NAASA (Naasa Hydropower Limited)",
+        "v": "5179",
+        "d": "NAASA"
+    },
+    {
+        "l": "GCL (Garima Capital Limited)",
+        "v": "5180",
+        "d": "GCL"
+    },
+    {
+        "l": "NBLD87 (8.5% Nepal Bank Debenture 2087)",
+        "v": "5182",
+        "d": "NBLD87"
+    },
+    {
+        "l": "NMBUR93/94 (4% NMB Urja Rinpatra (Energy Bond II) 4%-2093/94)",
+        "v": "5183",
+        "d": "NMBUR93/94"
+    },
+    {
+        "l": "KCLDL (K.C.L. Developers Limited)",
+        "v": "5184",
+        "d": "KCLDL"
+    },
+    {
+        "l": "CCBD88 (Century Debenture 2088)",
+        "v": "5185",
+        "d": "CCBD88"
+    },
+    {
+        "l": "NCCBRF (NCC Bank Retirement Fund)",
+        "v": "5186",
+        "d": "NCCBRF"
+    },
+    {
+        "l": "SWMF (Suryodaya Womi Laghubitta Bittiya Sanstha Limited)",
+        "v": "5187",
+        "d": "SWMF"
+    },
+    {
+        "l": "AICL (Aadishakti Investment Company Limited)",
+        "v": "5188",
+        "d": "AICL"
+    },
+    {
+        "l": "KDBY (Kumari Dhanabriddhi Yojana)",
+        "v": "5189",
+        "d": "KDBY"
+    },
+    {
+        "l": "MSHL (Mid-Solu Hydropower Limited)",
+        "v": "5190",
+        "d": "MSHL"
+    },
+    {
+        "l": "NICFC (NIC ASIA Flexi CAP Fund)",
+        "v": "5191",
+        "d": "NICFC"
+    },
+    {
+        "l": "CSB2084 (Nagarik Bachatpatra 2084)",
+        "v": "5192",
+        "d": "CSB2084"
+    },
+    {
+        "l": "MLILPO (Mahalaxmi Life Insurance Limited Promoter Share)",
+        "v": "5193",
+        "d": "MLILPO"
+    },
+    {
+        "l": "BRB2084 (12.50% Baideshik Rojgar Bachatpatra 2084)",
+        "v": "5194",
+        "d": "BRB2084"
+    },
+    {
+        "l": "PBD84 (10.15% Prime Debenture 2084)",
+        "v": "5195",
+        "d": "PBD84"
+    },
+    {
+        "l": "Bungal (Bungal Hydro Limited)",
+        "v": "5196",
+        "d": "Bungal"
+    },
+    {
+        "l": "Sanigaad (Sanigad Hydro Limited)",
+        "v": "5197",
+        "d": "Sanigaad"
+    },
+    {
+        "l": "Kalanga (Kalanga Hydro Limited)",
+        "v": "5198",
+        "d": "Kalanga"
+    },
+    {
+        "l": "UNMHL (Union Mewa Hydro Limited)",
+        "v": "5199",
+        "d": "UNMHL"
+    },
+    {
+        "l": "SMICL (S.M. Investment Company Limited)",
+        "v": "5200",
+        "d": "SMICL"
+    },
+    {
+        "l": "SMFBSP (Swabhimaan Laghubitta Bittiya sanstha Limited)",
+        "v": "5201",
+        "d": "SMFBSP"
+    },
+    {
+        "l": "ILBSP (Infinity Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5202",
+        "d": "ILBSP"
+    },
+    {
+        "l": "SBLD89 (10.75% SBL Debenture 2089)",
+        "v": "5203",
+        "d": "SBLD89"
+    },
+    {
+        "l": "SBD89 (10.25% Sanima Debenture 2089)",
+        "v": "5204",
+        "d": "SBD89"
+    },
+    {
+        "l": "SMATAP (Samata Gharelu Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5205",
+        "d": "SMATAP"
+    },
+    {
+        "l": "GIBF1 (Global IME Balanced Fund-1)",
+        "v": "5206",
+        "d": "GIBF1"
+    },
+    {
+        "l": "RSML (Reliance Spinning Mills Limited)",
+        "v": "5207",
+        "d": "RSML"
+    },
+    {
+        "l": "SBIR83 (Nepal SBI Bank Rinpatra, 2083)",
+        "v": "5208",
+        "d": "SBIR83"
+    },
+    {
+        "l": "BJLBSL (Buddha Jyoti Laghubitta Bittiya Sanstha Limited)",
+        "v": "5210",
+        "d": "BJLBSL"
+    },
+    {
+        "l": "SONA (Sonapur Minerals and Oil Limited)",
+        "v": "5211",
+        "d": "SONA"
+    },
+    {
+        "l": "GILBPO (Global IME Laghubitta Bittiya Sanstha Ltd. Promoter Share)",
+        "v": "5212",
+        "d": "GILBPO"
+    },
+    {
+        "l": "HEI (Himalayan Everest Insurance Limited)",
+        "v": "5213",
+        "d": "HEI"
+    },
+    {
+        "l": "TAKSAR (Taksar Pikhuwa Khola Hydropower Limited)",
+        "v": "5214",
+        "d": "TAKSAR"
+    },
+    {
+        "l": "EBLD85 (10.50% Everest Bank Limited Debenture 2085)",
+        "v": "5215",
+        "d": "EBLD85"
+    },
+    {
+        "l": "SLK (Shubha Laxmi Kosh)",
+        "v": "5216",
+        "d": "SLK"
+    },
+    {
+        "l": "NSIF2 (NMB Sulav Investment Fund - 2)",
+        "v": "5217",
+        "d": "NSIF2"
+    },
+    {
+        "l": "FRBL (Federal Re-Insurance Brokers Limited)",
+        "v": "5218",
+        "d": "FRBL"
+    },
+    {
+        "l": "RIDI (Ridi Power Company Limited)",
+        "v": "5219",
+        "d": "RIDI"
+    },
+    {
+        "l": "BOKD86KA (BOK Debenture 2086 \"KA\")",
+        "v": "5220",
+        "d": "BOKD86KA"
+    },
+    {
+        "l": "SABSLPO (SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED PROMOTER SHARE)",
+        "v": "5223",
+        "d": "SABSLPO"
+    },
+    {
+        "l": "HIMSTAR (Him Star Urja Company Limited)",
+        "v": "5224",
+        "d": "HIMSTAR"
+    },
+    {
+        "l": "SWMFPO (Suryodaya Womi Laghubitta Bittiya Sanstha Limited Promoter)",
+        "v": "5225",
+        "d": "SWMFPO"
+    },
+    {
+        "l": "HBLD86 (Himalayan Bank Limited Bond, 2086)",
+        "v": "5226",
+        "d": "HBLD86"
+    },
+    {
+        "l": "KBLD89 (11% KBL Debenture 2089)",
+        "v": "5227",
+        "d": "KBLD89"
+    },
+    {
+        "l": "SEEL (Seed Energy Limited)",
+        "v": "5229",
+        "d": "SEEL"
+    },
+    {
+        "l": "USLBP (Unnati Sahakarya Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5230",
+        "d": "USLBP"
+    },
+    {
+        "l": "POWERTRADE (Power Trade & Energy Exchange Limited)",
+        "v": "5231",
+        "d": "POWERTRADE"
+    },
+    {
+        "l": "HEIP (Himalayan Everest Insurance Limited Promoter)",
+        "v": "5232",
+        "d": "HEIP"
+    },
+    {
+        "l": "SNLB (Sarathi Laghubitta Bittiya Sanstha Limited)",
+        "v": "5234",
+        "d": "SNLB"
+    },
+    {
+        "l": "HIFL (Himalayan Infrastructure Fund Limited)",
+        "v": "5235",
+        "d": "HIFL"
+    },
+    {
+        "l": "MEHL (Manakamana Engineering Hydropower Limited)",
+        "v": "5236",
+        "d": "MEHL"
+    },
+    {
+        "l": "CLIP (Citizen Life Insurance Company Limited Promoter Share)",
+        "v": "5237",
+        "d": "CLIP"
+    },
+    {
+        "l": "MKCL (Muktinath Krishi Company Limited)",
+        "v": "5238",
+        "d": "MKCL"
+    },
+    {
+        "l": "SHHL (Shivam Holdings Limited)",
+        "v": "5239",
+        "d": "SHHL"
+    },
+    {
+        "l": "HSDL (Hathway Stock Dealer Limited)",
+        "v": "5240",
+        "d": "HSDL"
+    },
+    {
+        "l": "CBISL (CBIL Securities Limited)",
+        "v": "5241",
+        "d": "CBISL"
+    },
+    {
+        "l": "SANIMASECURITIES (Sanima Securities Limited)",
+        "v": "5242",
+        "d": "SANIMASECURITIES"
+    },
+    {
+        "l": "AVYANP (Aviyan Laghubitta Bittiya Sanstha Limited Promotor Share)",
+        "v": "5243",
+        "d": "AVYANP"
+    },
+    {
+        "l": "NICSECURITIES (NIC Asia Securities Limited)",
+        "v": "5244",
+        "d": "NICSECURITIES"
+    },
+    {
+        "l": "MSML (Mega Stock Markets Limited)",
+        "v": "5245",
+        "d": "MSML"
+    },
+    {
+        "l": "KBLSL (K.B.L. Securities Limited)",
+        "v": "5246",
+        "d": "KBLSL"
+    },
+    {
+        "l": "MSL (Machhapuchchhre Securities Limited)",
+        "v": "5247",
+        "d": "MSL"
+    },
+    {
+        "l": "GMR (GMR Upper Karnali Hydropower Limited)",
+        "v": "5248",
+        "d": "GMR"
+    },
+    {
+        "l": "SAGF (Sanima Growth Fund)",
+        "v": "5249",
+        "d": "SAGF"
+    },
+    {
+        "l": "ASIAN (Asian Capital Limited)",
+        "v": "5250",
+        "d": "ASIAN"
+    },
+    {
+        "l": "SBID83 (10.25% Nepal SBI Bank Debenture 2083)",
+        "v": "5251",
+        "d": "SBID83"
+    },
+    {
+        "l": "HRPL (Him River Power Limited)",
+        "v": "5252",
+        "d": "HRPL"
+    },
+    {
+        "l": "SGIC (Sanima GIC Insurance Limited)",
+        "v": "5253",
+        "d": "SGIC"
+    },
+    {
+        "l": "NFCF (Nabil Flexi Cap Fund)",
+        "v": "5254",
+        "d": "NFCF"
+    },
+    {
+        "l": "Apolo (Apolo Hydropower Limited)",
+        "v": "5255",
+        "d": "Apolo"
+    },
+    {
+        "l": "CHANDESWARI (Chandeswari Mahadev Khola Micro Hydro Company Ltd.)",
+        "v": "5256",
+        "d": "CHANDESWARI"
+    },
+    {
+        "l": "KARNALI (Karnali Jalsrot Limited)",
+        "v": "5257",
+        "d": "KARNALI"
+    },
+    {
+        "l": "IHL (Ingwa Hydropower Limited)",
+        "v": "5258",
+        "d": "IHL"
+    },
+    {
+        "l": "PRABHUHOLDINGS (Prabhu Holdings Limited)",
+        "v": "5259",
+        "d": "PRABHUHOLDINGS"
+    },
+    {
+        "l": "HPDHL (Hydro Holdings & Power Development Company Limited)",
+        "v": "5260",
+        "d": "HPDHL"
+    },
+    {
+        "l": "ALICE (Hotel Alice the Wonder Inn Ltd.)",
+        "v": "5261",
+        "d": "ALICE"
+    },
+    {
+        "l": "IME (IME Limited)",
+        "v": "5262",
+        "d": "IME"
+    },
+    {
+        "l": "BEEMA (Beema Lagani Company Limited)",
+        "v": "5263",
+        "d": "BEEMA"
+    },
+    {
+        "l": "TTL (Trade Tower Limited)",
+        "v": "5264",
+        "d": "TTL"
+    },
+    {
+        "l": "KDL (Kalinchowk Darshan Limited)",
+        "v": "5265",
+        "d": "KDL"
+    },
+    {
+        "l": "SMHL (Super Madi Hydropower Limited)",
+        "v": "5266",
+        "d": "SMHL"
+    },
+    {
+        "l": "CHAMPAWATI (Champawati Hydropower Ltd.)",
+        "v": "5267",
+        "d": "CHAMPAWATI"
+    },
+    {
+        "l": "MDHCL (Manakamana Daraudi Hydropower Company Limited)",
+        "v": "5268",
+        "d": "MDHCL"
+    },
+    {
+        "l": "NIFRAUR85/86 (Nifra Urja 7% -2085/86)",
+        "v": "5269",
+        "d": "NIFRAUR85/86"
+    },
+    {
+        "l": "MCHL (Menchhiyam Hydropower Limited)",
+        "v": "5270",
+        "d": "MCHL"
+    },
+    {
+        "l": "HWVHL (Himal Water Park & Village hotel Limited)",
+        "v": "5272",
+        "d": "HWVHL"
+    },
+    {
+        "l": "JHEL (Jhapa Energy Limited)",
+        "v": "5273",
+        "d": "JHEL"
+    },
+    {
+        "l": "ICRNL (Infomerics Credit Rating Nepal Limited)",
+        "v": "5274",
+        "d": "ICRNL"
+    },
+    {
+        "l": "RKDHOLDINGS (R. K. D. Holdings Limited)",
+        "v": "5275",
+        "d": "RKDHOLDINGS"
+    },
+    {
+        "l": "ONLINE (Online Securities Limited)",
+        "v": "5276",
+        "d": "ONLINE"
+    },
+    {
+        "l": "GLOBAL (Global Equity Fund Limited)",
+        "v": "5277",
+        "d": "GLOBAL"
+    },
+    {
+        "l": "AVASAR (Avasar Equity Limited)",
+        "v": "5278",
+        "d": "AVASAR"
+    },
+    {
+        "l": "NECL (NEA Engineering Company Limited)",
+        "v": "5279",
+        "d": "NECL"
+    },
+    {
+        "l": "NIBLGF (NIBL Growth Fund)",
+        "v": "5280",
+        "d": "NIBLGF"
+    },
+    {
+        "l": "VISHAL (Vishal Group Limited)",
+        "v": "5281",
+        "d": "VISHAL"
+    },
+    {
+        "l": "COL (Capital One Limited)",
+        "v": "5282",
+        "d": "COL"
+    },
+    {
+        "l": "CITY (City Hotel Limited)",
+        "v": "5284",
+        "d": "CITY"
+    },
+    {
+        "l": "KHPL (Kalinchowk Hydropower Limited)",
+        "v": "5285",
+        "d": "KHPL"
+    },
+    {
+        "l": "OBZORE (Obzore Investment Company Limited)",
+        "v": "5287",
+        "d": "OBZORE"
+    },
+    {
+        "l": "NRNDFL (N.R.N. Nepal Development Fund Ltd.)",
+        "v": "5288",
+        "d": "NRNDFL"
+    },
+    {
+        "l": "RELIABLE (Reliable Investment & Merchant Capital Limited)",
+        "v": "5289",
+        "d": "RELIABLE"
+    },
+    {
+        "l": "AIGNL (Abhiyan Investment Group of Nepal Limited)",
+        "v": "5290",
+        "d": "AIGNL"
+    },
+    {
+        "l": "UPPERARUN (Upper Arun Hydro Electric Limited)",
+        "v": "5291",
+        "d": "UPPERARUN"
+    },
+    {
+        "l": "SJLIC (SuryaJyoti Life Insurance Company Limited)",
+        "v": "5292",
+        "d": "SJLIC"
+    },
+    {
+        "l": "AKAMA (Akama Hotel Limited)",
+        "v": "5293",
+        "d": "AKAMA"
+    },
+    {
+        "l": "VISION (Vision Energy & Power Limited)",
+        "v": "5294",
+        "d": "VISION"
+    },
+    {
+        "l": "CHITWAN (Chitwan Energy Limited)",
+        "v": "5295",
+        "d": "CHITWAN"
+    },
+    {
+        "l": "BIKASH (Bikash Hydropower Company Limited)",
+        "v": "5296",
+        "d": "BIKASH"
+    },
+    {
+        "l": "SANVI (Sanvi Energy Ltd.)",
+        "v": "5297",
+        "d": "SANVI"
+    },
+    {
+        "l": "DKHL (Dhaulagiri Kalika Hydro Limited)",
+        "v": "5298",
+        "d": "DKHL"
+    },
+    {
+        "l": "STOCK (Stock Market Nepal Limited)",
+        "v": "5299",
+        "d": "STOCK"
+    },
+    {
+        "l": "NBBLSL (N.B.B.L. Securities Limited)",
+        "v": "5300",
+        "d": "NBBLSL"
+    },
+    {
+        "l": "NSDL (Nabil Stock Dealer Limited)",
+        "v": "5301",
+        "d": "NSDL"
+    },
+    {
+        "l": "RVCL (Reliable Venture Capital Limited)",
+        "v": "5302",
+        "d": "RVCL"
+    },
+    {
+        "l": "IHHL (International Himalaya Hospitality & Hotel Limited)",
+        "v": "5303",
+        "d": "IHHL"
+    },
+    {
+        "l": "EHHL (Everest Hospitality & Hotel Limited)",
+        "v": "5304",
+        "d": "EHHL"
+    },
+    {
+        "l": "NHHL (Nepal Hospitality & Hotel Limited)",
+        "v": "5305",
+        "d": "NHHL"
+    },
+    {
+        "l": "SARBOTTAM (Sarbottam Steels Limited)",
+        "v": "5306",
+        "d": "SARBOTTAM"
+    },
+    {
+        "l": "ACCORD (Accord Pharmaceuticals Ltd.)",
+        "v": "5307",
+        "d": "ACCORD"
+    },
+    {
+        "l": "SAMPANNA (Sampanna Capital and Advisory Nepal Limited)",
+        "v": "5308",
+        "d": "SAMPANNA"
+    },
+    {
+        "l": "MMHL (Middle Modi Hydropower Limited)",
+        "v": "5309",
+        "d": "MMHL"
+    },
+    {
+        "l": "MEWA (Mewa Developers Limited)",
+        "v": "5310",
+        "d": "MEWA"
+    },
+    {
+        "l": "YAMBALING (Yambaling Hydropower Limited)",
+        "v": "5311",
+        "d": "YAMBALING"
+    },
+    {
+        "l": "MDKHL (Madame Khola Hydropower Ltd.)",
+        "v": "5312",
+        "d": "MDKHL"
+    },
+    {
+        "l": "EBEB89 (Everest Bank Limited Urja Bond (Energy Bond) 2089)",
+        "v": "5313",
+        "d": "EBEB89"
+    },
+    {
+        "l": "KALIKA (Kalika Energy Ltd.)",
+        "v": "5314",
+        "d": "KALIKA"
+    },
+    {
+        "l": "SFEF (Sunrise Focused Equity Fund)",
+        "v": "5315",
+        "d": "SFEF"
+    },
+    {
+        "l": "NIMB (Nepal Investment Mega Bank Limited)",
+        "v": "5316",
+        "d": "NIMB"
+    },
+    {
+        "l": "SHPCL (Super Hewa Power Company Limited)",
+        "v": "5317",
+        "d": "SHPCL"
+    },
+    {
+        "l": "NUMBUR (Numbur Himalaya Hydropower Ltd.)",
+        "v": "5318",
+        "d": "NUMBUR"
+    },
+    {
+        "l": "PAN (Pan Himalaya Energy Ltd.)",
+        "v": "5319",
+        "d": "PAN"
+    },
+    {
+        "l": "GHAL (Global Hydropower Associate Limited)",
+        "v": "5320",
+        "d": "GHAL"
+    },
+    {
+        "l": "JHDCL (Jhyamolongma Hydropower Development Company Ltd.)",
+        "v": "5321",
+        "d": "JHDCL"
+    },
+    {
+        "l": "SCBD (10.30% Standard Chartered Bank Nepal Limited Rinpatra)",
+        "v": "5322",
+        "d": "SCBD"
+    },
+    {
+        "l": "SBID79 (8% Nepal SBI Bank Rinpatra (Debenture) 2079)",
+        "v": "5323",
+        "d": "SBID79"
+    },
+    {
+        "l": "GBILD84/85 (Global IME Bank Debenture 2084/85)",
+        "v": "5324",
+        "d": "GBILD84/85"
+    },
+    {
+        "l": "CCL (Citizens Capital Limited)",
+        "v": "5325",
+        "d": "CCL"
+    },
+    {
+        "l": "PRSF (Prabhu Smart Fund)",
+        "v": "5326",
+        "d": "PRSF"
+    },
+    {
+        "l": "OM (Om Megashree Pharmaceuticals Limited)",
+        "v": "5327",
+        "d": "OM"
+    },
+    {
+        "l": "CSB2084KA (Nagarik Bachatpatra 2084 'KA')",
+        "v": "5328",
+        "d": "CSB2084KA"
+    },
+    {
+        "l": "JDSL (Jagdamba Steels Limited)",
+        "v": "5329",
+        "d": "JDSL"
+    },
+    {
+        "l": "SHAURYA (Shaurya Cement Industries Ltd.)",
+        "v": "5330",
+        "d": "SHAURYA"
+    },
+    {
+        "l": "BRB2084KA (Baideshik Rojgar Bachatpatra 2084 'KA')",
+        "v": "5331",
+        "d": "BRB2084KA"
+    },
+    {
+        "l": "NIMBPO (Nepal Investment Mega Bank Ltd. Promoter Share)",
+        "v": "5332",
+        "d": "NIMBPO"
+    },
+    {
+        "l": "SPIL (Siddhartha Premier Insurance Limited)",
+        "v": "5333",
+        "d": "SPIL"
+    },
+    {
+        "l": "SJLICP (Suryajyoti Life Insurance Co. Ltd. Promotor Share)",
+        "v": "5334",
+        "d": "SJLICP"
+    },
+    {
+        "l": "SALICO (Sagarmatha Lumbini Insurance Co. Limited)",
+        "v": "5335",
+        "d": "SALICO"
+    },
+    {
+        "l": "GBCIL (Global Capital Investment Limited)",
+        "v": "5336",
+        "d": "GBCIL"
+    },
+    {
+        "l": "KSLY (Kumari Sunaulo Lagani Yojana)",
+        "v": "5337",
+        "d": "KSLY"
+    },
+    {
+        "l": "SIMBUWA (Simbuwa Remit Hydro Ltd.)",
+        "v": "5338",
+        "d": "SIMBUWA"
+    },
+    {
+        "l": "RAWA (Rawa Energy Development Limited)",
+        "v": "5339",
+        "d": "RAWA"
+    },
+    {
+        "l": "KANTIPUR (Kantipur Television Network Limited)",
+        "v": "5341",
+        "d": "KANTIPUR"
+    },
+    {
+        "l": "MAULA (Maula Kalika Hydropower Company Limited)",
+        "v": "5342",
+        "d": "MAULA"
+    },
+    {
+        "l": "SRLI (Sanima Reliance Life Insurance Limited)",
+        "v": "5343",
+        "d": "SRLI"
+    },
+    {
+        "l": "NMBD89/90 (NMB Debenture 10.75%-2089/2090)",
+        "v": "5344",
+        "d": "NMBD89/90"
+    },
+    {
+        "l": "SIGS3 (Siddhartha Investment Growth Scheme 3)",
+        "v": "5345",
+        "d": "SIGS3"
+    },
+    {
+        "l": "DMNL (Dish Media Network Ltd.)",
+        "v": "5346",
+        "d": "DMNL"
+    },
+    {
+        "l": "SDL (Shree Distillery Limited)",
+        "v": "5347",
+        "d": "SDL"
+    },
+    {
+        "l": "BCTL (Bandipur Cable Car and Tourism Ltd.)",
+        "v": "5348",
+        "d": "BCTL"
+    },
+    {
+        "l": "ORCHID (Orchid Holdings Ltd.)",
+        "v": "5349",
+        "d": "ORCHID"
+    },
+    {
+        "l": "PSHEIL (Prabhu Steels & Hydro Equipment Industries Limited)",
+        "v": "5350",
+        "d": "PSHEIL"
+    },
+    {
+        "l": "SPILPO (Siddhartha Premier Insurance Limited Promoter Share)",
+        "v": "5351",
+        "d": "SPILPO"
+    },
+    {
+        "l": "MLBLD89 (11% Mahalaxmi Debenture-2089)",
+        "v": "5352",
+        "d": "MLBLD89"
+    },
+    {
+        "l": "EBLE89 (Everest Bank Limited Urja Rinpatra 2089)",
+        "v": "5353",
+        "d": "EBLE89"
+    },
+    {
+        "l": "C30MF (Citizens Super 30 Mutual Fund)",
+        "v": "5354",
+        "d": "C30MF"
+    },
+    {
+        "l": "RMF2 (RBB Mutual Fund 2)",
+        "v": "5355",
+        "d": "RMF2"
+    },
+    {
+        "l": "GCIL (Ghorahi Cement Industry Limited)",
+        "v": "5356",
+        "d": "GCIL"
+    },
+    {
+        "l": "BRB2085 (Baideshik Rojgar Bachatpatra 2085)",
+        "v": "5357",
+        "d": "BRB2085"
+    },
+    {
+        "l": "UNITECH (Unitech Hydropower Company Limited)",
+        "v": "5358",
+        "d": "UNITECH"
+    },
+    {
+        "l": "BPWP (BPW Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5359",
+        "d": "BPWP"
+    },
+    {
+        "l": "ANLBP (Aatmanirbhar Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5360",
+        "d": "ANLBP"
+    },
+    {
+        "l": "NRM (Nepal Republic Media Limited)",
+        "v": "5361",
+        "d": "NRM"
+    },
+    {
+        "l": "APHOL (Apex Hospitality Limited)",
+        "v": "5362",
+        "d": "APHOL"
+    },
+    {
+        "l": "CSB2085 (Nagarik Bachatpatra 2085)",
+        "v": "5363",
+        "d": "CSB2085"
+    },
+    {
+        "l": "HLI (Himalayan Life Insurance Limited)",
+        "v": "5364",
+        "d": "HLI"
+    },
+    {
+        "l": "CSJC (Chilime Seti Jalvidyut Company)",
+        "v": "5365",
+        "d": "CSJC"
+    },
+    {
+        "l": "NMBSL (N.M.B. Securities Limited)",
+        "v": "5366",
+        "d": "NMBSL"
+    },
+    {
+        "l": "LBBLD89 (11% L.B.B.L. Debenture 2089)",
+        "v": "5367",
+        "d": "LBBLD89"
+    },
+    {
+        "l": "UAIL (United Ajod Insurance Limited)",
+        "v": "5368",
+        "d": "UAIL"
+    },
+    {
+        "l": "DJCL (Dudhkoshi Jalabidhyut Company Limited)",
+        "v": "5369",
+        "d": "DJCL"
+    },
+    {
+        "l": "ACCL (Annapurna Cable Car Limited)",
+        "v": "5370",
+        "d": "ACCL"
+    },
+    {
+        "l": "ANIDCL (All Nepal Infrastructure Development Company Limited)",
+        "v": "5371",
+        "d": "ANIDCL"
+    },
+    {
+        "l": "ULHC (Upper Lohore Khola Hydropower Company Limited)",
+        "v": "5372",
+        "d": "ULHC"
+    },
+    {
+        "l": "MIG (MIG Holdings Limited)",
+        "v": "5373",
+        "d": "MIG"
+    },
+    {
+        "l": "BGWT (Bhagawati Hydropower Development Company Ltd.)",
+        "v": "5374",
+        "d": "BGWT"
+    },
+    {
+        "l": "NIMBCL (NIMB Ace Capital Limited)",
+        "v": "5375",
+        "d": "NIMBCL"
+    },
+    {
+        "l": "PURE (Pure Energy Ltd.)",
+        "v": "5376",
+        "d": "PURE"
+    },
+    {
+        "l": "MANDU (Mandu Hydropower Ltd.)",
+        "v": "5377",
+        "d": "MANDU"
+    },
+    {
+        "l": "NIFL (Nepal Infrastructures Investment Fund Limited)",
+        "v": "5378",
+        "d": "NIFL"
+    },
+    {
+        "l": "CIZBD86 (10.25% Citizens Bank Debenture 2086)",
+        "v": "5379",
+        "d": "CIZBD86"
+    },
+    {
+        "l": "LSL (Laxmi Sunrise Bank Limited)",
+        "v": "5380",
+        "d": "LSL"
+    },
+    {
+        "l": "LVF2 (Laxmi Value Fund 2)",
+        "v": "5382",
+        "d": "LVF2"
+    },
+    {
+        "l": "PMLI (Prabhu Mahalaxmi Life Insurance Limited)",
+        "v": "5383",
+        "d": "PMLI"
+    },
+    {
+        "l": "WNLBP (Wean Nepal Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5384",
+        "d": "WNLBP"
+    },
+    {
+        "l": "HLIPO (Himalayan Life Insurance Limited Promoter Share)",
+        "v": "5386",
+        "d": "HLIPO"
+    },
+    {
+        "l": "SDLBSLP (Sadhana Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5387",
+        "d": "SDLBSLP"
+    },
+    {
+        "l": "SBIR89 (9% Nepal SBI Bank Rinpatra 2089)",
+        "v": "5388",
+        "d": "SBIR89"
+    },
+    {
+        "l": "KPCLPO (Kalika Power Company Limited Promoter Share)",
+        "v": "5389",
+        "d": "KPCLPO"
+    },
+    {
+        "l": "GUARDIAN (Guardian Micro-Life insurance)",
+        "v": "5390",
+        "d": "GUARDIAN"
+    },
+    {
+        "l": "CREST (Crest Micro Life Insurance Ltd.)",
+        "v": "5392",
+        "d": "CREST"
+    },
+    {
+        "l": "MABILUNG (Mabilung Energy Ltd.)",
+        "v": "5393",
+        "d": "MABILUNG"
+    },
+    {
+        "l": "H8020 (Himalayan 80-20)",
+        "v": "5394",
+        "d": "H8020"
+    },
+    {
+        "l": "NORTHSUMMIT (North Summit Hydro Limited)",
+        "v": "5395",
+        "d": "NORTHSUMMIT"
+    },
+    {
+        "l": "SALICOPO (Sagarmatha Lumbini Insurance Co. Limited Promoter Share)",
+        "v": "5396",
+        "d": "SALICOPO"
+    },
+    {
+        "l": "SAGAR (Sagar Distillery Limited)",
+        "v": "5397",
+        "d": "SAGAR"
+    },
+    {
+        "l": "NMIC (Nepal Micro Insurance Co. Ltd.)",
+        "v": "5398",
+        "d": "NMIC"
+    },
+    {
+        "l": "PMIL (Protective Micro Insurance Limited)",
+        "v": "5399",
+        "d": "PMIL"
+    },
+    {
+        "l": "JCL (Jyoti capital Limited)",
+        "v": "5400",
+        "d": "JCL"
+    },
+    {
+        "l": "SHIKHAR (Shikhar Power Development Limited)",
+        "v": "5401",
+        "d": "SHIKHAR"
+    },
+    {
+        "l": "MILKE (Milke Jaljale Hydropower Ltd.)",
+        "v": "5402",
+        "d": "MILKE"
+    },
+    {
+        "l": "HHEL (Hilton Hydro Energy Limited)",
+        "v": "5403",
+        "d": "HHEL"
+    },
+    {
+        "l": "SRL (Snow Rivers Limited)",
+        "v": "5404",
+        "d": "SRL"
+    },
+    {
+        "l": "VLUCL (Vision Lumbini Urja Company Limited)",
+        "v": "5405",
+        "d": "VLUCL"
+    },
+    {
+        "l": "EPCL (Electro Power Company Limited)",
+        "v": "5406",
+        "d": "EPCL"
+    },
+    {
+        "l": "LSLPO (Laxmi Sunrise Bank Limited Promoter Share)",
+        "v": "5407",
+        "d": "LSLPO"
+    },
+    {
+        "l": "NEA (Nepal Electricity Authority)",
+        "v": "5408",
+        "d": "NEA"
+    },
+    {
+        "l": "NGUBL (Nagarik Urja Butwal Limited)",
+        "v": "5409",
+        "d": "NGUBL"
+    },
+    {
+        "l": "UBHL (Upper Balephi Hydropower Limited)",
+        "v": "5410",
+        "d": "UBHL"
+    },
+    {
+        "l": "BIL (Barun Investment Limited)",
+        "v": "5411",
+        "d": "BIL"
+    },
+    {
+        "l": "KABELI (Kabeli Hydropower Company Limited)",
+        "v": "5412",
+        "d": "KABELI"
+    },
+    {
+        "l": "HAMS (Hospital For Advanced Medicine & Surgery  Limited)",
+        "v": "5413",
+        "d": "HAMS"
+    },
+    {
+        "l": "CBD90 (10% Citizens Bank Debenture 2090)",
+        "v": "5414",
+        "d": "CBD90"
+    },
+    {
+        "l": "STHL (Star Hospital Limited)",
+        "v": "5415",
+        "d": "STHL"
+    },
+    {
+        "l": "RNLIP (Reliable Nepal Life Insurance Limited Promoter)",
+        "v": "5416",
+        "d": "RNLIP"
+    },
+    {
+        "l": "SNLIP (Sun Nepal Life Insurance Company Limited promoter)",
+        "v": "5417",
+        "d": "SNLIP"
+    },
+    {
+        "l": "HTMEL (Himalayan Times Media Entertainment & Tech Ltd.)",
+        "v": "5418",
+        "d": "HTMEL"
+    },
+    {
+        "l": "SAHL (Sanima Hydropower Limited)",
+        "v": "5419",
+        "d": "SAHL"
+    },
+    {
+        "l": "NWCL (Nepal Warehousing Company Limited)",
+        "v": "5420",
+        "d": "NWCL"
+    },
+    {
+        "l": "KBLD90 (10% KBL Debenture 2090)",
+        "v": "5421",
+        "d": "KBLD90"
+    },
+    {
+        "l": "GECL (Gurans Energy Limited)",
+        "v": "5422",
+        "d": "GECL"
+    },
+    {
+        "l": "RANGOON (Rangoon Khola Hydropower Ltd.)",
+        "v": "5423",
+        "d": "RANGOON"
+    },
+    {
+        "l": "HFIL (Hotel Forest Inn Limited)",
+        "v": "5424",
+        "d": "HFIL"
+    },
+    {
+        "l": "MARUTI (Maruti Cements Limited)",
+        "v": "5425",
+        "d": "MARUTI"
+    },
+    {
+        "l": "GPL (Golyan Power Limited)",
+        "v": "5426",
+        "d": "GPL"
+    },
+    {
+        "l": "PSML (Prabhu Stock Market Limited)",
+        "v": "5427",
+        "d": "PSML"
+    },
+    {
+        "l": "AEL (Aashutosh Energy Limited)",
+        "v": "5428",
+        "d": "AEL"
+    },
+    {
+        "l": "ELITE (Elite Merchant Capital Limited)",
+        "v": "5429",
+        "d": "ELITE"
+    },
+    {
+        "l": "BGIL (Business Interest Group of Industries Limited)",
+        "v": "5430",
+        "d": "BGIL"
+    },
+    {
+        "l": "NICGF2 (NIC Asia Growth Fund-2)",
+        "v": "5431",
+        "d": "NICGF2"
+    },
+    {
+        "l": "SUL (Samyukta Urja Limited)",
+        "v": "5432",
+        "d": "SUL"
+    },
+    {
+        "l": "LTPT (Laxmi Techno Plast Limited)",
+        "v": "5433",
+        "d": "LTPT"
+    },
+    {
+        "l": "SHACL (Shree Alpha Capital Limited)",
+        "v": "5434",
+        "d": "SHACL"
+    },
+    {
+        "l": "NFML (National Fund Management Limited)",
+        "v": "5435",
+        "d": "NFML"
+    },
+    {
+        "l": "EVL (Emerging Venture Limited)",
+        "v": "5436",
+        "d": "EVL"
+    },
+    {
+        "l": "RJBCL (Rastriya Jeewan Beema Company Limited)",
+        "v": "5437",
+        "d": "RJBCL"
+    },
+    {
+        "l": "NIKO (Niko Energy Limited)",
+        "v": "5438",
+        "d": "NIKO"
+    },
+    {
+        "l": "CMSL (Capital Max Securities Limited)",
+        "v": "5439",
+        "d": "CMSL"
+    },
+    {
+        "l": "TKHL (Thulo Khola Hydropower Limited)",
+        "v": "5440",
+        "d": "TKHL"
+    },
+    {
+        "l": "RBBSCL (R.B.B. Securities Company Limited)",
+        "v": "5441",
+        "d": "RBBSCL"
+    },
+    {
+        "l": "CEL (Century Energy Limited)",
+        "v": "5442",
+        "d": "CEL"
+    },
+    {
+        "l": "CITPO (Citizen Investment Trust Promoter Share)",
+        "v": "5443",
+        "d": "CITPO"
+    },
+    {
+        "l": "NMBA (Nepal Microfinance Bankers' Association)",
+        "v": "5444",
+        "d": "NMBA"
+    },
+    {
+        "l": "NABILD87 (9% Nabil Debenture 2087)",
+        "v": "5445",
+        "d": "NABILD87"
+    },
+    {
+        "l": "NRICP (Nepal Reinsurance Company Limited Promoter Share)",
+        "v": "5446",
+        "d": "NRICP"
+    },
+    {
+        "l": "LHL (Lakshya Holdings Limited)",
+        "v": "5447",
+        "d": "LHL"
+    },
+    {
+        "l": "LCL (Lakshya Capital Limited)",
+        "v": "5448",
+        "d": "LCL"
+    },
+    {
+        "l": "UHCL (Unique Hydel Company Limited)",
+        "v": "5449",
+        "d": "UHCL"
+    },
+    {
+        "l": "LHJRL (Lost Horizon Jungle Resort Limited)",
+        "v": "5450",
+        "d": "LHJRL"
+    },
+    {
+        "l": "SOLAR (Solar Farm Limited)",
+        "v": "5451",
+        "d": "SOLAR"
+    },
+    {
+        "l": "NPS (Nepal Payment Solution Ltd.)",
+        "v": "5452",
+        "d": "NPS"
+    },
+    {
+        "l": "SKHL (Super Khudi Hydropower Limited)",
+        "v": "5453",
+        "d": "SKHL"
+    },
+    {
+        "l": "ASL (Ambe Steels Limited)",
+        "v": "5454",
+        "d": "ASL"
+    },
+    {
+        "l": "SNSL (Sunrise Securities Limited)",
+        "v": "5455",
+        "d": "SNSL"
+    },
+    {
+        "l": "SNJHL (Sanima Jum Hydropower Ltd.)",
+        "v": "5456",
+        "d": "SNJHL"
+    },
+    {
+        "l": "SPNL (Shaileshwori Power Nepal Ltd.)",
+        "v": "5457",
+        "d": "SPNL"
+    },
+    {
+        "l": "HHFL (Himali Hydro Fund Limited)",
+        "v": "5458",
+        "d": "HHFL"
+    },
+    {
+        "l": "ARGCL (Arghakhanchi Cement Limited)",
+        "v": "5459",
+        "d": "ARGCL"
+    },
+    {
+        "l": "AFML (Aadhyanta Fund Management Ltd)",
+        "v": "5460",
+        "d": "AFML"
+    },
+    {
+        "l": "BKHL (Budhanilkantha Heritage Limited)",
+        "v": "5461",
+        "d": "BKHL"
+    },
+    {
+        "l": "WLPL (White Lotus Power Limited)",
+        "v": "5462",
+        "d": "WLPL"
+    },
+    {
+        "l": "SHGEL (Shangrila Energy Limited)",
+        "v": "5463",
+        "d": "SHGEL"
+    },
+    {
+        "l": "TUNDI (Tundi Power Company Ltd.)",
+        "v": "5464",
+        "d": "TUNDI"
+    },
+    {
+        "l": "GLRL (Grihalakshi Realty Ltd.)",
+        "v": "5465",
+        "d": "GLRL"
+    },
+    {
+        "l": "MKCCL (Maula Kali Cable Car Limited)",
+        "v": "5466",
+        "d": "MKCCL"
+    },
+    {
+        "l": "LCCL (Lumbini Cable Car Limited)",
+        "v": "5467",
+        "d": "LCCL"
+    },
+    {
+        "l": "PAKHL (Palun Khola Hydropower Limited)",
+        "v": "5468",
+        "d": "PAKHL"
+    },
+    {
+        "l": "RSHEL (River Side Hydro Energy Limited)",
+        "v": "5469",
+        "d": "RSHEL"
+    },
+    {
+        "l": "MDHL (Medicare Hospital Limited)",
+        "v": "5470",
+        "d": "MDHL"
+    },
+    {
+        "l": "JSML (Jagdamba Spinning Mills Limited)",
+        "v": "5471",
+        "d": "JSML"
+    },
+    {
+        "l": "GSL (Garima Securities Limited)",
+        "v": "5472",
+        "d": "GSL"
+    },
+    {
+        "l": "JHGL (Jagdamba Hospitality Group Limited)",
+        "v": "5473",
+        "d": "JHGL"
+    },
+    {
+        "l": "JCIL (Jagdamba Credit & Investment Limited)",
+        "v": "5474",
+        "d": "JCIL"
+    },
+    {
+        "l": "UPMHL (Upper Myagdi Hydropower Limited)",
+        "v": "5475",
+        "d": "UPMHL"
+    },
+    {
+        "l": "LXSL (Laxmi Steels Limited)",
+        "v": "5476",
+        "d": "LXSL"
+    },
+    {
+        "l": "HVL (Hydro Village Limited)",
+        "v": "5477",
+        "d": "HVL"
+    },
+    {
+        "l": "KISAN (Kisan Holding Limited)",
+        "v": "5478",
+        "d": "KISAN"
+    },
+    {
+        "l": "SEKHL (Seti Khola Hydropower Limited)",
+        "v": "5479",
+        "d": "SEKHL"
+    },
+    {
+        "l": "PLO (Purwanchal Lube Oil Ltd.)",
+        "v": "5480",
+        "d": "PLO"
+    },
+    {
+        "l": "NJHL (Namarjun Hydropower Limited)",
+        "v": "5481",
+        "d": "NJHL"
+    },
+    {
+        "l": "HIIL (Hulas Iron Industries Limited)",
+        "v": "5482",
+        "d": "HIIL"
+    },
+    {
+        "l": "HUIL (Hulas Infra Limited)",
+        "v": "5483",
+        "d": "HUIL"
+    },
+    {
+        "l": "SBID89 (9% Nepal SBI Bank debenture 2089)",
+        "v": "5484",
+        "d": "SBID89"
+    },
+    {
+        "l": "NIBLSTF (NIBL Stable Fund)",
+        "v": "5485",
+        "d": "NIBLSTF"
+    },
+    {
+        "l": "NBCL (Nepal Broadcasting Channel Limited)",
+        "v": "5486",
+        "d": "NBCL"
+    },
+    {
+        "l": "LSCL (Laxmi Sunrise Capital Limited)",
+        "v": "5487",
+        "d": "LSCL"
+    },
+    {
+        "l": "JANATA (Janata Prasaran Tatha Prakashan Limited)",
+        "v": "5488",
+        "d": "JANATA"
+    },
+    {
+        "l": "YBL (Yeti Brewery Ltd.)",
+        "v": "5489",
+        "d": "YBL"
+    },
+    {
+        "l": "KEL (Kabeli Energy Limited)",
+        "v": "5491",
+        "d": "KEL"
+    },
+    {
+        "l": "BEL (Blue Energy Limited)",
+        "v": "5492",
+        "d": "BEL"
+    },
+    {
+        "l": "NSML (NIMB Stock Markets Limited)",
+        "v": "5493",
+        "d": "NSML"
+    },
+    {
+        "l": "SPPL (Sama Papers & Publications Limited)",
+        "v": "5494",
+        "d": "SPPL"
+    },
+    {
+        "l": "HFHPL (Hulas Fin Serve Hire Purchase Limited)",
+        "v": "5495",
+        "d": "HFHPL"
+    },
+    {
+        "l": "SHREENAGAR (Shreenagar Agritech Industries Limited)",
+        "v": "5496",
+        "d": "SHREENAGAR"
+    },
+    {
+        "l": "HPCL (Habitat Power Company Ltd)",
+        "v": "5497",
+        "d": "HPCL"
+    },
+    {
+        "l": "KSY (Kumari Sabal Yojana)",
+        "v": "5498",
+        "d": "KSY"
+    },
+    {
+        "l": "PMLIP (Prabhu Mahalaxmi Life Insurance Limited promotor)",
+        "v": "5499",
+        "d": "PMLIP"
+    },
+    {
+        "l": "NIMBD90 (10% NIMB Debenture 2090)",
+        "v": "5500",
+        "d": "NIMBD90"
+    },
+    {
+        "l": "LMLIC (Liberty Micro Life Insurance Limited)",
+        "v": "5501",
+        "d": "LMLIC"
+    },
+    {
+        "l": "SMIC (Star Micro Insurance Company Limited)",
+        "v": "5502",
+        "d": "SMIC"
+    },
+    {
+        "l": "HRLP (Himalayan Reinsurance Limited Promoter)",
+        "v": "5503",
+        "d": "HRLP"
+    },
+    {
+        "l": "EEML (Elevation Energy Management Limited)",
+        "v": "5504",
+        "d": "EEML"
+    },
+    {
+        "l": "CIHL (Civil Hydropower Limited)",
+        "v": "5505",
+        "d": "CIHL"
+    },
+    {
+        "l": "TPHSL (Thamel Plaza Hotel & Suites Limited)",
+        "v": "5506",
+        "d": "TPHSL"
+    },
+    {
+        "l": "PRL (Pashupati Renewables Limited)",
+        "v": "5507",
+        "d": "PRL"
+    },
+    {
+        "l": "UAILPO (United Ajod Insurance Limited Promoter Share)",
+        "v": "5508",
+        "d": "UAILPO"
+    },
+    {
+        "l": "NMLBBL (Nerude Mirmire Laghubitta Bittiya Sanstha Limited)",
+        "v": "5509",
+        "d": "NMLBBL"
+    },
+    {
+        "l": "JHPL (Jagdamba Hire Purchase Limited)",
+        "v": "5510",
+        "d": "JHPL"
+    },
+    {
+        "l": "CSHL (Chilime Seti Hydropower Company Limited)",
+        "v": "5511",
+        "d": "CSHL"
+    },
+    {
+        "l": "NPTCL (Nepal Power Trading Company Limited)",
+        "v": "5512",
+        "d": "NPTCL"
+    },
+    {
+        "l": "SBPHL (Sabha Pokhari Hydropower Limited)",
+        "v": "5513",
+        "d": "SBPHL"
+    },
+    {
+        "l": "GOLD (GOLD)",
+        "v": "5514",
+        "d": "GOLD"
+    },
+    {
+        "l": "PD85 (10% Prime Debenture 2085)",
+        "v": "5515",
+        "d": "PD85"
+    },
+    {
+        "l": "SBIR80 (7.9% Nepal SBI Bank Rinpatra 2080)",
+        "v": "5516",
+        "d": "SBIR80"
+    },
+    {
+        "l": "PCTL (Prabhu Cable Car & Tourism Limited)",
+        "v": "5517",
+        "d": "PCTL"
+    },
+    {
+        "l": "HSL (Himalayan Securities Limited)",
+        "v": "5518",
+        "d": "HSL"
+    },
+    {
+        "l": "UNLBP (Unique Nepal Laghubitta Bittiya Sanstha Limited Promoter)",
+        "v": "5519",
+        "d": "UNLBP"
+    },
+    {
+        "l": "SYPANEL (SY Panel Nepal Limited)",
+        "v": "5520",
+        "d": "SYPANEL"
+    },
+    {
+        "l": "IPPAN (Independent Power Producers' Association Nepal)",
+        "v": "5521",
+        "d": "IPPAN"
+    },
+    {
+        "l": "BRB2086 (Baideshik Rojgar Bachatpatra 2086)",
+        "v": "5522",
+        "d": "BRB2086"
+    },
+    {
+        "l": "EEL (Energy Engineering Limited)",
+        "v": "5523",
+        "d": "EEL"
+    },
+    {
+        "l": "TRUST (Trust Micro Insurance Limited)",
+        "v": "5524",
+        "d": "TRUST"
+    },
+    {
+        "l": "SBHPL (Super Bagmati Hydropower Limited)",
+        "v": "5525",
+        "d": "SBHPL"
+    },
+    {
+        "l": "BCL (Bhugarbha Cement Limited)",
+        "v": "5526",
+        "d": "BCL"
+    },
+    {
+        "l": "BJCL (Budhigandaki Jalbidhyut Company Limited)",
+        "v": "5527",
+        "d": "BJCL"
+    },
+    {
+        "l": "KUL (Kailpal Urja Limited)",
+        "v": "5528",
+        "d": "KUL"
+    },
+    {
+        "l": "BHUJUNG (Bhujung Hydropower Limited)",
+        "v": "5529",
+        "d": "BHUJUNG"
+    },
+    {
+        "l": "PPKHCL (Parbat Paiyu Khola Hydropower Company Limited)",
+        "v": "5530",
+        "d": "PPKHCL"
+    },
+    {
+        "l": "NIFRAP (Nepal Infrastructure Bank Limited Promoter)",
+        "v": "5531",
+        "d": "NIFRAP"
+    },
+    {
+        "l": "UMKHL (United Mewa Khola Hydropower Limited)",
+        "v": "5532",
+        "d": "UMKHL"
+    },
+    {
+        "l": "CSJCL (Chainpur Seti Jalbidhyut Company Limited)",
+        "v": "5533",
+        "d": "CSJCL"
+    },
+    {
+        "l": "KHORANGA (Khoranga Hydropower Limited)",
+        "v": "5534",
+        "d": "KHORANGA"
+    },
+    {
+        "l": "HEIL (Hotel Everest International Limited)",
+        "v": "5535",
+        "d": "HEIL"
+    },
+    {
+        "l": "MATRI (Matribhumi Laghubitta Bittiya Sanstha Limited)",
+        "v": "5536",
+        "d": "MATRI"
+    },
+    {
+        "l": "UCL (United Cements Limited)",
+        "v": "5537",
+        "d": "UCL"
+    },
+    {
+        "l": "SMPDA (Sampada Laghubitta Bittiya Sanstha Limited)",
+        "v": "5539",
+        "d": "SMPDA"
+    },
+    {
+        "l": "RSCL (Riddhi Siddhi Cement Limited)",
+        "v": "5540",
+        "d": "RSCL"
+    },
+    {
+        "l": "SGICP (Sanima GIC Insurance Limited Promoter Share)",
+        "v": "5541",
+        "d": "SGICP"
+    },
+    {
+        "l": "DPCHL (Dudhpokhari Chepe Hydropower Limited)",
+        "v": "5542",
+        "d": "DPCHL"
+    },
+    {
+        "l": "COSMIC (Cosmic Electrical Limited)",
+        "v": "5543",
+        "d": "COSMIC"
+    },
+    {
+        "l": "NCL (National Capital Limited)",
+        "v": "5544",
+        "d": "NCL"
+    },
+    {
+        "l": "APFL (Apex Funds Limited)",
+        "v": "5545",
+        "d": "APFL"
+    },
+    {
+        "l": "GHPL (Gorakshya Hydropower Limited)",
+        "v": "5546",
+        "d": "GHPL"
+    },
+    {
+        "l": "GYSHL (Ghaughar Ujyalo Sana Hydropower Company Limited)",
+        "v": "5547",
+        "d": "GYSHL"
+    },
+    {
+        "l": "SMPDAP (Sampada Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5548",
+        "d": "SMPDAP"
+    },
+    {
+        "l": "NMLBBLP (Nerude Mirmire Laghubitta Bittiya Sanstha Limited Promoter Share)",
+        "v": "5549",
+        "d": "NMLBBLP"
+    },
+    {
+        "l": "JBNLSL (JBNL Securities Limited)",
+        "v": "5550",
+        "d": "JBNLSL"
+    },
+    {
+        "l": "TIME (Time Pharmaceuticals Limited)",
+        "v": "5551",
+        "d": "TIME"
+    },
+    {
+        "l": "SLCL (Sunlife Capital Limited)",
+        "v": "5552",
+        "d": "SLCL"
+    },
+    {
+        "l": "MHPL (Mona Hydropower Limited)",
+        "v": "5553",
+        "d": "MHPL"
+    },
+    {
+        "l": "ISCL (Imperial Securities Company Limited)",
+        "v": "5554",
+        "d": "ISCL"
+    },
+    {
+        "l": "SPCL (Sajha Power Company Limited)",
+        "v": "5555",
+        "d": "SPCL"
+    },
+    {
+        "l": "SNEL (S.N. Energy Limited)",
+        "v": "5556",
+        "d": "SNEL"
+    },
+    {
+        "l": "CIZBD90 (10% Citizens Bank Debenture 2090)",
+        "v": "5557",
+        "d": "CIZBD90"
+    },
+    {
+        "l": "LCEL (L.C. Energy Limited)",
+        "v": "5558",
+        "d": "LCEL"
+    },
+    {
+        "l": "SNMAL (Sanima Limited)",
+        "v": "5559",
+        "d": "SNMAL"
+    },
+    {
+        "l": "MATRIP (Matribhumi Lagubitta Bittiya Sanstha Limited Promoter)",
+        "v": "5560",
+        "d": "MATRIP"
+    },
+    {
+        "l": "UUDL (Union Urja Developers Limited)",
+        "v": "5561",
+        "d": "UUDL"
+    },
+    {
+        "l": "NBLRF (Nabil Bank Limited Retirement Fund)",
+        "v": "5562",
+        "d": "NBLRF"
+    },
+    {
+        "l": "SF (Sanima Foundation)",
+        "v": "5563",
+        "d": "SF"
+    },
+    {
+        "l": "SKEDL (S.K. Energy Development Limited)",
+        "v": "5564",
+        "d": "SKEDL"
+    },
+    {
+        "l": "HBCL (Himalayan Brokerage Company Limited)",
+        "v": "5565",
+        "d": "HBCL"
+    },
+    {
+        "l": "ECL (Everest Colour Limited)",
+        "v": "5566",
+        "d": "ECL"
+    },
+    {
+        "l": "MIZU (Mizu Energy Limited)",
+        "v": "5567",
+        "d": "MIZU"
+    },
+    {
+        "l": "GBIMESL (Global IME Securities Limited)",
+        "v": "5568",
+        "d": "GBIMESL"
+    },
+    {
+        "l": "HSBL (Himalaya Securities Banker Limited)",
+        "v": "5569",
+        "d": "HSBL"
+    },
+    {
+        "l": "GHHL (Ganesh Himal Hydropower Limited)",
+        "v": "5570",
+        "d": "GHHL"
+    }
+]
