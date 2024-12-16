@@ -1,6 +1,3 @@
-Here's a polished version of your GitHub README content:
-
----
 
 # Pairs Trading Strategy for NEPSE
 
